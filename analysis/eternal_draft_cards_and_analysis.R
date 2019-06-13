@@ -24,7 +24,8 @@ eternal.cards <- lapply(1:4, function(x) {
   bind_rows() %>%
   mutate(draft.pack = 'yes') %>%
   select(Name, draft.pack) %>%
-  right_join(eternal.cards) 
+  right_join(eternal.cards) %>%
+  mutate(CardCode = paste0(SetNumber,"-",EternalID))
 
 #replace NA in draft.pack column with 'no'
 eternal.cards$draft.pack <- replace_na(eternal.cards$draft.pack, 'no')

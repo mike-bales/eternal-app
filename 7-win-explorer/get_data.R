@@ -2,6 +2,7 @@
 
 library(googlesheets)
 library(tidyverse)
+library(readxl)
 
 #get sheet key
 key <- extract_key_from_url('https://docs.google.com/spreadsheets/d/1dW4ALSyqTS-1DtBvhJ_ZVDtrt3DFtFxmg04A3B9YG98/edit#gid=144815197')
@@ -24,12 +25,53 @@ cards <- by(deck_sheet,1:nrow(deck_sheet), function(x){
                    DeckContributor = x$Contributor,
                    DeckWins = x$W,
                    DeckLoses = x$L) %>%
-    mutate(SetNumber = str_sub(cards,1,1),
-           EternalID = str_extract(cards,"(?<=-)\\d+"),
+    mutate(CardCode = str_sub(cards,1,5),
            Quantity = str_extract(cards, "(?<=:)\\d+")) %>%
     select(-cards)
   
   return(df)
 })
 
-all_decks <- bind_rows(cards)       
+all_decks <- bind_rows(cards)
+
+write_csv(all_decks, "./data/all_7_win_decks.csv")
+
+#Read in Ben Grasher card list
+bg_cards <- read_excel("./data/EWC Parsing Week 19.xlsx", sheet = "CardAttributes") %>%
+  rename(CardCode = `Card Code`,
+         DraftPack = `Set6 Curated`)
+
+comb.cards <- eternal.cards %>%
+  anti_join(bg_cards, by = "Name")
+#eternal.cards variables
+Name        
+CardText
+Cost
+Rarity
+Type
+ImageUrl
+UnitType
+Influence
+
+#bg_cards variables
+Name 
+Set
+CardCode
+DraftPack
+Faction
+Removal
+Unit
+Buff
+Power
+F
+T
+J
+P
+S
+Str
+Health
+ProducesF
+ProducesT
+ProducesJ
+ProducesP
+ProducesS
