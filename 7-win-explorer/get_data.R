@@ -74,17 +74,10 @@ comb.cards <- eternal.cards  %>%
 all_decks <- all_decks %>%
   left_join(comb.cards, by = "CardCode") 
 
-#function to turn list columns into strings and save as csv
-tibble_with_lists_to_csv <- function(tibble_object, file_path_name) {
-  set_lists_to_chars <- function(x) { 
-    if(class(x) == 'list') { y <- paste(unlist(x[1]), sep='', collapse=', ') } else { y <- x  } 
-    return(y) }
-  new_frame <- data.frame(lapply(tibble_object, set_lists_to_chars), stringsAsFactors = F)
-  write.csv(new_frame, file=file_path_name)
-}
+write_csv(all_decks %>% 
+            mutate(UnitType = paste(UnitType)), "./data/all_7_win_decks.csv")
 
-#write the new deck list with card attributes to a csv
-tibble_with_lists_to_csv(all_decks, "./data/all_7_win_decks.csv")
+write_csv(all_decks[1:20,]%>% 
+            mutate(UnitType = paste(UnitType)), "./data/all_7_win_decks_small.csv")
 
-tibble_with_lists_to_csv(all_decks[1:100,], "./data/all_7_win_decks_small.csv")
 
