@@ -22,17 +22,17 @@ eternal.cards <- lapply(1:4, function(x) {
     slice(2:n())
 }) %>%
   bind_rows() %>%
-  mutate(draft.pack = 'yes') %>%
+  mutate(draft.pack = TRUE) %>%
   select(Name, draft.pack) %>%
   right_join(eternal.cards) %>%
   mutate(CardCode = paste0(SetNumber,"-",EternalID))
 
 #replace NA in draft.pack column with 'no'
-eternal.cards$draft.pack <- replace_na(eternal.cards$draft.pack, 'no')
+eternal.cards$draft.pack <- replace_na(eternal.cards$draft.pack, FALSE)
 
 #create df with all draft cards (draft pack + dark frontier)
 eternal.dark.frontier.draft <- eternal.cards %>%
-  filter(SetNumber == 6 | draft.pack == 'yes')
+  filter(SetNumber == 6 | draft.pack == TRUE)
 
 
 #
