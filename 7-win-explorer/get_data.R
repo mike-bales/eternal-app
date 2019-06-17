@@ -174,10 +174,14 @@ lapply(names(faction.plot.inputs), function(i){
   plot.data$DeckID <- factor(plot.data$DeckID, levels = levs$DeckID)
   plot.data$key <- factor(plot.data$key, levels = faction.plot.inputs[i][[1]])
   
-  ggplot(plot.data, aes(fill = key, x = DeckID, y = value)) +
+  plot <- ggplot(plot.data, aes(fill = key, x = DeckID, y = value)) +
           geom_bar(stat = "identity") +
           scale_fill_manual(values=faction.colors) +
-          coord_flip()
+          coord_flip() +
+          ggtitle(sprintf("%s: Color Distribution For All 7 Win Decks",i)) +
+          ylab("Percentage of Pips") 
+  
+  ggsave(sprintf("./output/%s_faction_pct_bar_plot.png",i),plot = plot)
 }) 
 
 ridge.plot <- ggplot(deck.factions, aes(y = FactionRank)) +
@@ -189,4 +193,5 @@ ridge.plot <- ggplot(deck.factions, aes(y = FactionRank)) +
   theme_minimal()
 
 ridge.plots.by.faction <- ridge.plot +
-  facet_wrap(~ DeckFaction)
+  facet_wrap(~ GroupedDeckFaction)
+ridge.plots.by.faction
