@@ -1,0 +1,13 @@
+name: eternal-7-win-card-explorer
+title: eternal-7-win-card-explorer
+username:
+account: mike-bales
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 987445
+bundleId: 2163083
+url: https://mike-bales.shinyapps.io/eternal-7-win-card-explorer/
+when: 1560914891.45736
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: get_data.R

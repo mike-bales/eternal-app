@@ -3,7 +3,7 @@ library(tidyverse)
 library(rvest)
 
 #load eternal card set
-eternal.cards <- fromJSON("./data/eternal-cards.json")
+eternal.cards <- fromJSON("https://eternalwarcry.com/content/cards/eternal-cards.json")
 
 #scrape draft pack card names from eternalwarcry.com
 #merge with full eternal card set to create column
@@ -34,6 +34,10 @@ eternal.cards$draft.pack <- replace_na(eternal.cards$draft.pack, FALSE)
 eternal.dark.frontier.draft <- eternal.cards %>%
   filter(SetNumber == 6 | draft.pack == TRUE)
 
+eternal.dark.frontier.draft<- eternal.dark.frontier.draft %>% 
+  group_by(draft.pack, Rarity) %>% 
+  mutate(rarity.pack.cnt = n()) %>% 
+  ungroup()
 
 #
 #Random analysis stuff

@@ -1,0 +1,1744 @@
+GroupedDeckFaction,Name,Rarity,TotalCards,DecksWithCard,NormalizedTotalCards,DraftPack,Type,Faction,NumberOfDecks,PctDecksWithCard,AvgCopiesPerDeck
+Rakano,Retribution,Common,41,27,41,FALSE,Spell,Justice,47,57.4,1.5
+Rakano,Daring Maneuver,Common,36,26,36,FALSE,Fast Spell,Fire,47,55.3,1.4
+Rakano,Streets Aflame,Common,36,25,36,FALSE,Fast Spell,Fire,47,53.2,1.4
+Rakano,Blurreechaser,Common,34,22,34,FALSE,Unit,Fire,47,46.8,1.5
+Rakano,Argenport Soldier,Common,30,22,33,TRUE,Unit,Justice,47,46.8,1.4
+Rakano,Tauride Test Pilot,Common,33,24,33,FALSE,Unit,Justice,47,51.1,1.4
+Rakano,Rebel Sharpshooter,Common,28,23,30.800000000000004,TRUE,Unit,Fire,47,48.9,1.2
+Rakano,Backpacker's Machete,Common,28,21,30.800000000000004,TRUE,Weapon,Fire,47,44.7,1.3
+Rakano,Steadfast Paladin,Common,30,20,30,FALSE,Unit,Justice,47,42.6,1.5
+Rakano,Sharpened Reflex,Common,27,23,29.700000000000003,TRUE,Fast Spell,Justice,47,48.9,1.2
+Rakano,Pyre Adept,Common,26,17,28.6,TRUE,Unit,Fire,47,36.2,1.5
+Rakano,Char,Common,28,23,28,FALSE,Fast Spell,Fire,47,48.9,1.2
+Rakano,Mining Team,Common,27,20,27,FALSE,Unit,Fire,47,42.6,1.4
+Rakano,Brightmace Paladin,Common,24,18,26.400000000000002,TRUE,Unit,Justice,47,38.3,1.3
+Rakano,Fall Short,Common,24,18,26.400000000000002,TRUE,Fast Spell,Justice,47,38.3,1.3
+Rakano,High Alert,Common,26,18,26,FALSE,Fast Spell,Justice,47,38.3,1.4
+Rakano,Roosting Warhawk,Common,25,21,25,FALSE,Unit,Justice,47,44.7,1.2
+Rakano,Nimble Conscript,Common,25,19,25,FALSE,Unit,Fire,47,40.4,1.3
+Rakano,Valkyrie Militant,Common,22,18,24.200000000000003,TRUE,Unit,Justice,47,38.3,1.2
+Rakano,Copperhall Recruit,Common,21,17,23.1,TRUE,Unit,Justice,47,36.2,1.2
+Rakano,Mithril Mace,Common,21,18,23.1,TRUE,Relic Weapon,Justice,47,38.3,1.2
+Rakano,Soaring Guard,Common,21,15,23.1,TRUE,Unit,Justice,47,31.9,1.4
+Rakano,Svetya's Faithful,Common,23,20,23,FALSE,Unit,Justice,47,42.6,1.1
+Rakano,Gun Down,Common,20,17,22,TRUE,Spell,Fire,47,36.2,1.2
+Rakano,Blinkwolf,Common,20,18,22,TRUE,Unit,Fire,47,38.3,1.1
+Rakano,Auric Lookout,Common,22,15,22,FALSE,Unit,Justice,47,31.9,1.5
+Rakano,Granite Coin,Common,21,14,21,FALSE,Power,Fire,47,29.8,1.5
+Rakano,Clan Wallbreaker,Common,18,17,19.8,TRUE,Unit,Fire,47,36.2,1.1
+Rakano,Horde Duelist,Common,19,15,19,FALSE,Unit,Fire,47,31.9,1.3
+Rakano,Flash Grenade,Common,19,18,19,FALSE,Fast Spell,Justice,47,38.3,1.1
+Rakano,Sizzleback Salamander,Common,16,14,16,FALSE,Unit,Fire,47,29.8,1.1
+Rakano,Pummel,Common,14,13,15.400000000000002,TRUE,Fast Spell,Fire,47,27.7,1.1
+Rakano,Oni Patrol,Common,15,13,15,FALSE,Unit,Fire,47,27.7,1.2
+Rakano,Seek Power,Common,13,12,14.3,TRUE,Spell,Neutral,47,25.5,1.1
+Rakano,Tinker,Common,13,11,14.3,TRUE,Spell,Justice,47,23.4,1.2
+Rakano,Rallying Sergeant,Common,14,13,14,FALSE,Unit,NA,47,27.7,1.1
+Rakano,Twin Sai,Common,13,13,13,FALSE,Relic Weapon,Justice,47,27.7,1
+Rakano,Kosul Bladebarrier,Common,12,10,12,FALSE,Unit,Justice,47,21.3,1.2
+Rakano,Grandfather's Axe,Common,10,9,11,TRUE,Weapon,Fire,47,19.1,1.1
+Rakano,Emerald Coin,Common,11,10,11,FALSE,Power,Justice,47,21.3,1.1
+Rakano,Kosul Curator,Common,10,9,10,FALSE,Unit,Justice,47,19.1,1.1
+Rakano,Lingering Influence,Common,9,9,9.9,TRUE,Spell,Justice,47,19.1,1
+Rakano,Manufacture,Common,9,7,9.9,TRUE,Spell,Fire,47,14.9,1.3
+Rakano,Kosul Diplomat,Common,9,9,9.9,TRUE,Unit,Justice,47,19.1,1
+Rakano,Warfront Missionary,Common,9,7,9,FALSE,Unit,Justice,47,14.9,1.3
+Rakano,Spellstrike Sorceress,Common,8,6,8,FALSE,Unit,Justice,47,12.8,1.3
+Rakano,Detain,Common,7,7,7.700000000000001,TRUE,Fast Spell,Justice,47,14.9,1
+Rakano,Spire Spellsword,Common,7,6,7.700000000000001,TRUE,Unit,Justice,47,12.8,1.2
+Rakano,Pit Fighter,Common,5,5,5.5,TRUE,Unit,Fire,47,10.6,1
+Rakano,Downfall,Common,5,5,5.5,TRUE,Spell,Justice,47,10.6,1
+Rakano,Iron Hook,Common,4,4,4.4,TRUE,Relic Weapon,Neutral,47,8.5,1
+Rakano,Cobalt Coin,Common,4,4,4,FALSE,Power,Primal,47,8.5,1
+Rakano,Outdraw,Common,4,4,4,FALSE,Spell,Fire,47,8.5,1
+Rakano,Light 'em Up,Common,3,3,3.3000000000000003,TRUE,Fast Spell,Fire,47,6.4,1
+Rakano,Heist,Common,3,3,3,FALSE,Spell,Justice,47,6.4,1
+Rakano,Daze,Common,2,1,2.2,TRUE,Fast Spell,Neutral,47,2.1,2
+Rakano,Guns Blazing,Common,2,2,2,FALSE,Fast Spell,Fire,47,4.3,1
+Rakano,Stonescar Outfitter,Common,2,1,2,FALSE,Unit,Shadow,47,2.1,2
+Rakano,Ruin,Common,1,1,1.1,TRUE,Fast Spell,Fire,47,2.1,1
+Rakano,Flash Freeze,Common,1,1,1.1,TRUE,Fast Spell,Primal,47,2.1,1
+Rakano,Dark Return,Common,1,1,1.1,TRUE,Spell,Shadow,47,2.1,1
+Rakano,Direwood Rampager,Common,1,1,1.1,TRUE,Unit,Shadow,47,2.1,1
+Rakano,Steadfast Deputy,Common,1,1,1.1,TRUE,Unit,Justice,47,2.1,1
+Rakano,Icebow,Common,1,1,1.1,TRUE,Weapon,Primal,47,2.1,1
+Rakano,Dustblind,Common,1,1,1.1,TRUE,Spell,Fire,47,2.1,1
+Rakano,Overheat,Common,1,1,1.1,TRUE,Spell,Fire,47,2.1,1
+Rakano,Mob Rule,Common,1,1,1.1,TRUE,Fast Spell,Shadow,47,2.1,1
+Rakano,Spitfire,Common,1,1,1.1,TRUE,Relic,Fire,47,2.1,1
+Rakano,Belligerent Yeti,Common,1,1,1,FALSE,Unit,Primal,47,2.1,1
+Rakano,Murderous Flock,Common,1,1,1,FALSE,Unit,Primal,47,2.1,1
+Rakano,Crooked Alleyguide,Common,1,1,1,FALSE,Unit,Shadow,47,2.1,1
+Rakano,Needlespitter,Common,1,1,1,FALSE,Unit,Fire,47,2.1,1
+Rakano,Shugo Standard,Uncommon,16,12,20.8,TRUE,Power,Fire,47,25.5,1.3
+Rakano,Heretic's Cannon,Uncommon,17,14,17,FALSE,Weapon,Fire,47,29.8,1.2
+Rakano,Throne Warden,Uncommon,11,9,14.3,TRUE,Unit,Justice,47,19.1,1.2
+Rakano,Piercing Shot,Uncommon,10,10,13,TRUE,Spell,Fire,47,21.3,1
+Rakano,Crownwatch Standard,Uncommon,10,8,13,TRUE,Power,Justice,47,17,1.2
+Rakano,Relentless Deadshot,Uncommon,13,12,13,FALSE,Unit,Justice,47,25.5,1.1
+Rakano,Seat of Glory,Uncommon,9,7,11.700000000000001,TRUE,Power,Rakano,47,14.9,1.3
+Rakano,Steel Legion,Uncommon,11,11,11,FALSE,Unit,Justice,47,23.4,1
+Rakano,Rusty Grenamotive,Uncommon,7,6,9.1,TRUE,Unit,Fire,47,12.8,1.2
+Rakano,Combustion Brawler,Uncommon,9,8,9,FALSE,Unit,Fire,47,17,1.1
+Rakano,Valkyrie Accuser,Uncommon,8,8,8,FALSE,Unit,Justice,47,17,1
+Rakano,Coverfire Marksman,Uncommon,8,6,8,FALSE,Unit,Fire,47,12.8,1.3
+Rakano,Outlaw Ringleader,Uncommon,8,8,8,FALSE,Unit,Fire,47,17,1
+Rakano,Ceremonial Mask,Uncommon,6,6,7.800000000000001,TRUE,Relic Weapon,Justice,47,12.8,1
+Rakano,Bladekin Apprentice,Uncommon,6,5,7.800000000000001,TRUE,Unit,Fire,47,10.6,1.2
+Rakano,Oni Cavediver,Uncommon,6,6,7.800000000000001,TRUE,Unit,Fire,47,12.8,1
+Rakano,Kosul Battlemage,Uncommon,6,6,7.800000000000001,TRUE,Unit,Justice,47,12.8,1
+Rakano,Censari Dervish,Uncommon,7,7,7,FALSE,Unit,Fire,47,14.9,1
+Rakano,Flame Blast,Uncommon,5,5,6.5,TRUE,Spell,Fire,47,10.6,1
+Rakano,Defiance,Uncommon,5,5,6.5,TRUE,Fast Spell,Justice,47,10.6,1
+Rakano,Impatient Pyromage,Uncommon,6,5,6,FALSE,Unit,Fire,47,10.6,1.2
+Rakano,Silverwing Familiar,Uncommon,4,4,5.2,TRUE,Unit,Justice,47,8.5,1
+Rakano,Stonepowder Heretic,Uncommon,4,3,5.2,TRUE,Unit,Fire,47,6.4,1.3
+Rakano,Rampart Arbalest,Uncommon,4,4,5.2,TRUE,Relic Weapon,Justice,47,8.5,1
+Rakano,War Wagon,Uncommon,5,5,5,FALSE,Unit,Justice,47,10.6,1
+Rakano,Unseen Ghostblade,Uncommon,5,5,5,FALSE,Relic Weapon,Justice,47,10.6,1
+Rakano,Ruins Guide,Uncommon,5,5,5,FALSE,Unit,Fire,47,10.6,1
+Rakano,Pioneering Aviator,Uncommon,5,4,5,FALSE,Unit,Justice,47,8.5,1.2
+Rakano,Kemmo's Blueprints,Uncommon,4,4,4,FALSE,Spell,Justice,47,8.5,1
+Rakano,Shieldcrafter,Uncommon,4,4,4,FALSE,Unit,Justice,47,8.5,1
+Rakano,Tantrum,Uncommon,4,4,4,FALSE,Spell,Fire,47,8.5,1
+Rakano,Seat of Chaos,Uncommon,3,2,3.9000000000000004,TRUE,Power,Stonescar,47,4.3,1.5
+Rakano,Bronze Cuirass,Uncommon,3,3,3.9000000000000004,TRUE,Weapon,Justice,47,6.4,1
+Rakano,Hipshot,Uncommon,3,3,3.9000000000000004,TRUE,Spell,Fire,47,6.4,1
+Rakano,Horngrinder,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Justice,47,6.4,1
+Rakano,Silverwing Smith,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Justice,47,6.4,1
+Rakano,Valkyrie Bodyguard,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Justice,47,6.4,1
+Rakano,Auric Weaponsmith,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Justice,47,6.4,1
+Rakano,Silver Shortsword,Uncommon,3,2,3,FALSE,Relic Weapon,Justice,47,4.3,1.5
+Rakano,Stronghold Vandal,Uncommon,3,3,3,FALSE,Unit,Fire,47,6.4,1
+Rakano,Zuberi's Longbow,Uncommon,3,3,3,FALSE,Weapon,Fire,47,6.4,1
+Rakano,Seat of Order,Uncommon,2,2,2.6,TRUE,Power,Hooru,47,4.3,1
+Rakano,Tinker Apprentice,Uncommon,2,2,2.6,TRUE,Unit,Justice,47,4.3,1
+Rakano,Permafrost,Uncommon,2,2,2.6,TRUE,Curse,Primal,47,4.3,1
+Rakano,Cloud of Ash,Uncommon,2,2,2.6,TRUE,Spell,Fire,47,4.3,1
+Rakano,Diplomatic Seal,Uncommon,2,2,2.6,TRUE,Power,Neutral,47,4.3,1
+Rakano,Family Charter,Uncommon,2,2,2.6,TRUE,Relic,Neutral,47,4.3,1
+Rakano,Encouragement,Uncommon,2,2,2.6,TRUE,Spell,Justice,47,4.3,1
+Rakano,Heirloom Blade,Uncommon,2,2,2.6,TRUE,Relic Weapon,Justice,47,4.3,1
+Rakano,Ankle Cutter,Uncommon,2,2,2.6,TRUE,Unit,Fire,47,4.3,1
+Rakano,Rallying Banner,Uncommon,2,2,2.6,TRUE,Relic,Justice,47,4.3,1
+Rakano,Reclaim,Uncommon,2,2,2,FALSE,Spell,Justice,47,4.3,1
+Rakano,Call to Arms,Uncommon,2,2,2,FALSE,Fast Spell,Fire,47,4.3,1
+Rakano,Twinflame,Uncommon,2,2,2,FALSE,Fast Spell,Fire,47,4.3,1
+Rakano,Headhunter,Uncommon,2,2,2,FALSE,Unit,Justice,47,4.3,1
+Rakano,Seat of Fury,Uncommon,1,1,1.3,TRUE,Power,Skycrag,47,2.1,1
+Rakano,Armorsmith,Uncommon,1,1,1.3,TRUE,Unit,Justice,47,2.1,1
+Rakano,Suffocate,Uncommon,1,1,1.3,TRUE,Spell,Shadow,47,2.1,1
+Rakano,Lifedrinker,Uncommon,1,1,1.3,TRUE,Relic Weapon,Shadow,47,2.1,1
+Rakano,Horsesnatcher Bat,Uncommon,1,1,1.3,TRUE,Unit,Shadow,47,2.1,1
+Rakano,Granite Ring,Uncommon,1,1,1.3,TRUE,Relic,Fire,47,2.1,1
+Rakano,Tower Shield,Uncommon,1,1,1.3,TRUE,Weapon,Justice,47,2.1,1
+Rakano,Fearless Yeti,Uncommon,1,1,1.3,TRUE,Unit,Primal,47,2.1,1
+Rakano,Improvised Rubbler,Uncommon,1,1,1.3,TRUE,Relic Weapon,Fire,47,2.1,1
+Rakano,Feed the Flames,Uncommon,1,1,1.3,TRUE,Spell,Fire,47,2.1,1
+Rakano,Frost Elemental,Uncommon,1,1,1,FALSE,Unit,Primal,47,2.1,1
+Rakano,Lightning Sprite,Uncommon,1,1,1,FALSE,Unit,Primal,47,2.1,1
+Rakano,Spiteful Strike,Uncommon,1,1,1,FALSE,Fast Spell,Shadow,47,2.1,1
+Rakano,Death Ripple,Uncommon,1,1,1,FALSE,Spell,Shadow,47,2.1,1
+Rakano,Fallen Militiaman,Uncommon,1,1,1,FALSE,Unit,Shadow,47,2.1,1
+Rakano,Seek Answers,Uncommon,1,1,1,FALSE,Spell,Neutral,47,2.1,1
+Rakano,Clan Barracks,Uncommon,1,1,1,FALSE,Relic,Fire,47,2.1,1
+Skycrag,Streets Aflame,Common,21,15,21,FALSE,Fast Spell,Fire,22,68.2,1.4
+Skycrag,Mining Team,Common,19,11,19,FALSE,Unit,Fire,22,50,1.7
+Skycrag,Blurreechaser,Common,19,13,19,FALSE,Unit,Fire,22,59.1,1.5
+Skycrag,Backpacker's Machete,Common,17,15,18.700000000000003,TRUE,Weapon,Fire,22,68.2,1.1
+Skycrag,Blinkwolf,Common,16,12,17.6,TRUE,Unit,Fire,22,54.5,1.3
+Skycrag,Nimble Conscript,Common,17,8,17,FALSE,Unit,Fire,22,36.4,2.1
+Skycrag,Gun Down,Common,15,12,16.5,TRUE,Spell,Fire,22,54.5,1.2
+Skycrag,Char,Common,16,12,16,FALSE,Fast Spell,Fire,22,54.5,1.3
+Skycrag,Lightning Strike,Common,14,10,15.400000000000002,TRUE,Fast Spell,Primal,22,45.5,1.4
+Skycrag,Rebel Sharpshooter,Common,14,10,15.400000000000002,TRUE,Unit,Fire,22,45.5,1.4
+Skycrag,Yeti Instigator,Common,15,10,15,FALSE,Unit,Primal,22,45.5,1.5
+Skycrag,Belligerent Yeti,Common,14,10,14,FALSE,Unit,Primal,22,45.5,1.4
+Skycrag,Oni Patrol,Common,14,9,14,FALSE,Unit,Fire,22,40.9,1.6
+Skycrag,Pyre Adept,Common,11,10,12.100000000000001,TRUE,Unit,Fire,22,45.5,1.1
+Skycrag,Advance Scout,Common,11,8,12.100000000000001,TRUE,Unit,Primal,22,36.4,1.4
+Skycrag,Scaly Gruan,Common,10,7,11,TRUE,Unit,Primal,22,31.8,1.4
+Skycrag,Pummel,Common,10,7,11,TRUE,Fast Spell,Fire,22,31.8,1.4
+Skycrag,Granite Coin,Common,11,11,11,FALSE,Power,Fire,22,50,1
+Skycrag,Murderous Flock,Common,11,8,11,FALSE,Unit,Primal,22,36.4,1.4
+Skycrag,Flash Freeze,Common,9,6,9.9,TRUE,Fast Spell,Primal,22,27.3,1.5
+Skycrag,Clan Wallbreaker,Common,9,9,9.9,TRUE,Unit,Fire,22,40.9,1
+Skycrag,Daring Maneuver,Common,8,8,8,FALSE,Fast Spell,Fire,22,36.4,1
+Skycrag,Horde Duelist,Common,8,7,8,FALSE,Unit,Fire,22,31.8,1.1
+Skycrag,Furnish,Common,8,4,8,FALSE,Fast Spell,Primal,22,18.2,2
+Skycrag,Camp Surveyor,Common,8,6,8,FALSE,Unit,Primal,22,27.3,1.3
+Skycrag,Rallying Sergeant,Common,8,8,8,FALSE,Unit,NA,22,36.4,1
+Skycrag,Cobalt Coin,Common,7,6,7,FALSE,Power,Primal,22,27.3,1.2
+Skycrag,Snowmass Jotun,Common,7,4,7,FALSE,Unit,Primal,22,18.2,1.8
+Skycrag,Voracious Fosora,Common,6,4,6.6000000000000005,TRUE,Unit,Primal,22,18.2,1.5
+Skycrag,Sizzleback Salamander,Common,6,4,6,FALSE,Unit,Fire,22,18.2,1.5
+Skycrag,Aerial Ace,Common,5,5,5.5,TRUE,Unit,Primal,22,22.7,1
+Skycrag,Icebow,Common,5,5,5.5,TRUE,Weapon,Primal,22,22.7,1
+Skycrag,Seek Power,Common,4,4,4.4,TRUE,Spell,Neutral,22,18.2,1
+Skycrag,Cloudsnake Hatchling,Common,4,3,4.4,TRUE,Unit,Primal,22,13.6,1.3
+Skycrag,Torrential Downpour,Common,4,4,4.4,TRUE,Spell,Primal,22,18.2,1
+Skycrag,Fend Off,Common,4,4,4,FALSE,Fast Spell,Primal,22,18.2,1
+Skycrag,Fledgling Owlet,Common,4,3,4,FALSE,Unit,Primal,22,13.6,1.3
+Skycrag,Death from Above,Common,4,4,4,FALSE,Spell,Primal,22,18.2,1
+Skycrag,Diving Pteriax,Common,4,3,4,FALSE,Unit,Primal,22,13.6,1.3
+Skycrag,Trailblaze,Common,3,3,3.3000000000000003,TRUE,Fast Spell,Primal,22,13.6,1
+Skycrag,Pit Fighter,Common,3,3,3.3000000000000003,TRUE,Unit,Fire,22,13.6,1
+Skycrag,Grandfather's Axe,Common,3,3,3.3000000000000003,TRUE,Weapon,Fire,22,13.6,1
+Skycrag,Elder Meditant,Common,3,3,3,FALSE,Unit,Primal,22,13.6,1
+Skycrag,Needlespitter,Common,3,3,3,FALSE,Unit,Fire,22,13.6,1
+Skycrag,Amber Coin,Common,3,2,3,FALSE,Power,Time,22,9.1,1.5
+Skycrag,Daze,Common,2,2,2.2,TRUE,Fast Spell,Neutral,22,9.1,1
+Skycrag,Envelop,Common,2,1,2.2,TRUE,Fast Spell,Time,22,4.5,2
+Skycrag,Avirax Familiar,Common,2,2,2.2,TRUE,Unit,Time,22,9.1,1
+Skycrag,Awakened Sentinel,Common,2,2,2.2,TRUE,Unit,Time,22,9.1,1
+Skycrag,Wurmstone,Common,2,2,2.2,TRUE,Relic,Time,22,9.1,1
+Skycrag,Iron Hook,Common,2,2,2.2,TRUE,Relic Weapon,Neutral,22,9.1,1
+Skycrag,Fragility,Common,2,2,2,FALSE,Curse,Primal,22,9.1,1
+Skycrag,Hold Under,Common,2,2,2,FALSE,Spell,Primal,22,9.1,1
+Skycrag,Backlash,Common,1,1,1.1,TRUE,Fast Spell,Primal,22,4.5,1
+Skycrag,Dark Return,Common,1,1,1.1,TRUE,Spell,Shadow,22,4.5,1
+Skycrag,Dispel,Common,1,1,1.1,TRUE,Spell,Time,22,4.5,1
+Skycrag,Snowfort,Common,1,1,1.1,TRUE,Relic,Primal,22,4.5,1
+Skycrag,Light 'em Up,Common,1,1,1.1,TRUE,Fast Spell,Fire,22,4.5,1
+Skycrag,Training Ground,Common,1,1,1.1,TRUE,Spell,Time,22,4.5,1
+Skycrag,Watchful Amanera,Common,1,1,1.1,TRUE,Unit,Time,22,4.5,1
+Skycrag,Crystal Dirk,Common,1,1,1.1,TRUE,Weapon,Primal,22,4.5,1
+Skycrag,Mob Rule,Common,1,1,1.1,TRUE,Fast Spell,Shadow,22,4.5,1
+Skycrag,Retribution,Common,1,1,1,FALSE,Spell,Justice,22,4.5,1
+Skycrag,Brenn's Scrying,Common,1,1,1,FALSE,Spell,Fire,22,4.5,1
+Skycrag,Razorquill,Common,1,1,1,FALSE,Unit,Shadow,22,4.5,1
+Skycrag,Stonescar Outfitter,Common,1,1,1,FALSE,Unit,Shadow,22,4.5,1
+Skycrag,Horn of Plenty,Common,1,1,1,FALSE,Relic,Time,22,4.5,1
+Skycrag,Emerald Coin,Common,1,1,1,FALSE,Power,Justice,22,4.5,1
+Skycrag,Coverfire Marksman,Uncommon,10,8,10,FALSE,Unit,Fire,22,36.4,1.2
+Skycrag,Censari Dervish,Uncommon,8,7,8,FALSE,Unit,Fire,22,31.8,1.1
+Skycrag,Heretic's Cannon,Uncommon,8,7,8,FALSE,Weapon,Fire,22,31.8,1.1
+Skycrag,Seat of Fury,Uncommon,6,5,7.800000000000001,TRUE,Power,Skycrag,22,22.7,1.2
+Skycrag,Outlands Brute,Uncommon,6,5,7.800000000000001,TRUE,Unit,Fire,22,22.7,1.2
+Skycrag,Fearless Yeti,Uncommon,6,4,7.800000000000001,TRUE,Unit,Primal,22,18.2,1.5
+Skycrag,Combustion Brawler,Uncommon,7,5,7,FALSE,Unit,Fire,22,22.7,1.4
+Skycrag,Piercing Shot,Uncommon,5,4,6.5,TRUE,Spell,Fire,22,18.2,1.2
+Skycrag,Impatient Pyromage,Uncommon,6,6,6,FALSE,Unit,Fire,22,27.3,1
+Skycrag,Frost Elemental,Uncommon,6,5,6,FALSE,Unit,Primal,22,22.7,1.2
+Skycrag,Keen Saddleback,Uncommon,6,5,6,FALSE,Unit,Primal,22,22.7,1.2
+Skycrag,Tundra Explorer,Uncommon,4,4,5.2,TRUE,Unit,Primal,22,18.2,1
+Skycrag,Shugo Standard,Uncommon,4,4,5.2,TRUE,Power,Fire,22,18.2,1
+Skycrag,Rusty Grenamotive,Uncommon,4,3,5.2,TRUE,Unit,Fire,22,13.6,1.3
+Skycrag,Pitfall Trap,Uncommon,4,4,5.2,TRUE,Relic,Primal,22,18.2,1
+Skycrag,Lightning Sprite,Uncommon,5,3,5,FALSE,Unit,Primal,22,13.6,1.7
+Skycrag,Aggressive Ursine,Uncommon,5,4,5,FALSE,Unit,Primal,22,18.2,1.2
+Skycrag,Avalanche Yeti,Uncommon,4,3,4,FALSE,Unit,Primal,22,13.6,1.3
+Skycrag,Ruins Guide,Uncommon,4,4,4,FALSE,Unit,Fire,22,18.2,1
+Skycrag,Stronghold Vandal,Uncommon,4,4,4,FALSE,Unit,Fire,22,18.2,1
+Skycrag,Cloudsnake Matriarch,Uncommon,4,4,4,FALSE,Unit,Primal,22,18.2,1
+Skycrag,Stonescar Insignia,Uncommon,4,3,4,FALSE,Power,Stonescar,22,13.6,1.3
+Skycrag,Tantrum,Uncommon,4,4,4,FALSE,Spell,Fire,22,18.2,1
+Skycrag,Outlaw Ringleader,Uncommon,4,3,4,FALSE,Unit,Fire,22,13.6,1.3
+Skycrag,Permafrost,Uncommon,3,3,3.9000000000000004,TRUE,Curse,Primal,22,13.6,1
+Skycrag,Flame Blast,Uncommon,3,2,3.9000000000000004,TRUE,Spell,Fire,22,9.1,1.5
+Skycrag,Bladekin Apprentice,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Fire,22,13.6,1
+Skycrag,Skycrag Wyvarch,Uncommon,3,2,3.9000000000000004,TRUE,Unit,Primal,22,9.1,1.5
+Skycrag,Beastcaller's Amulet,Uncommon,3,2,3.9000000000000004,TRUE,Weapon,Shadow,22,9.1,1.5
+Skycrag,Hipshot,Uncommon,3,2,3.9000000000000004,TRUE,Spell,Fire,22,9.1,1.5
+Skycrag,Peaktop Trekker,Uncommon,3,3,3,FALSE,Unit,Primal,22,13.6,1
+Skycrag,Seat of Cunning,Uncommon,2,2,2.6,TRUE,Power,Feln,22,9.1,1
+Skycrag,Seat of Wisdom,Uncommon,2,2,2.6,TRUE,Power,Elysian,22,9.1,1
+Skycrag,Diplomatic Seal,Uncommon,2,2,2.6,TRUE,Power,Neutral,22,9.1,1
+Skycrag,Calderan Gunsmith,Uncommon,2,2,2.6,TRUE,Unit,Fire,22,9.1,1
+Skycrag,Stonepowder Heretic,Uncommon,2,2,2.6,TRUE,Unit,Fire,22,9.1,1
+Skycrag,Oni Cavediver,Uncommon,2,2,2.6,TRUE,Unit,Fire,22,9.1,1
+Skycrag,Freewing Glider,Uncommon,2,2,2.6,TRUE,Weapon,Primal,22,9.1,1
+Skycrag,Cabal Standard,Uncommon,2,1,2.6,TRUE,Power,Shadow,22,4.5,2
+Skycrag,Ankle Cutter,Uncommon,2,2,2.6,TRUE,Unit,Fire,22,9.1,1
+Skycrag,Good Idea at the Time,Uncommon,2,2,2,FALSE,Spell,Primal,22,9.1,1
+Skycrag,Ferocity of Bear,Uncommon,2,2,2,FALSE,Spell,Primal,22,9.1,1
+Skycrag,Seat of Chaos,Uncommon,1,1,1.3,TRUE,Power,Stonescar,22,4.5,1
+Skycrag,Wild Cloudsnake,Uncommon,1,1,1.3,TRUE,Unit,Primal,22,4.5,1
+Skycrag,Suffocate,Uncommon,1,1,1.3,TRUE,Spell,Shadow,22,4.5,1
+Skycrag,Snowcrust Yeti,Uncommon,1,1,1.3,TRUE,Unit,Primal,22,4.5,1
+Skycrag,Storm Talisman,Uncommon,1,1,1.3,TRUE,Relic,Primal,22,4.5,1
+Skycrag,Improvised Rubbler,Uncommon,1,1,1.3,TRUE,Relic Weapon,Fire,22,4.5,1
+Skycrag,Clan Standard,Uncommon,1,1,1.3,TRUE,Power,Primal,22,4.5,1
+Skycrag,Storm Spiral,Uncommon,1,1,1.3,TRUE,Fast Spell,Primal,22,4.5,1
+Skycrag,Dinomancy Enthusiast,Uncommon,1,1,1,FALSE,Unit,Primal,22,4.5,1
+Skycrag,Zuberi's Longbow,Uncommon,1,1,1,FALSE,Weapon,Fire,22,4.5,1
+Skycrag,Spiteful Strike,Uncommon,1,1,1,FALSE,Fast Spell,Shadow,22,4.5,1
+Skycrag,Death Ripple,Uncommon,1,1,1,FALSE,Spell,Shadow,22,4.5,1
+Skycrag,Clan Barracks,Uncommon,1,1,1,FALSE,Relic,Fire,22,4.5,1
+Skycrag,Twinflame,Uncommon,1,1,1,FALSE,Fast Spell,Fire,22,4.5,1
+Skycrag,Blurred Stygimoloch,Uncommon,1,1,1,FALSE,Unit,Time,22,4.5,1
+Stonescar,Nimble Conscript,Common,42,26,42,FALSE,Unit,Fire,42,61.9,1.6
+Stonescar,Extract,Common,35,27,38.5,TRUE,Spell,Shadow,42,64.3,1.3
+Stonescar,Flickerling,Common,31,20,34.1,TRUE,Unit,Shadow,42,47.6,1.6
+Stonescar,Rebel Sharpshooter,Common,29,23,31.900000000000002,TRUE,Unit,Fire,42,54.8,1.3
+Stonescar,Horde Duelist,Common,29,21,29,FALSE,Unit,Fire,42,50,1.4
+Stonescar,Angry Prophet,Common,29,20,29,FALSE,Unit,Shadow,42,47.6,1.4
+Stonescar,Streets Aflame,Common,29,19,29,FALSE,Fast Spell,Fire,42,45.2,1.5
+Stonescar,Mob Rule,Common,25,18,27.500000000000004,TRUE,Fast Spell,Shadow,42,42.9,1.4
+Stonescar,Stonescar Outfitter,Common,27,20,27,FALSE,Unit,Shadow,42,47.6,1.4
+Stonescar,Backpacker's Machete,Common,24,19,26.400000000000002,TRUE,Weapon,Fire,42,45.2,1.3
+Stonescar,Scavenging Vulture,Common,23,18,25.3,TRUE,Unit,Shadow,42,42.9,1.3
+Stonescar,Eviscerate,Common,25,17,25,FALSE,Spell,Shadow,42,40.5,1.5
+Stonescar,Pummel,Common,22,16,24.200000000000003,TRUE,Fast Spell,Fire,42,38.1,1.4
+Stonescar,Crooked Alleyguide,Common,24,15,24,FALSE,Unit,Shadow,42,35.7,1.6
+Stonescar,Char,Common,23,16,23,FALSE,Fast Spell,Fire,42,38.1,1.4
+Stonescar,Blurreechaser,Common,23,21,23,FALSE,Unit,Fire,42,50,1.1
+Stonescar,Razorquill,Common,21,18,21,FALSE,Unit,Shadow,42,42.9,1.2
+Stonescar,Gun Down,Common,19,15,20.900000000000002,TRUE,Spell,Fire,42,35.7,1.3
+Stonescar,Granite Coin,Common,20,11,20,FALSE,Power,Fire,42,26.2,1.8
+Stonescar,Pyre Adept,Common,18,15,19.8,TRUE,Unit,Fire,42,35.7,1.2
+Stonescar,Curator's Spear,Common,18,17,19.8,TRUE,Relic Weapon,Shadow,42,40.5,1.1
+Stonescar,Dark Return,Common,16,13,17.6,TRUE,Spell,Shadow,42,31,1.2
+Stonescar,Clan Wallbreaker,Common,16,14,17.6,TRUE,Unit,Fire,42,33.3,1.1
+Stonescar,Mining Team,Common,16,11,16,FALSE,Unit,Fire,42,26.2,1.5
+Stonescar,Rallying Sergeant,Common,16,16,16,FALSE,Unit,NA,42,38.1,1
+Stonescar,Blinkwolf,Common,14,11,15.400000000000002,TRUE,Unit,Fire,42,26.2,1.3
+Stonescar,Amethyst Coin,Common,15,11,15,FALSE,Power,Shadow,42,26.2,1.4
+Stonescar,Direfang Spider,Common,13,12,14.3,TRUE,Unit,Shadow,42,28.6,1.1
+Stonescar,Bloodnurse,Common,14,12,14,FALSE,Unit,Shadow,42,28.6,1.2
+Stonescar,Daring Maneuver,Common,13,13,13,FALSE,Fast Spell,Fire,42,31,1
+Stonescar,Bandit's Flail,Common,13,11,13,FALSE,Relic Weapon,Shadow,42,26.2,1.2
+Stonescar,Oni Patrol,Common,13,10,13,FALSE,Unit,Fire,42,23.8,1.3
+Stonescar,Lock Horns,Common,11,11,12.100000000000001,TRUE,Fast Spell,Shadow,42,26.2,1
+Stonescar,Direwood Rampager,Common,8,7,8.8,TRUE,Unit,Shadow,42,16.7,1.1
+Stonescar,Pit Fighter,Common,8,5,8.8,TRUE,Unit,Fire,42,11.9,1.6
+Stonescar,Direwood Lurker,Common,8,8,8,FALSE,Unit,Shadow,42,19,1
+Stonescar,Iceberg Frontrunner,Common,7,7,7.700000000000001,TRUE,Unit,Fire,42,16.7,1
+Stonescar,Sizzleback Salamander,Common,7,7,7,FALSE,Unit,Fire,42,16.7,1
+Stonescar,Dustblind,Common,6,6,6.6000000000000005,TRUE,Spell,Fire,42,14.3,1
+Stonescar,Gorgon Cutthroat,Common,6,6,6,FALSE,Unit,Shadow,42,14.3,1
+Stonescar,Venomfang Dagger,Common,5,5,5.5,TRUE,Weapon,Shadow,42,11.9,1
+Stonescar,Afterimage,Common,5,5,5.5,TRUE,Spell,Shadow,42,11.9,1
+Stonescar,Cabal Scavenger,Common,5,3,5.5,TRUE,Unit,Shadow,42,7.1,1.7
+Stonescar,Worn Shield,Common,4,4,4.4,TRUE,Weapon,Neutral,42,9.5,1
+Stonescar,Inspire Obedience,Common,4,3,4.4,TRUE,Spell,Shadow,42,7.1,1.3
+Stonescar,Grandfather's Axe,Common,4,4,4.4,TRUE,Weapon,Fire,42,9.5,1
+Stonescar,Improvised Club,Common,4,3,4.4,TRUE,Relic Weapon,Shadow,42,7.1,1.3
+Stonescar,Muck Crawler,Common,4,4,4,FALSE,Unit,Shadow,42,9.5,1
+Stonescar,Unchecked Aggression,Common,4,4,4,FALSE,Fast Spell,Shadow,42,9.5,1
+Stonescar,Outdraw,Common,4,4,4,FALSE,Spell,Fire,42,9.5,1
+Stonescar,Scheme,Common,3,3,3.3000000000000003,TRUE,Spell,Shadow,42,7.1,1
+Stonescar,Seek Power,Common,3,3,3.3000000000000003,TRUE,Spell,Neutral,42,7.1,1
+Stonescar,Manufacture,Common,3,3,3.3000000000000003,TRUE,Spell,Fire,42,7.1,1
+Stonescar,Winnow,Common,3,3,3,FALSE,Spell,Shadow,42,7.1,1
+Stonescar,Amber Coin,Common,3,1,3,FALSE,Power,Time,42,2.4,3
+Stonescar,Daze,Common,2,2,2.2,TRUE,Fast Spell,Neutral,42,4.8,1
+Stonescar,Sorrow's Shroud,Common,2,2,2.2,TRUE,Weapon,Shadow,42,4.8,1
+Stonescar,Awakened Sentinel,Common,2,1,2.2,TRUE,Unit,Time,42,2.4,2
+Stonescar,Watchful Amanera,Common,2,1,2.2,TRUE,Unit,Time,42,2.4,2
+Stonescar,Iron Hook,Common,2,2,2.2,TRUE,Relic Weapon,Neutral,42,4.8,1
+Stonescar,Cobalt Coin,Common,2,2,2,FALSE,Power,Primal,42,4.8,1
+Stonescar,Boot Knife,Common,2,2,2,FALSE,Relic Weapon,Shadow,42,4.8,1
+Stonescar,Vicious Rumors,Common,2,1,2,FALSE,Spell,Shadow,42,2.4,2
+Stonescar,Horn of Plenty,Common,2,2,2,FALSE,Relic,Time,42,4.8,1
+Stonescar,Emerald Coin,Common,2,2,2,FALSE,Power,Justice,42,4.8,1
+Stonescar,Ruin,Common,1,1,1.1,TRUE,Fast Spell,Fire,42,2.4,1
+Stonescar,Lightning Strike,Common,1,1,1.1,TRUE,Fast Spell,Primal,42,2.4,1
+Stonescar,Dispel,Common,1,1,1.1,TRUE,Spell,Time,42,2.4,1
+Stonescar,Sharpened Reflex,Common,1,1,1.1,TRUE,Fast Spell,Justice,42,2.4,1
+Stonescar,Training Ground,Common,1,1,1.1,TRUE,Spell,Time,42,2.4,1
+Stonescar,Astromancer's Compass,Common,1,1,1.1,TRUE,Relic,Neutral,42,2.4,1
+Stonescar,Spitfire,Common,1,1,1.1,TRUE,Relic,Fire,42,2.4,1
+Stonescar,Fall Short,Common,1,1,1.1,TRUE,Fast Spell,Justice,42,2.4,1
+Stonescar,Kosul Bladebarrier,Common,1,1,1,FALSE,Unit,Justice,42,2.4,1
+Stonescar,Retribution,Common,1,1,1,FALSE,Spell,Justice,42,2.4,1
+Stonescar,Tauride Test Pilot,Common,1,1,1,FALSE,Unit,Justice,42,2.4,1
+Stonescar,Twin Sai,Common,1,1,1,FALSE,Relic Weapon,Justice,42,2.4,1
+Stonescar,Furnish,Common,1,1,1,FALSE,Fast Spell,Primal,42,2.4,1
+Stonescar,Arcanum Elite,Common,1,1,1,FALSE,Unit,Time,42,2.4,1
+Stonescar,Displaced Oryctodon,Common,1,1,1,FALSE,Unit,Time,42,2.4,1
+Stonescar,Corrupted Behemoth,Common,1,1,1,FALSE,Unit,Time,42,2.4,1
+Stonescar,Flash Grenade,Common,1,1,1,FALSE,Fast Spell,Justice,42,2.4,1
+Stonescar,Impatient Pyromage,Uncommon,14,11,14,FALSE,Unit,Fire,42,26.2,1.3
+Stonescar,Beastcaller's Amulet,Uncommon,10,8,13,TRUE,Weapon,Shadow,42,19,1.2
+Stonescar,Outlands Brute,Uncommon,10,9,13,TRUE,Unit,Fire,42,21.4,1.1
+Stonescar,Shugo Standard,Uncommon,10,9,13,TRUE,Power,Fire,42,21.4,1.1
+Stonescar,Cabal Standard,Uncommon,10,9,13,TRUE,Power,Shadow,42,21.4,1.1
+Stonescar,Umbren Voidbringer,Uncommon,13,12,13,FALSE,Unit,Shadow,42,28.6,1.1
+Stonescar,Outlaw Ringleader,Uncommon,13,12,13,FALSE,Unit,Fire,42,28.6,1.1
+Stonescar,Ruins Guide,Uncommon,11,10,11,FALSE,Unit,Fire,42,23.8,1.1
+Stonescar,Lethrai Direbeast,Uncommon,11,11,11,FALSE,Unit,Shadow,42,26.2,1
+Stonescar,Suffocate,Uncommon,8,7,10.4,TRUE,Spell,Shadow,42,16.7,1.1
+Stonescar,Rusty Grenamotive,Uncommon,8,6,10.4,TRUE,Unit,Fire,42,14.3,1.3
+Stonescar,Heretic's Cannon,Uncommon,10,9,10,FALSE,Weapon,Fire,42,21.4,1.1
+Stonescar,Flame Blast,Uncommon,7,7,9.1,TRUE,Spell,Fire,42,16.7,1
+Stonescar,Bladekin Apprentice,Uncommon,7,6,9.1,TRUE,Unit,Fire,42,14.3,1.2
+Stonescar,Hipshot,Uncommon,7,6,9.1,TRUE,Spell,Fire,42,14.3,1.2
+Stonescar,Oni Cavediver,Uncommon,7,7,9.1,TRUE,Unit,Fire,42,16.7,1
+Stonescar,Censari Dervish,Uncommon,9,9,9,FALSE,Unit,Fire,42,21.4,1
+Stonescar,Spiteful Strike,Uncommon,8,7,8,FALSE,Fast Spell,Shadow,42,16.7,1.1
+Stonescar,Wretched Talon,Uncommon,8,8,8,FALSE,Relic Weapon,Shadow,42,19,1
+Stonescar,Stonescar Insignia,Uncommon,8,8,8,FALSE,Power,Stonescar,42,19,1
+Stonescar,Seat of Chaos,Uncommon,6,6,7.800000000000001,TRUE,Power,Stonescar,42,14.3,1
+Stonescar,Lifedrinker,Uncommon,6,6,7.800000000000001,TRUE,Relic Weapon,Shadow,42,14.3,1
+Stonescar,Horsesnatcher Bat,Uncommon,6,6,7.800000000000001,TRUE,Unit,Shadow,42,14.3,1
+Stonescar,Stronghold Vandal,Uncommon,7,7,7,FALSE,Unit,Fire,42,16.7,1
+Stonescar,Death Ripple,Uncommon,7,7,7,FALSE,Spell,Shadow,42,16.7,1
+Stonescar,Piercing Shot,Uncommon,5,5,6.5,TRUE,Spell,Fire,42,11.9,1
+Stonescar,Cabal Cutthroat,Uncommon,5,5,6.5,TRUE,Unit,Shadow,42,11.9,1
+Stonescar,Sewer Sludge,Uncommon,5,5,6.5,TRUE,Unit,Shadow,42,11.9,1
+Stonescar,Zuberi's Longbow,Uncommon,6,6,6,FALSE,Weapon,Fire,42,14.3,1
+Stonescar,Tantrum,Uncommon,6,5,6,FALSE,Spell,Fire,42,11.9,1.2
+Stonescar,Combustion Brawler,Uncommon,6,6,6,FALSE,Unit,Fire,42,14.3,1
+Stonescar,Cloud of Ash,Uncommon,4,4,5.2,TRUE,Spell,Fire,42,9.5,1
+Stonescar,Granite Ring,Uncommon,4,4,5.2,TRUE,Relic,Fire,42,9.5,1
+Stonescar,Darkweave Enchantress,Uncommon,5,4,5,FALSE,Unit,Shadow,42,9.5,1.2
+Stonescar,Coverfire Marksman,Uncommon,5,5,5,FALSE,Unit,Fire,42,11.9,1
+Stonescar,Hunting Anoura,Uncommon,5,4,5,FALSE,Unit,Shadow,42,9.5,1.2
+Stonescar,Auric Reclaimer,Uncommon,4,4,4,FALSE,Unit,Shadow,42,9.5,1
+Stonescar,Cabal Repeater,Uncommon,4,3,4,FALSE,Unit,Shadow,42,7.1,1.3
+Stonescar,Stained Honor,Uncommon,4,2,4,FALSE,Unit,Shadow,42,4.8,2
+Stonescar,Fallen Militiaman,Uncommon,4,4,4,FALSE,Unit,Shadow,42,9.5,1
+Stonescar,Diplomatic Seal,Uncommon,3,2,3.9000000000000004,TRUE,Power,Neutral,42,4.8,1.5
+Stonescar,Reforge,Uncommon,3,3,3.9000000000000004,TRUE,Spell,Fire,42,7.1,1
+Stonescar,Remembrance,Uncommon,3,3,3,FALSE,Spell,Shadow,42,7.1,1
+Stonescar,Withering Touch,Uncommon,3,2,3,FALSE,Fast Spell,Shadow,42,4.8,1.5
+Stonescar,Clan Barracks,Uncommon,3,3,3,FALSE,Relic,Fire,42,7.1,1
+Stonescar,Calderan Gunsmith,Uncommon,2,2,2.6,TRUE,Unit,Fire,42,4.8,1
+Stonescar,Staff of the Arch-Magister,Uncommon,2,2,2.6,TRUE,Weapon,Fire,42,4.8,1
+Stonescar,Improvised Rubbler,Uncommon,2,2,2.6,TRUE,Relic Weapon,Fire,42,4.8,1
+Stonescar,Betray the Cause,Uncommon,2,2,2.6,TRUE,Spell,Shadow,42,4.8,1
+Stonescar,Ankle Cutter,Uncommon,2,2,2.6,TRUE,Unit,Fire,42,4.8,1
+Stonescar,Illicit Armament,Uncommon,2,2,2,FALSE,Spell,Shadow,42,4.8,1
+Stonescar,Cinder Sprite,Uncommon,2,2,2,FALSE,Unit,Fire,42,4.8,1
+Stonescar,Seat of Cunning,Uncommon,1,1,1.3,TRUE,Power,Feln,42,2.4,1
+Stonescar,Permafrost,Uncommon,1,1,1.3,TRUE,Curse,Primal,42,2.4,1
+Stonescar,Ghostform,Uncommon,1,1,1.3,TRUE,Spell,Shadow,42,2.4,1
+Stonescar,Scare,Uncommon,1,1,1.3,TRUE,Fast Spell,Shadow,42,2.4,1
+Stonescar,Tower Shield,Uncommon,1,1,1.3,TRUE,Weapon,Justice,42,2.4,1
+Stonescar,Headsman's Axe,Uncommon,1,1,1.3,TRUE,Weapon,Shadow,42,2.4,1
+Stonescar,Clan Standard,Uncommon,1,1,1.3,TRUE,Power,Primal,42,2.4,1
+Stonescar,Abduct,Uncommon,1,1,1.3,TRUE,Spell,Shadow,42,2.4,1
+Stonescar,Umbren Deathwatcher,Uncommon,1,1,1.3,TRUE,Unit,Shadow,42,2.4,1
+Stonescar,Feed the Flames,Uncommon,1,1,1.3,TRUE,Spell,Fire,42,2.4,1
+Stonescar,Consuming Flames,Uncommon,1,1,1.3,TRUE,Spell,Fire,42,2.4,1
+Stonescar,Pitfall Trap,Uncommon,1,1,1.3,TRUE,Relic,Primal,42,2.4,1
+Stonescar,Rat Cage,Uncommon,1,1,1.3,TRUE,Relic,Shadow,42,2.4,1
+Stonescar,Blood Quill,Uncommon,1,1,1.3,TRUE,Relic,Shadow,42,2.4,1
+Stonescar,Fangs in the Dark,Uncommon,1,1,1.3,TRUE,Fast Spell,Shadow,42,2.4,1
+Stonescar,Sadistic Glee,Uncommon,1,1,1.3,TRUE,Unit,Shadow,42,2.4,1
+Praxis,Blurreechaser,Common,45,29,45,FALSE,Unit,Fire,50,58,1.6
+Praxis,Char,Common,38,26,38,FALSE,Fast Spell,Fire,50,52,1.5
+Praxis,Corrupted Behemoth,Common,38,26,38,FALSE,Unit,Time,50,52,1.5
+Praxis,Streets Aflame,Common,37,29,37,FALSE,Fast Spell,Fire,50,58,1.3
+Praxis,Rebel Sharpshooter,Common,32,23,35.2,TRUE,Unit,Fire,50,46,1.4
+Praxis,Nimble Conscript,Common,32,22,32,FALSE,Unit,Fire,50,44,1.5
+Praxis,Mining Team,Common,30,20,30,FALSE,Unit,Fire,50,40,1.5
+Praxis,Gun Down,Common,27,20,29.700000000000003,TRUE,Spell,Fire,50,40,1.4
+Praxis,Training Ground,Common,27,22,29.700000000000003,TRUE,Spell,Time,50,44,1.2
+Praxis,Daring Maneuver,Common,29,23,29,FALSE,Fast Spell,Fire,50,46,1.3
+Praxis,Devotee of the Sands,Common,29,23,29,FALSE,Unit,Time,50,46,1.3
+Praxis,Blinkwolf,Common,25,19,27.500000000000004,TRUE,Unit,Fire,50,38,1.3
+Praxis,Learned Herbalist,Common,25,21,27.500000000000004,TRUE,Unit,Time,50,42,1.2
+Praxis,Awakened Sentinel,Common,24,19,26.400000000000002,TRUE,Unit,Time,50,38,1.3
+Praxis,Omnivorous Vorlunk,Common,26,22,26,FALSE,Unit,Time,50,44,1.2
+Praxis,Avirax Familiar,Common,23,18,25.3,TRUE,Unit,Time,50,36,1.3
+Praxis,Backpacker's Machete,Common,23,19,25.3,TRUE,Weapon,Fire,50,38,1.2
+Praxis,Wurmstone,Common,23,17,25.3,TRUE,Relic,Time,50,34,1.4
+Praxis,Oni Patrol,Common,24,18,24,FALSE,Unit,Fire,50,36,1.3
+Praxis,Horn of Plenty,Common,24,20,24,FALSE,Relic,Time,50,40,1.2
+Praxis,Pyre Adept,Common,21,17,23.1,TRUE,Unit,Fire,50,34,1.2
+Praxis,Deft Strike,Common,21,16,23.1,TRUE,Spell,Time,50,32,1.3
+Praxis,Displaced Oryctodon,Common,23,19,23,FALSE,Unit,Time,50,38,1.2
+Praxis,Tremorshocker,Common,23,18,23,FALSE,Unit,Time,50,36,1.3
+Praxis,Rallying Sergeant,Common,19,17,19,FALSE,Unit,NA,50,34,1.1
+Praxis,Sauropod Crasher,Common,19,13,19,FALSE,Unit,Time,50,26,1.5
+Praxis,Quicksilver Ooze,Common,18,14,18,FALSE,Unit,Time,50,28,1.3
+Praxis,Dispel,Common,16,15,17.6,TRUE,Spell,Time,50,30,1.1
+Praxis,Arcanum Elite,Common,17,13,17,FALSE,Unit,Time,50,26,1.3
+Praxis,Amber Coin,Common,16,14,16,FALSE,Power,Time,50,28,1.1
+Praxis,Refresh,Common,14,14,15.400000000000002,TRUE,Fast Spell,Time,50,28,1
+Praxis,Pummel,Common,14,12,15.400000000000002,TRUE,Fast Spell,Fire,50,24,1.2
+Praxis,Granite Coin,Common,15,14,15,FALSE,Power,Fire,50,28,1.1
+Praxis,Horde Duelist,Common,15,13,15,FALSE,Unit,Fire,50,26,1.2
+Praxis,Envelop,Common,12,12,13.200000000000001,TRUE,Fast Spell,Time,50,24,1
+Praxis,Clan Wallbreaker,Common,12,12,13.200000000000001,TRUE,Unit,Fire,50,24,1
+Praxis,Watchful Amanera,Common,12,11,13.200000000000001,TRUE,Unit,Time,50,22,1.1
+Praxis,Blink,Common,13,12,13,FALSE,Fast Spell,Time,50,24,1.1
+Praxis,Horned Vorlunk,Common,11,11,12.100000000000001,TRUE,Unit,Time,50,22,1
+Praxis,Manufacture,Common,11,9,12.100000000000001,TRUE,Spell,Fire,50,18,1.2
+Praxis,Submerged Titan,Common,12,11,12,FALSE,Unit,Time,50,22,1.1
+Praxis,Sizzleback Salamander,Common,9,8,9,FALSE,Unit,Fire,50,16,1.1
+Praxis,Seek Power,Common,8,8,8.8,TRUE,Spell,Neutral,50,16,1
+Praxis,Iron Hook,Common,8,8,8.8,TRUE,Relic Weapon,Neutral,50,16,1
+Praxis,Outdraw,Common,8,8,8,FALSE,Spell,Fire,50,16,1
+Praxis,Phase Out,Common,8,7,8,FALSE,Spell,Time,50,14,1.1
+Praxis,Pit Fighter,Common,7,7,7.700000000000001,TRUE,Unit,Fire,50,14,1
+Praxis,Excavation Assistant,Common,7,6,7.700000000000001,TRUE,Unit,Time,50,12,1.2
+Praxis,Needlespitter,Common,7,6,7,FALSE,Unit,Fire,50,12,1.2
+Praxis,Viper's Bite,Common,5,4,5.5,TRUE,Fast Spell,Time,50,8,1.2
+Praxis,Cryptic Etchings,Common,5,5,5.5,TRUE,Relic,Time,50,10,1
+Praxis,Meditation,Common,5,5,5.5,TRUE,Fast Spell,Time,50,10,1
+Praxis,Mute,Common,5,5,5,FALSE,Fast Spell,Time,50,10,1
+Praxis,Pack Hunt,Common,4,4,4.4,TRUE,Spell,Time,50,8,1
+Praxis,Iceberg Frontrunner,Common,4,4,4.4,TRUE,Unit,Fire,50,8,1
+Praxis,Overheat,Common,3,3,3.3000000000000003,TRUE,Spell,Fire,50,6,1
+Praxis,Grandfather's Axe,Common,3,3,3.3000000000000003,TRUE,Weapon,Fire,50,6,1
+Praxis,Cobalt Coin,Common,3,2,3,FALSE,Power,Primal,50,4,1.5
+Praxis,Brenn's Scrying,Common,3,2,3,FALSE,Spell,Fire,50,4,1.5
+Praxis,Dark Return,Common,2,2,2.2,TRUE,Spell,Shadow,50,4,1
+Praxis,Trailblaze,Common,2,1,2.2,TRUE,Fast Spell,Primal,50,2,2
+Praxis,Sirocco Glider,Common,2,1,2,FALSE,Unit,Time,50,2,2
+Praxis,High Alert,Common,2,1,2,FALSE,Fast Spell,Justice,50,2,2
+Praxis,Ruin,Common,1,1,1.1,TRUE,Fast Spell,Fire,50,2,1
+Praxis,Flash Freeze,Common,1,1,1.1,TRUE,Fast Spell,Primal,50,2,1
+Praxis,Scavenging Vulture,Common,1,1,1.1,TRUE,Unit,Shadow,50,2,1
+Praxis,Daze,Common,1,1,1.1,TRUE,Fast Spell,Neutral,50,2,1
+Praxis,Lingering Influence,Common,1,1,1.1,TRUE,Spell,Justice,50,2,1
+Praxis,Downfall,Common,1,1,1.1,TRUE,Spell,Justice,50,2,1
+Praxis,Light 'em Up,Common,1,1,1.1,TRUE,Fast Spell,Fire,50,2,1
+Praxis,Mob Rule,Common,1,1,1.1,TRUE,Fast Spell,Shadow,50,2,1
+Praxis,Spitfire,Common,1,1,1.1,TRUE,Relic,Fire,50,2,1
+Praxis,Barbarian Camp,Common,1,1,1,FALSE,Relic,Fire,50,2,1
+Praxis,Lucky Prospector,Common,1,1,1,FALSE,Unit,Time,50,2,1
+Praxis,Illumination Wisp,Common,1,1,1,FALSE,Unit,Time,50,2,1
+Praxis,Fireheart Recruit,Common,1,1,1,FALSE,Unit,Fire,50,2,1
+Praxis,Magmatic Sentinel,Common,1,1,1,FALSE,Unit,Fire,50,2,1
+Praxis,Araktodon Egg,Common,1,1,1,FALSE,Relic,Time,50,2,1
+Praxis,Sandcrawler,Common,1,1,1,FALSE,Unit,Time,50,2,1
+Praxis,Infused Guardian,Common,1,1,1,FALSE,Unit,Time,50,2,1
+Praxis,Powerbreach Sentinel,Common,1,1,1,FALSE,Unit,Time,50,2,1
+Praxis,Yeti Instigator,Common,1,1,1,FALSE,Unit,Primal,50,2,1
+Praxis,Snowmass Jotun,Common,1,1,1,FALSE,Unit,Primal,50,2,1
+Praxis,Crooked Alleyguide,Common,1,1,1,FALSE,Unit,Shadow,50,2,1
+Praxis,Razorquill,Common,1,1,1,FALSE,Unit,Shadow,50,2,1
+Praxis,Eviscerate,Common,1,1,1,FALSE,Spell,Shadow,50,2,1
+Praxis,Sudden Stampede,Common,1,1,1,FALSE,Fast Spell,Time,50,2,1
+Praxis,Heretic's Cannon,Uncommon,19,13,19,FALSE,Weapon,Fire,50,26,1.5
+Praxis,Flame Blast,Uncommon,13,12,16.900000000000002,TRUE,Spell,Fire,50,24,1.1
+Praxis,Shugo Standard,Uncommon,12,12,15.600000000000001,TRUE,Power,Fire,50,24,1
+Praxis,Coverfire Marksman,Uncommon,13,11,13,FALSE,Unit,Fire,50,22,1.2
+Praxis,Outlaw Ringleader,Uncommon,12,10,12,FALSE,Unit,Fire,50,20,1.2
+Praxis,Blurred Stygimoloch,Uncommon,12,11,12,FALSE,Unit,Time,50,22,1.1
+Praxis,Hipshot,Uncommon,9,7,11.700000000000001,TRUE,Spell,Fire,50,14,1.3
+Praxis,Plated Goliath,Uncommon,9,9,11.700000000000001,TRUE,Unit,Time,50,18,1
+Praxis,Praxis Insignia,Uncommon,11,10,11,FALSE,Power,Praxis,50,20,1.1
+Praxis,Bladekin Apprentice,Uncommon,8,7,10.4,TRUE,Unit,Fire,50,14,1.1
+Praxis,Outlands Brute,Uncommon,8,6,10.4,TRUE,Unit,Fire,50,12,1.3
+Praxis,Bulbous Humbug,Uncommon,10,8,10,FALSE,Unit,Time,50,16,1.2
+Praxis,Seat of Impulse,Uncommon,7,7,9.1,TRUE,Power,Praxis,50,14,1
+Praxis,Piercing Shot,Uncommon,7,6,9.1,TRUE,Spell,Fire,50,12,1.2
+Praxis,Stinging Wind,Uncommon,7,7,9.1,TRUE,Unit,Time,50,14,1
+Praxis,Ruins Guide,Uncommon,9,9,9,FALSE,Unit,Fire,50,18,1
+Praxis,Censari Dervish,Uncommon,9,9,9,FALSE,Unit,Fire,50,18,1
+Praxis,Novice Entomancer,Uncommon,9,7,9,FALSE,Unit,Time,50,14,1.3
+Praxis,Stillweave Shroud,Uncommon,9,9,9,FALSE,Weapon,Time,50,18,1
+Praxis,Rusty Grenamotive,Uncommon,6,6,7.800000000000001,TRUE,Unit,Fire,50,12,1
+Praxis,Temple Standard,Uncommon,6,5,7.800000000000001,TRUE,Power,Time,50,10,1.2
+Praxis,Impatient Pyromage,Uncommon,7,7,7,FALSE,Unit,Fire,50,14,1
+Praxis,Tantrum,Uncommon,7,6,7,FALSE,Spell,Fire,50,12,1.2
+Praxis,Adolescent Deathjaw,Uncommon,7,6,7,FALSE,Unit,Time,50,12,1.2
+Praxis,Oasis Seeker,Uncommon,5,5,6.5,TRUE,Unit,Time,50,10,1
+Praxis,Oni Cavediver,Uncommon,5,5,6.5,TRUE,Unit,Fire,50,10,1
+Praxis,Venomous Mount,Uncommon,6,5,6,FALSE,Unit,Time,50,10,1.2
+Praxis,Scorpion Wasp,Uncommon,4,4,5.2,TRUE,Unit,Time,50,8,1
+Praxis,Healer's Cloak,Uncommon,4,4,5.2,TRUE,Weapon,Time,50,8,1
+Praxis,Stonepowder Heretic,Uncommon,4,4,5.2,TRUE,Unit,Fire,50,8,1
+Praxis,Snapping Brushstalker,Uncommon,4,3,5.2,TRUE,Unit,Time,50,6,1.3
+Praxis,Feed the Flames,Uncommon,4,3,5.2,TRUE,Spell,Fire,50,6,1.3
+Praxis,Porcelain Mask,Uncommon,4,4,5.2,TRUE,Relic,Time,50,8,1
+Praxis,Stronghold Vandal,Uncommon,5,5,5,FALSE,Unit,Fire,50,10,1
+Praxis,Zuberi's Longbow,Uncommon,5,5,5,FALSE,Weapon,Fire,50,10,1
+Praxis,Combustion Brawler,Uncommon,5,5,5,FALSE,Unit,Fire,50,10,1
+Praxis,Slag,Uncommon,4,4,4,FALSE,Fast Spell,Fire,50,8,1
+Praxis,Clan Barracks,Uncommon,4,4,4,FALSE,Relic,Fire,50,8,1
+Praxis,Trickster Mage,Uncommon,4,4,4,FALSE,Unit,Time,50,8,1
+Praxis,Seat of Mystery,Uncommon,3,2,3.9000000000000004,TRUE,Power,Xenan,50,4,1.5
+Praxis,Ancient Lore,Uncommon,3,2,3.9000000000000004,TRUE,Spell,Time,50,4,1.5
+Praxis,Unlock Potential,Uncommon,3,3,3.9000000000000004,TRUE,Spell,Time,50,6,1
+Praxis,Family Charter,Uncommon,3,3,3.9000000000000004,TRUE,Relic,Neutral,50,6,1
+Praxis,Initiation Bell,Uncommon,3,2,3.9000000000000004,TRUE,Relic,Time,50,4,1.5
+Praxis,Ankle Cutter,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Fire,50,6,1
+Praxis,Dissociate,Uncommon,3,3,3.9000000000000004,TRUE,Fast Spell,Time,50,6,1
+Praxis,Ancient Excavator,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Time,50,6,1
+Praxis,Burdenbearer Wisp,Uncommon,3,3,3,FALSE,Unit,Time,50,6,1
+Praxis,Search Party,Uncommon,3,3,3,FALSE,Spell,Time,50,6,1
+Praxis,Hidden Shiv,Uncommon,2,2,2.6,TRUE,Weapon,Fire,50,4,1
+Praxis,Camp Physician,Uncommon,2,2,2.6,TRUE,Unit,Time,50,4,1
+Praxis,Defiance,Uncommon,2,1,2.6,TRUE,Fast Spell,Justice,50,2,2
+Praxis,Skycrag Huntsman,Uncommon,2,1,2,FALSE,Unit,Fire,50,2,2
+Praxis,Call to Arms,Uncommon,2,2,2,FALSE,Fast Spell,Fire,50,4,1
+Praxis,Twinflame,Uncommon,2,2,2,FALSE,Fast Spell,Fire,50,4,1
+Praxis,Potion of Alacrity,Uncommon,2,2,2,FALSE,Spell,Time,50,4,1
+Praxis,Expedition Leader,Uncommon,2,2,2,FALSE,Unit,Time,50,4,1
+Praxis,Swirl the Sands,Uncommon,2,2,2,FALSE,Fast Spell,Time,50,4,1
+Praxis,Seat of Progress,Uncommon,1,1,1.3,TRUE,Power,Combrei,50,2,1
+Praxis,Seat of Chaos,Uncommon,1,1,1.3,TRUE,Power,Stonescar,50,2,1
+Praxis,Permafrost,Uncommon,1,1,1.3,TRUE,Curse,Primal,50,2,1
+Praxis,Suffocate,Uncommon,1,1,1.3,TRUE,Spell,Shadow,50,2,1
+Praxis,Horsesnatcher Bat,Uncommon,1,1,1.3,TRUE,Unit,Shadow,50,2,1
+Praxis,Cloud of Ash,Uncommon,1,1,1.3,TRUE,Spell,Fire,50,2,1
+Praxis,Diplomatic Seal,Uncommon,1,1,1.3,TRUE,Power,Neutral,50,2,1
+Praxis,Calderan Gunsmith,Uncommon,1,1,1.3,TRUE,Unit,Fire,50,2,1
+Praxis,Infinite Hourglass,Uncommon,1,1,1.3,TRUE,Relic,Time,50,2,1
+Praxis,Granite Ring,Uncommon,1,1,1.3,TRUE,Relic,Fire,50,2,1
+Praxis,Gathering Lights,Uncommon,1,1,1.3,TRUE,Spell,Time,50,2,1
+Praxis,Consuming Flames,Uncommon,1,1,1.3,TRUE,Spell,Fire,50,2,1
+Praxis,Crownwatch Standard,Uncommon,1,1,1.3,TRUE,Power,Justice,50,2,1
+Praxis,Noble Firemane,Uncommon,1,1,1,FALSE,Unit,Praxis,50,2,1
+Praxis,Insistent Automaton,Uncommon,1,1,1,FALSE,Unit,Time,50,2,1
+Praxis,Wildfire Censari,Uncommon,1,1,1,FALSE,Unit,Fire,50,2,1
+Praxis,Stoneshell Walker,Uncommon,1,1,1,FALSE,Unit,Praxis,50,2,1
+Praxis,Gilded Flames,Uncommon,1,1,1,FALSE,Fast Spell,Fire,50,2,1
+Praxis,Cautious Traveler,Uncommon,1,1,1,FALSE,Unit,Fire,50,2,1
+Praxis,Shingane Forge,Uncommon,1,1,1,FALSE,Relic,Fire,50,2,1
+Praxis,Locust,Uncommon,1,1,1,FALSE,Unit,Time,50,2,1
+Praxis,Maddening Whisper,Uncommon,1,1,1,FALSE,Fast Spell,Time,50,2,1
+Praxis,Urn of Choking Embers,Uncommon,1,1,1,FALSE,Cursed Relic,Fire,50,2,1
+Praxis,Firemane Lioness,Uncommon,1,1,1,FALSE,Unit,Fire,50,2,1
+Praxis,Frost Elemental,Uncommon,1,1,1,FALSE,Unit,Primal,50,2,1
+Praxis,Keen Saddleback,Uncommon,1,1,1,FALSE,Unit,Primal,50,2,1
+Praxis,Seek Answers,Uncommon,1,1,1,FALSE,Spell,Neutral,50,2,1
+Praxis,Cinder Sprite,Uncommon,1,1,1,FALSE,Unit,Fire,50,2,1
+Praxis,Temporal Adept,Uncommon,1,1,1,FALSE,Unit,Time,50,2,1
+Hooru,Svetya's Faithful,Common,19,11,19,FALSE,Unit,Justice,19,57.9,1.7
+Hooru,Argenport Soldier,Common,15,10,16.5,TRUE,Unit,Justice,19,52.6,1.5
+Hooru,Retribution,Common,16,11,16,FALSE,Spell,Justice,19,57.9,1.5
+Hooru,Copperhall Recruit,Common,13,9,14.3,TRUE,Unit,Justice,19,47.4,1.4
+Hooru,Lightning Strike,Common,13,10,14.3,TRUE,Fast Spell,Primal,19,52.6,1.3
+Hooru,Tauride Test Pilot,Common,14,11,14,FALSE,Unit,Justice,19,57.9,1.3
+Hooru,Brightmace Paladin,Common,12,9,13.200000000000001,TRUE,Unit,Justice,19,47.4,1.3
+Hooru,Mithril Mace,Common,12,9,13.200000000000001,TRUE,Relic Weapon,Justice,19,47.4,1.3
+Hooru,Advance Scout,Common,12,8,13.200000000000001,TRUE,Unit,Primal,19,42.1,1.5
+Hooru,Emerald Coin,Common,12,8,12,FALSE,Power,Justice,19,42.1,1.5
+Hooru,Flash Grenade,Common,11,9,11,FALSE,Fast Spell,Justice,19,47.4,1.2
+Hooru,High Alert,Common,10,7,10,FALSE,Fast Spell,Justice,19,36.8,1.4
+Hooru,Roosting Warhawk,Common,10,6,10,FALSE,Unit,Justice,19,31.6,1.7
+Hooru,Downfall,Common,9,8,9.9,TRUE,Spell,Justice,19,42.1,1.1
+Hooru,Spellstrike Sorceress,Common,9,5,9,FALSE,Unit,Justice,19,26.3,1.8
+Hooru,Cobalt Coin,Common,9,8,9,FALSE,Power,Primal,19,42.1,1.1
+Hooru,Camp Surveyor,Common,9,6,9,FALSE,Unit,Primal,19,31.6,1.5
+Hooru,Elder Meditant,Common,9,6,9,FALSE,Unit,Primal,19,31.6,1.5
+Hooru,Flash Freeze,Common,8,8,8.8,TRUE,Fast Spell,Primal,19,42.1,1
+Hooru,Cloudsnake Hatchling,Common,8,5,8.8,TRUE,Unit,Primal,19,26.3,1.6
+Hooru,Soaring Guard,Common,8,7,8.8,TRUE,Unit,Justice,19,36.8,1.1
+Hooru,Torrential Downpour,Common,8,7,8.8,TRUE,Spell,Primal,19,36.8,1.1
+Hooru,Steadfast Paladin,Common,8,7,8,FALSE,Unit,Justice,19,36.8,1.1
+Hooru,Kosul Curator,Common,8,6,8,FALSE,Unit,Justice,19,31.6,1.3
+Hooru,Snowmass Jotun,Common,8,7,8,FALSE,Unit,Primal,19,36.8,1.1
+Hooru,Scaly Gruan,Common,7,5,7.700000000000001,TRUE,Unit,Primal,19,26.3,1.4
+Hooru,Aerial Ace,Common,7,5,7.700000000000001,TRUE,Unit,Primal,19,26.3,1.4
+Hooru,Auric Lookout,Common,7,5,7,FALSE,Unit,Justice,19,26.3,1.4
+Hooru,Yeti Instigator,Common,7,6,7,FALSE,Unit,Primal,19,31.6,1.2
+Hooru,Detain,Common,6,5,6.6000000000000005,TRUE,Fast Spell,Justice,19,26.3,1.2
+Hooru,Valkyrie Militant,Common,6,5,6.6000000000000005,TRUE,Unit,Justice,19,26.3,1.2
+Hooru,Lingering Influence,Common,6,6,6.6000000000000005,TRUE,Spell,Justice,19,31.6,1
+Hooru,Twin Sai,Common,6,5,6,FALSE,Relic Weapon,Justice,19,26.3,1.2
+Hooru,Diving Pteriax,Common,6,5,6,FALSE,Unit,Primal,19,26.3,1.2
+Hooru,Seek Power,Common,5,4,5.5,TRUE,Spell,Neutral,19,21.1,1.2
+Hooru,Sharpened Reflex,Common,5,4,5.5,TRUE,Fast Spell,Justice,19,21.1,1.2
+Hooru,Fall Short,Common,5,5,5.5,TRUE,Fast Spell,Justice,19,26.3,1
+Hooru,Murderous Flock,Common,5,3,5,FALSE,Unit,Primal,19,15.8,1.7
+Hooru,Hold Under,Common,5,4,5,FALSE,Spell,Primal,19,21.1,1.2
+Hooru,Warfront Missionary,Common,5,2,5,FALSE,Unit,Justice,19,10.5,2.5
+Hooru,Backlash,Common,4,3,4.4,TRUE,Fast Spell,Primal,19,15.8,1.3
+Hooru,Fend Off,Common,4,4,4,FALSE,Fast Spell,Primal,19,21.1,1
+Hooru,Furnish,Common,4,4,4,FALSE,Fast Spell,Primal,19,21.1,1
+Hooru,Death from Above,Common,4,3,4,FALSE,Spell,Primal,19,15.8,1.3
+Hooru,Trailblaze,Common,3,3,3.3000000000000003,TRUE,Fast Spell,Primal,19,15.8,1
+Hooru,Snowfort,Common,3,3,3.3000000000000003,TRUE,Relic,Primal,19,15.8,1
+Hooru,Spire Spellsword,Common,3,3,3.3000000000000003,TRUE,Unit,Justice,19,15.8,1
+Hooru,Kosul Diplomat,Common,3,3,3.3000000000000003,TRUE,Unit,Justice,19,15.8,1
+Hooru,Kosul Bladebarrier,Common,3,2,3,FALSE,Unit,Justice,19,10.5,1.5
+Hooru,Belligerent Yeti,Common,3,3,3,FALSE,Unit,Primal,19,15.8,1
+Hooru,Araktodon,Common,2,2,2.2,TRUE,Unit,Primal,19,10.5,1
+Hooru,Voracious Fosora,Common,2,2,2.2,TRUE,Unit,Primal,19,10.5,1
+Hooru,Crystal Dirk,Common,2,2,2.2,TRUE,Weapon,Primal,19,10.5,1
+Hooru,Iron Hook,Common,2,2,2.2,TRUE,Relic Weapon,Neutral,19,10.5,1
+Hooru,Yeti Bully,Common,2,2,2,FALSE,Unit,Primal,19,10.5,1
+Hooru,Horn of Plenty,Common,2,1,2,FALSE,Relic,Time,19,5.3,2
+Hooru,Heist,Common,2,2,2,FALSE,Spell,Justice,19,10.5,1
+Hooru,Daze,Common,1,1,1.1,TRUE,Fast Spell,Neutral,19,5.3,1
+Hooru,Icebow,Common,1,1,1.1,TRUE,Weapon,Primal,19,5.3,1
+Hooru,Cirso's Meddling,Common,1,1,1.1,TRUE,Fast Spell,Primal,19,5.3,1
+Hooru,Tinker,Common,1,1,1.1,TRUE,Spell,Justice,19,5.3,1
+Hooru,Granite Coin,Common,1,1,1,FALSE,Power,Fire,19,5.3,1
+Hooru,Fledgling Owlet,Common,1,1,1,FALSE,Unit,Primal,19,5.3,1
+Hooru,Fragility,Common,1,1,1,FALSE,Curse,Primal,19,5.3,1
+Hooru,Rampart Arbalest,Uncommon,7,7,9.1,TRUE,Relic Weapon,Justice,19,36.8,1
+Hooru,Lightning Sprite,Uncommon,7,7,7,FALSE,Unit,Primal,19,36.8,1
+Hooru,Keen Saddleback,Uncommon,7,6,7,FALSE,Unit,Primal,19,31.6,1.2
+Hooru,Crownwatch Standard,Uncommon,5,4,6.5,TRUE,Power,Justice,19,21.1,1.2
+Hooru,Permafrost,Uncommon,4,4,5.2,TRUE,Curse,Primal,19,21.1,1
+Hooru,Clan Standard,Uncommon,4,4,5.2,TRUE,Power,Primal,19,21.1,1
+Hooru,Steel Legion,Uncommon,5,4,5,FALSE,Unit,Justice,19,21.1,1.2
+Hooru,Frost Elemental,Uncommon,5,5,5,FALSE,Unit,Primal,19,26.3,1
+Hooru,War Wagon,Uncommon,4,4,4,FALSE,Unit,Justice,19,21.1,1
+Hooru,Shieldcrafter,Uncommon,4,3,4,FALSE,Unit,Justice,19,15.8,1.3
+Hooru,Cloudsnake Matriarch,Uncommon,4,4,4,FALSE,Unit,Primal,19,21.1,1
+Hooru,Hooru Insignia,Uncommon,4,4,4,FALSE,Power,Hooru,19,21.1,1
+Hooru,Heretic's Cannon,Uncommon,4,3,4,FALSE,Weapon,Fire,19,15.8,1.3
+Hooru,Wild Cloudsnake,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Primal,19,15.8,1
+Hooru,Throne Warden,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Justice,19,15.8,1
+Hooru,Fearless Yeti,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Primal,19,15.8,1
+Hooru,Kosul Battlemage,Uncommon,3,2,3.9000000000000004,TRUE,Unit,Justice,19,10.5,1.5
+Hooru,Defiance,Uncommon,3,3,3.9000000000000004,TRUE,Fast Spell,Justice,19,15.8,1
+Hooru,Aggressive Ursine,Uncommon,3,3,3,FALSE,Unit,Primal,19,15.8,1
+Hooru,Headhunter,Uncommon,3,2,3,FALSE,Unit,Justice,19,10.5,1.5
+Hooru,Silverwing Familiar,Uncommon,2,2,2.6,TRUE,Unit,Justice,19,10.5,1
+Hooru,Ceremonial Mask,Uncommon,2,2,2.6,TRUE,Relic Weapon,Justice,19,10.5,1
+Hooru,Skycrag Wyvarch,Uncommon,2,2,2.6,TRUE,Unit,Primal,19,10.5,1
+Hooru,Silverwing Smith,Uncommon,2,2,2.6,TRUE,Unit,Justice,19,10.5,1
+Hooru,Storm Talisman,Uncommon,2,1,2.6,TRUE,Relic,Primal,19,5.3,2
+Hooru,Freewing Glider,Uncommon,2,2,2.6,TRUE,Weapon,Primal,19,10.5,1
+Hooru,Resolute Paladin,Uncommon,2,2,2.6,TRUE,Unit,Justice,19,10.5,1
+Hooru,Rallying Banner,Uncommon,2,2,2.6,TRUE,Relic,Justice,19,10.5,1
+Hooru,Storm Spiral,Uncommon,2,2,2.6,TRUE,Fast Spell,Primal,19,10.5,1
+Hooru,Auric Weaponsmith,Uncommon,2,2,2.6,TRUE,Unit,Justice,19,10.5,1
+Hooru,Relentless Deadshot,Uncommon,2,2,2,FALSE,Unit,Justice,19,10.5,1
+Hooru,Dinomancy Enthusiast,Uncommon,2,2,2,FALSE,Unit,Primal,19,10.5,1
+Hooru,Gustrider,Uncommon,2,2,2,FALSE,Unit,Primal,19,10.5,1
+Hooru,Avalanche Yeti,Uncommon,2,2,2,FALSE,Unit,Primal,19,10.5,1
+Hooru,Re-read,Uncommon,2,2,2,FALSE,Spell,Primal,19,10.5,1
+Hooru,Peaktop Trekker,Uncommon,2,2,2,FALSE,Unit,Primal,19,10.5,1
+Hooru,Seat of Order,Uncommon,1,1,1.3,TRUE,Power,Hooru,19,5.3,1
+Hooru,Seat of Fury,Uncommon,1,1,1.3,TRUE,Power,Skycrag,19,5.3,1
+Hooru,Seat of Glory,Uncommon,1,1,1.3,TRUE,Power,Rakano,19,5.3,1
+Hooru,Seat of Progress,Uncommon,1,1,1.3,TRUE,Power,Combrei,19,5.3,1
+Hooru,Seat of Cunning,Uncommon,1,1,1.3,TRUE,Power,Feln,19,5.3,1
+Hooru,Seat of Wisdom,Uncommon,1,1,1.3,TRUE,Power,Elysian,19,5.3,1
+Hooru,Tinker Apprentice,Uncommon,1,1,1.3,TRUE,Unit,Justice,19,5.3,1
+Hooru,Armorsmith,Uncommon,1,1,1.3,TRUE,Unit,Justice,19,5.3,1
+Hooru,Tundra Explorer,Uncommon,1,1,1.3,TRUE,Unit,Primal,19,5.3,1
+Hooru,Icebreaker,Uncommon,1,1,1.3,TRUE,Unit,Primal,19,5.3,1
+Hooru,Stormcaller,Uncommon,1,1,1.3,TRUE,Unit,Primal,19,5.3,1
+Hooru,Lumbering Gruan,Uncommon,1,1,1.3,TRUE,Unit,Primal,19,5.3,1
+Hooru,Horngrinder,Uncommon,1,1,1.3,TRUE,Unit,Justice,19,5.3,1
+Hooru,Valkyrie Bodyguard,Uncommon,1,1,1.3,TRUE,Unit,Justice,19,5.3,1
+Hooru,Heirloom Blade,Uncommon,1,1,1.3,TRUE,Relic Weapon,Justice,19,5.3,1
+Hooru,Savage Denial,Uncommon,1,1,1.3,TRUE,Fast Spell,Primal,19,5.3,1
+Hooru,Pitfall Trap,Uncommon,1,1,1.3,TRUE,Relic,Primal,19,5.3,1
+Hooru,Silver Shortsword,Uncommon,1,1,1,FALSE,Relic Weapon,Justice,19,5.3,1
+Hooru,Touch of Grace,Uncommon,1,1,1,FALSE,Fast Spell,Justice,19,5.3,1
+Hooru,Reclaim,Uncommon,1,1,1,FALSE,Spell,Justice,19,5.3,1
+Hooru,Unseen Ghostblade,Uncommon,1,1,1,FALSE,Relic Weapon,Justice,19,5.3,1
+Hooru,Valkyrie Accuser,Uncommon,1,1,1,FALSE,Unit,Justice,19,5.3,1
+Hooru,Good Idea at the Time,Uncommon,1,1,1,FALSE,Spell,Primal,19,5.3,1
+Hooru,Warning Jolt,Uncommon,1,1,1,FALSE,Fast Spell,Primal,19,5.3,1
+Hooru,Read the Runes,Uncommon,1,1,1,FALSE,Fast Spell,Primal,19,5.3,1
+Hooru,Isolate,Uncommon,1,1,1,FALSE,Fast Spell,Justice,19,5.3,1
+Argenport,Tauride Test Pilot,Common,20,15,20,FALSE,Unit,Justice,23,65.2,1.3
+Argenport,Svetya's Faithful,Common,18,11,18,FALSE,Unit,Justice,23,47.8,1.6
+Argenport,Retribution,Common,18,12,18,FALSE,Spell,Justice,23,52.2,1.5
+Argenport,Dark Return,Common,14,10,15.400000000000002,TRUE,Spell,Shadow,23,43.5,1.4
+Argenport,Roosting Warhawk,Common,15,11,15,FALSE,Unit,Justice,23,47.8,1.4
+Argenport,Emerald Coin,Common,15,13,15,FALSE,Power,Justice,23,56.5,1.2
+Argenport,Argenport Soldier,Common,13,11,14.3,TRUE,Unit,Justice,23,47.8,1.2
+Argenport,Valkyrie Militant,Common,13,9,14.3,TRUE,Unit,Justice,23,39.1,1.4
+Argenport,Scavenging Vulture,Common,12,9,13.200000000000001,TRUE,Unit,Shadow,23,39.1,1.3
+Argenport,Mithril Mace,Common,11,9,12.100000000000001,TRUE,Relic Weapon,Justice,23,39.1,1.2
+Argenport,Sharpened Reflex,Common,11,9,12.100000000000001,TRUE,Fast Spell,Justice,23,39.1,1.2
+Argenport,Steadfast Paladin,Common,12,10,12,FALSE,Unit,Justice,23,43.5,1.2
+Argenport,High Alert,Common,12,11,12,FALSE,Fast Spell,Justice,23,47.8,1.1
+Argenport,Razorquill,Common,12,8,12,FALSE,Unit,Shadow,23,34.8,1.5
+Argenport,Brightmace Paladin,Common,10,8,11,TRUE,Unit,Justice,23,34.8,1.2
+Argenport,Seek Power,Common,10,7,11,TRUE,Spell,Neutral,23,30.4,1.4
+Argenport,Fall Short,Common,10,7,11,TRUE,Fast Spell,Justice,23,30.4,1.4
+Argenport,Stonescar Outfitter,Common,11,10,11,FALSE,Unit,Shadow,23,43.5,1.1
+Argenport,Bloodnurse,Common,10,7,10,FALSE,Unit,Shadow,23,30.4,1.4
+Argenport,Eviscerate,Common,10,9,10,FALSE,Spell,Shadow,23,39.1,1.1
+Argenport,Extract,Common,9,8,9.9,TRUE,Spell,Shadow,23,34.8,1.1
+Argenport,Mob Rule,Common,9,8,9.9,TRUE,Fast Spell,Shadow,23,34.8,1.1
+Argenport,Flickerling,Common,9,7,9.9,TRUE,Unit,Shadow,23,30.4,1.3
+Argenport,Auric Lookout,Common,9,7,9,FALSE,Unit,Justice,23,30.4,1.3
+Argenport,Kosul Bladebarrier,Common,9,8,9,FALSE,Unit,Justice,23,34.8,1.1
+Argenport,Direfang Spider,Common,8,8,8.8,TRUE,Unit,Shadow,23,34.8,1
+Argenport,Soaring Guard,Common,8,7,8.8,TRUE,Unit,Justice,23,30.4,1.1
+Argenport,Curator's Spear,Common,8,8,8.8,TRUE,Relic Weapon,Shadow,23,34.8,1
+Argenport,Crooked Alleyguide,Common,8,7,8,FALSE,Unit,Shadow,23,30.4,1.1
+Argenport,Flash Grenade,Common,8,6,8,FALSE,Fast Spell,Justice,23,26.1,1.3
+Argenport,Lingering Influence,Common,7,6,7.700000000000001,TRUE,Spell,Justice,23,26.1,1.2
+Argenport,Kosul Diplomat,Common,7,6,7.700000000000001,TRUE,Unit,Justice,23,26.1,1.2
+Argenport,Angry Prophet,Common,7,5,7,FALSE,Unit,Shadow,23,21.7,1.4
+Argenport,Bandit's Flail,Common,7,5,7,FALSE,Relic Weapon,Shadow,23,21.7,1.4
+Argenport,Copperhall Recruit,Common,6,4,6.6000000000000005,TRUE,Unit,Justice,23,17.4,1.5
+Argenport,Inspire Obedience,Common,6,5,6.6000000000000005,TRUE,Spell,Shadow,23,21.7,1.2
+Argenport,Amethyst Coin,Common,6,4,6,FALSE,Power,Shadow,23,17.4,1.5
+Argenport,Warfront Missionary,Common,6,6,6,FALSE,Unit,Justice,23,26.1,1
+Argenport,Downfall,Common,5,5,5.5,TRUE,Spell,Justice,23,21.7,1
+Argenport,Spellstrike Sorceress,Common,5,4,5,FALSE,Unit,Justice,23,17.4,1.2
+Argenport,Kosul Curator,Common,5,4,5,FALSE,Unit,Justice,23,17.4,1.2
+Argenport,Twin Sai,Common,5,5,5,FALSE,Relic Weapon,Justice,23,21.7,1
+Argenport,Detain,Common,4,4,4.4,TRUE,Fast Spell,Justice,23,17.4,1
+Argenport,Venomfang Dagger,Common,4,3,4.4,TRUE,Weapon,Shadow,23,13,1.3
+Argenport,Worn Shield,Common,4,2,4.4,TRUE,Weapon,Neutral,23,8.7,2
+Argenport,Cobalt Coin,Common,4,3,4,FALSE,Power,Primal,23,13,1.3
+Argenport,Scheme,Common,3,3,3.3000000000000003,TRUE,Spell,Shadow,23,13,1
+Argenport,Sorrow's Shroud,Common,3,3,3.3000000000000003,TRUE,Weapon,Shadow,23,13,1
+Argenport,Muck Crawler,Common,3,2,3,FALSE,Unit,Shadow,23,8.7,1.5
+Argenport,Flash Freeze,Common,2,2,2.2,TRUE,Fast Spell,Primal,23,8.7,1
+Argenport,Direwood Rampager,Common,2,2,2.2,TRUE,Unit,Shadow,23,8.7,1
+Argenport,Tinker,Common,2,2,2.2,TRUE,Spell,Justice,23,8.7,1
+Argenport,Afterimage,Common,2,2,2.2,TRUE,Spell,Shadow,23,8.7,1
+Argenport,Improvised Club,Common,2,2,2.2,TRUE,Relic Weapon,Shadow,23,8.7,1
+Argenport,Unchecked Aggression,Common,2,1,2,FALSE,Fast Spell,Shadow,23,4.3,2
+Argenport,Gorgon Cutthroat,Common,2,2,2,FALSE,Unit,Shadow,23,8.7,1
+Argenport,Streets Aflame,Common,2,1,2,FALSE,Fast Spell,Fire,23,4.3,2
+Argenport,Horn of Plenty,Common,2,2,2,FALSE,Relic,Time,23,8.7,1
+Argenport,Heist,Common,2,2,2,FALSE,Spell,Justice,23,8.7,1
+Argenport,Daze,Common,1,1,1.1,TRUE,Fast Spell,Neutral,23,4.3,1
+Argenport,Steadfast Deputy,Common,1,1,1.1,TRUE,Unit,Justice,23,4.3,1
+Argenport,Icebow,Common,1,1,1.1,TRUE,Weapon,Primal,23,4.3,1
+Argenport,Spire Spellsword,Common,1,1,1.1,TRUE,Unit,Justice,23,4.3,1
+Argenport,Watchful Amanera,Common,1,1,1.1,TRUE,Unit,Time,23,4.3,1
+Argenport,Iron Hook,Common,1,1,1.1,TRUE,Relic Weapon,Neutral,23,4.3,1
+Argenport,Granite Coin,Common,1,1,1,FALSE,Power,Fire,23,4.3,1
+Argenport,Char,Common,1,1,1,FALSE,Fast Spell,Fire,23,4.3,1
+Argenport,Amber Coin,Common,1,1,1,FALSE,Power,Time,23,4.3,1
+Argenport,Submerged Titan,Common,1,1,1,FALSE,Unit,Time,23,4.3,1
+Argenport,Corrupted Behemoth,Common,1,1,1,FALSE,Unit,Time,23,4.3,1
+Argenport,Suffocate,Uncommon,9,7,11.700000000000001,TRUE,Spell,Shadow,23,30.4,1.3
+Argenport,Beastcaller's Amulet,Uncommon,7,7,9.1,TRUE,Weapon,Shadow,23,30.4,1
+Argenport,Throne Warden,Uncommon,7,4,9.1,TRUE,Unit,Justice,23,17.4,1.8
+Argenport,Lethrai Direbeast,Uncommon,7,6,7,FALSE,Unit,Shadow,23,26.1,1.2
+Argenport,Umbren Voidbringer,Uncommon,7,7,7,FALSE,Unit,Shadow,23,30.4,1
+Argenport,Relentless Deadshot,Uncommon,6,6,6,FALSE,Unit,Justice,23,26.1,1
+Argenport,Unseen Ghostblade,Uncommon,6,6,6,FALSE,Relic Weapon,Justice,23,26.1,1
+Argenport,Death Ripple,Uncommon,6,6,6,FALSE,Spell,Shadow,23,26.1,1
+Argenport,Seat of Glory,Uncommon,4,3,5.2,TRUE,Power,Rakano,23,13,1.3
+Argenport,Horngrinder,Uncommon,4,4,5.2,TRUE,Unit,Justice,23,17.4,1
+Argenport,Silverwing Smith,Uncommon,4,4,5.2,TRUE,Unit,Justice,23,17.4,1
+Argenport,Kosul Battlemage,Uncommon,4,4,5.2,TRUE,Unit,Justice,23,17.4,1
+Argenport,Cabal Standard,Uncommon,4,4,5.2,TRUE,Power,Shadow,23,17.4,1
+Argenport,Crownwatch Standard,Uncommon,4,4,5.2,TRUE,Power,Justice,23,17.4,1
+Argenport,Shieldcrafter,Uncommon,5,4,5,FALSE,Unit,Justice,23,17.4,1.2
+Argenport,Valkyrie Accuser,Uncommon,5,5,5,FALSE,Unit,Justice,23,21.7,1
+Argenport,Cabal Repeater,Uncommon,5,4,5,FALSE,Unit,Shadow,23,17.4,1.2
+Argenport,Headhunter,Uncommon,5,3,5,FALSE,Unit,Justice,23,13,1.7
+Argenport,War Wagon,Uncommon,4,4,4,FALSE,Unit,Justice,23,17.4,1
+Argenport,Steel Legion,Uncommon,4,3,4,FALSE,Unit,Justice,23,13,1.3
+Argenport,Fallen Militiaman,Uncommon,4,3,4,FALSE,Unit,Shadow,23,13,1.3
+Argenport,Isolate,Uncommon,4,4,4,FALSE,Fast Spell,Justice,23,17.4,1
+Argenport,Seat of Vengeance,Uncommon,3,3,3.9000000000000004,TRUE,Power,Argenport,23,13,1
+Argenport,Horsesnatcher Bat,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Shadow,23,13,1
+Argenport,Valkyrie Bodyguard,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Justice,23,13,1
+Argenport,Grenadin Bellower,Uncommon,3,2,3.9000000000000004,TRUE,Unit,Shadow,23,8.7,1.5
+Argenport,Defiance,Uncommon,3,3,3.9000000000000004,TRUE,Fast Spell,Justice,23,13,1
+Argenport,Stained Honor,Uncommon,3,3,3,FALSE,Unit,Shadow,23,13,1
+Argenport,Hunting Anoura,Uncommon,3,3,3,FALSE,Unit,Shadow,23,13,1
+Argenport,Pioneering Aviator,Uncommon,3,2,3,FALSE,Unit,Justice,23,8.7,1.5
+Argenport,Bronze Cuirass,Uncommon,2,2,2.6,TRUE,Weapon,Justice,23,8.7,1
+Argenport,Silverwing Familiar,Uncommon,2,2,2.6,TRUE,Unit,Justice,23,8.7,1
+Argenport,Ceremonial Mask,Uncommon,2,2,2.6,TRUE,Relic Weapon,Justice,23,8.7,1
+Argenport,Lifedrinker,Uncommon,2,2,2.6,TRUE,Relic Weapon,Shadow,23,8.7,1
+Argenport,Cabal Cutthroat,Uncommon,2,2,2.6,TRUE,Unit,Shadow,23,8.7,1
+Argenport,Rampart Arbalest,Uncommon,2,2,2.6,TRUE,Relic Weapon,Justice,23,8.7,1
+Argenport,Sewer Sludge,Uncommon,2,2,2.6,TRUE,Unit,Shadow,23,8.7,1
+Argenport,Auric Weaponsmith,Uncommon,2,2,2.6,TRUE,Unit,Justice,23,8.7,1
+Argenport,Spiteful Strike,Uncommon,2,2,2,FALSE,Fast Spell,Shadow,23,8.7,1
+Argenport,Seek Answers,Uncommon,2,2,2,FALSE,Spell,Neutral,23,8.7,1
+Argenport,Seat of Progress,Uncommon,1,1,1.3,TRUE,Power,Combrei,23,4.3,1
+Argenport,Seat of Chaos,Uncommon,1,1,1.3,TRUE,Power,Stonescar,23,4.3,1
+Argenport,Tinker Apprentice,Uncommon,1,1,1.3,TRUE,Unit,Justice,23,4.3,1
+Argenport,Armorsmith,Uncommon,1,1,1.3,TRUE,Unit,Justice,23,4.3,1
+Argenport,Permafrost,Uncommon,1,1,1.3,TRUE,Curse,Primal,23,4.3,1
+Argenport,Family Charter,Uncommon,1,1,1.3,TRUE,Relic,Neutral,23,4.3,1
+Argenport,Shugo Standard,Uncommon,1,1,1.3,TRUE,Power,Fire,23,4.3,1
+Argenport,Resolute Paladin,Uncommon,1,1,1.3,TRUE,Unit,Justice,23,4.3,1
+Argenport,Heirloom Blade,Uncommon,1,1,1.3,TRUE,Relic Weapon,Justice,23,4.3,1
+Argenport,Umbren Deathwatcher,Uncommon,1,1,1.3,TRUE,Unit,Shadow,23,4.3,1
+Argenport,Rallying Banner,Uncommon,1,1,1.3,TRUE,Relic,Justice,23,4.3,1
+Argenport,Silver Shortsword,Uncommon,1,1,1,FALSE,Relic Weapon,Justice,23,4.3,1
+Argenport,Touch of Grace,Uncommon,1,1,1,FALSE,Fast Spell,Justice,23,4.3,1
+Argenport,Inner Might,Uncommon,1,1,1,FALSE,Fast Spell,Justice,23,4.3,1
+Argenport,Remembrance,Uncommon,1,1,1,FALSE,Spell,Shadow,23,4.3,1
+Argenport,Auric Reclaimer,Uncommon,1,1,1,FALSE,Unit,Shadow,23,4.3,1
+Argenport,Illicit Armament,Uncommon,1,1,1,FALSE,Spell,Shadow,23,4.3,1
+Argenport,Darkweave Enchantress,Uncommon,1,1,1,FALSE,Unit,Shadow,23,4.3,1
+Argenport,Wretched Talon,Uncommon,1,1,1,FALSE,Relic Weapon,Shadow,23,4.3,1
+Argenport,Combrei Insignia,Uncommon,1,1,1,FALSE,Power,Combrei,23,4.3,1
+Argenport,Hooru Insignia,Uncommon,1,1,1,FALSE,Power,Hooru,23,4.3,1
+Argenport,Heretic's Cannon,Uncommon,1,1,1,FALSE,Weapon,Fire,23,4.3,1
+Argenport,Novice Entomancer,Uncommon,1,1,1,FALSE,Unit,Time,23,4.3,1
+Combrei,Corrupted Behemoth,Common,46,30,46,FALSE,Unit,Time,41,73.2,1.5
+Combrei,Retribution,Common,35,21,35,FALSE,Spell,Justice,41,51.2,1.7
+Combrei,Argenport Soldier,Common,28,23,30.800000000000004,TRUE,Unit,Justice,41,56.1,1.2
+Combrei,Quicksilver Ooze,Common,30,20,30,FALSE,Unit,Time,41,48.8,1.5
+Combrei,Fall Short,Common,26,21,28.6,TRUE,Fast Spell,Justice,41,51.2,1.2
+Combrei,Training Ground,Common,25,19,27.500000000000004,TRUE,Spell,Time,41,46.3,1.3
+Combrei,Svetya's Faithful,Common,25,17,25,FALSE,Unit,Justice,41,41.5,1.5
+Combrei,Wurmstone,Common,22,15,24.200000000000003,TRUE,Relic,Time,41,36.6,1.5
+Combrei,Tauride Test Pilot,Common,24,18,24,FALSE,Unit,Justice,41,43.9,1.3
+Combrei,Dispel,Common,21,17,23.1,TRUE,Spell,Time,41,41.5,1.2
+Combrei,Learned Herbalist,Common,20,14,22,TRUE,Unit,Time,41,34.1,1.4
+Combrei,Tremorshocker,Common,22,17,22,FALSE,Unit,Time,41,41.5,1.3
+Combrei,Flash Grenade,Common,22,17,22,FALSE,Fast Spell,Justice,41,41.5,1.3
+Combrei,Steadfast Paladin,Common,21,16,21,FALSE,Unit,Justice,41,39,1.3
+Combrei,Roosting Warhawk,Common,21,16,21,FALSE,Unit,Justice,41,39,1.3
+Combrei,Devotee of the Sands,Common,21,18,21,FALSE,Unit,Time,41,43.9,1.2
+Combrei,Brightmace Paladin,Common,19,13,20.900000000000002,TRUE,Unit,Justice,41,31.7,1.5
+Combrei,Avirax Familiar,Common,19,14,20.900000000000002,TRUE,Unit,Time,41,34.1,1.4
+Combrei,Lingering Influence,Common,19,15,20.900000000000002,TRUE,Spell,Justice,41,36.6,1.3
+Combrei,Watchful Amanera,Common,19,15,20.900000000000002,TRUE,Unit,Time,41,36.6,1.3
+Combrei,High Alert,Common,18,16,18,FALSE,Fast Spell,Justice,41,39,1.1
+Combrei,Displaced Oryctodon,Common,18,15,18,FALSE,Unit,Time,41,36.6,1.2
+Combrei,Awakened Sentinel,Common,16,15,17.6,TRUE,Unit,Time,41,36.6,1.1
+Combrei,Detain,Common,15,14,16.5,TRUE,Fast Spell,Justice,41,34.1,1.1
+Combrei,Soaring Guard,Common,15,9,16.5,TRUE,Unit,Justice,41,22,1.7
+Combrei,Amber Coin,Common,16,15,16,FALSE,Power,Time,41,36.6,1.1
+Combrei,Omnivorous Vorlunk,Common,16,14,16,FALSE,Unit,Time,41,34.1,1.1
+Combrei,Arcanum Elite,Common,15,14,15,FALSE,Unit,Time,41,34.1,1.1
+Combrei,Horn of Plenty,Common,15,14,15,FALSE,Relic,Time,41,34.1,1.1
+Combrei,Horned Vorlunk,Common,13,12,14.3,TRUE,Unit,Time,41,29.3,1.1
+Combrei,Auric Lookout,Common,14,11,14,FALSE,Unit,Justice,41,26.8,1.3
+Combrei,Spellstrike Sorceress,Common,14,11,14,FALSE,Unit,Justice,41,26.8,1.3
+Combrei,Mithril Mace,Common,12,12,13.200000000000001,TRUE,Relic Weapon,Justice,41,29.3,1
+Combrei,Sharpened Reflex,Common,12,11,13.200000000000001,TRUE,Fast Spell,Justice,41,26.8,1.1
+Combrei,Deft Strike,Common,12,12,13.200000000000001,TRUE,Spell,Time,41,29.3,1
+Combrei,Kosul Diplomat,Common,12,12,13.200000000000001,TRUE,Unit,Justice,41,29.3,1
+Combrei,Emerald Coin,Common,13,12,13,FALSE,Power,Justice,41,29.3,1.1
+Combrei,Copperhall Recruit,Common,11,9,12.100000000000001,TRUE,Unit,Justice,41,22,1.2
+Combrei,Refresh,Common,11,11,12.100000000000001,TRUE,Fast Spell,Time,41,26.8,1
+Combrei,Valkyrie Militant,Common,11,10,12.100000000000001,TRUE,Unit,Justice,41,24.4,1.1
+Combrei,Sauropod Crasher,Common,12,8,12,FALSE,Unit,Time,41,19.5,1.5
+Combrei,Seek Power,Common,10,10,11,TRUE,Spell,Neutral,41,24.4,1
+Combrei,Kosul Curator,Common,11,10,11,FALSE,Unit,Justice,41,24.4,1.1
+Combrei,Blink,Common,10,9,10,FALSE,Fast Spell,Time,41,22,1.1
+Combrei,Envelop,Common,9,8,9.9,TRUE,Fast Spell,Time,41,19.5,1.1
+Combrei,Mute,Common,9,8,9,FALSE,Fast Spell,Time,41,19.5,1.1
+Combrei,Spire Spellsword,Common,8,5,8.8,TRUE,Unit,Justice,41,12.2,1.6
+Combrei,Downfall,Common,8,7,8.8,TRUE,Spell,Justice,41,17.1,1.1
+Combrei,Warfront Missionary,Common,8,8,8,FALSE,Unit,Justice,41,19.5,1
+Combrei,Submerged Titan,Common,7,7,7,FALSE,Unit,Time,41,17.1,1
+Combrei,Steadfast Deputy,Common,5,3,5.5,TRUE,Unit,Justice,41,7.3,1.7
+Combrei,Phase Out,Common,5,4,5,FALSE,Spell,Time,41,9.8,1.2
+Combrei,Pack Hunt,Common,4,4,4.4,TRUE,Spell,Time,41,9.8,1
+Combrei,Excavation Assistant,Common,3,3,3.3000000000000003,TRUE,Unit,Time,41,7.3,1
+Combrei,Tinker,Common,3,3,3.3000000000000003,TRUE,Spell,Justice,41,7.3,1
+Combrei,Meditation,Common,3,3,3.3000000000000003,TRUE,Fast Spell,Time,41,7.3,1
+Combrei,Granite Coin,Common,3,2,3,FALSE,Power,Fire,41,4.9,1.5
+Combrei,Twin Sai,Common,3,3,3,FALSE,Relic Weapon,Justice,41,7.3,1
+Combrei,Cobalt Coin,Common,3,3,3,FALSE,Power,Primal,41,7.3,1
+Combrei,Worn Shield,Common,2,2,2.2,TRUE,Weapon,Neutral,41,4.9,1
+Combrei,Viper's Bite,Common,2,2,2.2,TRUE,Fast Spell,Time,41,4.9,1
+Combrei,Mob Rule,Common,2,1,2.2,TRUE,Fast Spell,Shadow,41,2.4,2
+Combrei,Iron Hook,Common,2,2,2.2,TRUE,Relic Weapon,Neutral,41,4.9,1
+Combrei,Kosul Bladebarrier,Common,2,2,2,FALSE,Unit,Justice,41,4.9,1
+Combrei,Eviscerate,Common,2,1,2,FALSE,Spell,Shadow,41,2.4,2
+Combrei,Heist,Common,2,2,2,FALSE,Spell,Justice,41,4.9,1
+Combrei,Lightning Strike,Common,1,1,1.1,TRUE,Fast Spell,Primal,41,2.4,1
+Combrei,Scheme,Common,1,1,1.1,TRUE,Spell,Shadow,41,2.4,1
+Combrei,Dark Return,Common,1,1,1.1,TRUE,Spell,Shadow,41,2.4,1
+Combrei,Venomfang Dagger,Common,1,1,1.1,TRUE,Weapon,Shadow,41,2.4,1
+Combrei,Daze,Common,1,1,1.1,TRUE,Fast Spell,Neutral,41,2.4,1
+Combrei,Pummel,Common,1,1,1.1,TRUE,Fast Spell,Fire,41,2.4,1
+Combrei,Blinkwolf,Common,1,1,1.1,TRUE,Unit,Fire,41,2.4,1
+Combrei,Backpacker's Machete,Common,1,1,1.1,TRUE,Weapon,Fire,41,2.4,1
+Combrei,Cryptic Etchings,Common,1,1,1.1,TRUE,Relic,Time,41,2.4,1
+Combrei,Spitfire,Common,1,1,1.1,TRUE,Relic,Fire,41,2.4,1
+Combrei,Yeti Bully,Common,1,1,1,FALSE,Unit,Primal,41,2.4,1
+Combrei,Death from Above,Common,1,1,1,FALSE,Spell,Primal,41,2.4,1
+Combrei,Bandit's Flail,Common,1,1,1,FALSE,Relic Weapon,Shadow,41,2.4,1
+Combrei,Razorquill,Common,1,1,1,FALSE,Unit,Shadow,41,2.4,1
+Combrei,Char,Common,1,1,1,FALSE,Fast Spell,Fire,41,2.4,1
+Combrei,Mining Team,Common,1,1,1,FALSE,Unit,Fire,41,2.4,1
+Combrei,Outdraw,Common,1,1,1,FALSE,Spell,Fire,41,2.4,1
+Combrei,Blurreechaser,Common,1,1,1,FALSE,Unit,Fire,41,2.4,1
+Combrei,Blurred Stygimoloch,Uncommon,13,10,13,FALSE,Unit,Time,41,24.4,1.3
+Combrei,Crownwatch Standard,Uncommon,9,8,11.700000000000001,TRUE,Power,Justice,41,19.5,1.1
+Combrei,Relentless Deadshot,Uncommon,11,9,11,FALSE,Unit,Justice,41,22,1.2
+Combrei,Plated Goliath,Uncommon,8,7,10.4,TRUE,Unit,Time,41,17.1,1.1
+Combrei,Temple Standard,Uncommon,8,6,10.4,TRUE,Power,Time,41,14.6,1.3
+Combrei,Steel Legion,Uncommon,10,10,10,FALSE,Unit,Justice,41,24.4,1
+Combrei,Seat of Progress,Uncommon,7,7,9.1,TRUE,Power,Combrei,41,17.1,1
+Combrei,Ceremonial Mask,Uncommon,7,7,9.1,TRUE,Relic Weapon,Justice,41,17.1,1
+Combrei,Scorpion Wasp,Uncommon,7,6,9.1,TRUE,Unit,Time,41,14.6,1.2
+Combrei,Combrei Insignia,Uncommon,8,8,8,FALSE,Power,Combrei,41,19.5,1
+Combrei,Burdenbearer Wisp,Uncommon,7,7,7,FALSE,Unit,Time,41,17.1,1
+Combrei,Venomous Mount,Uncommon,7,6,7,FALSE,Unit,Time,41,14.6,1.2
+Combrei,Throne Warden,Uncommon,5,5,6.5,TRUE,Unit,Justice,41,12.2,1
+Combrei,Healer's Cloak,Uncommon,5,5,6.5,TRUE,Weapon,Time,41,12.2,1
+Combrei,Silverwing Familiar,Uncommon,4,4,5.2,TRUE,Unit,Justice,41,9.8,1
+Combrei,Kosul Battlemage,Uncommon,4,4,5.2,TRUE,Unit,Justice,41,9.8,1
+Combrei,Gathering Lights,Uncommon,4,3,5.2,TRUE,Spell,Time,41,7.3,1.3
+Combrei,Stinging Wind,Uncommon,4,4,5.2,TRUE,Unit,Time,41,9.8,1
+Combrei,Ancient Excavator,Uncommon,4,4,5.2,TRUE,Unit,Time,41,9.8,1
+Combrei,Unseen Ghostblade,Uncommon,5,5,5,FALSE,Relic Weapon,Justice,41,12.2,1
+Combrei,Valkyrie Accuser,Uncommon,4,4,4,FALSE,Unit,Justice,41,9.8,1
+Combrei,Bulbous Humbug,Uncommon,4,4,4,FALSE,Unit,Time,41,9.8,1
+Combrei,Novice Entomancer,Uncommon,4,3,4,FALSE,Unit,Time,41,7.3,1.3
+Combrei,Temporal Adept,Uncommon,4,4,4,FALSE,Unit,Time,41,9.8,1
+Combrei,Isolate,Uncommon,4,4,4,FALSE,Fast Spell,Justice,41,9.8,1
+Combrei,Pioneering Aviator,Uncommon,4,4,4,FALSE,Unit,Justice,41,9.8,1
+Combrei,Seat of Vengeance,Uncommon,3,2,3.9000000000000004,TRUE,Power,Argenport,41,4.9,1.5
+Combrei,Suffocate,Uncommon,3,2,3.9000000000000004,TRUE,Spell,Shadow,41,4.9,1.5
+Combrei,Defiance,Uncommon,3,3,3.9000000000000004,TRUE,Fast Spell,Justice,41,7.3,1
+Combrei,Auric Weaponsmith,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Justice,41,7.3,1
+Combrei,Inner Might,Uncommon,3,3,3,FALSE,Fast Spell,Justice,41,7.3,1
+Combrei,War Wagon,Uncommon,3,3,3,FALSE,Unit,Justice,41,7.3,1
+Combrei,Seek Answers,Uncommon,3,3,3,FALSE,Spell,Neutral,41,7.3,1
+Combrei,Adolescent Deathjaw,Uncommon,3,3,3,FALSE,Unit,Time,41,7.3,1
+Combrei,Search Party,Uncommon,3,3,3,FALSE,Spell,Time,41,7.3,1
+Combrei,Swirl the Sands,Uncommon,3,3,3,FALSE,Fast Spell,Time,41,7.3,1
+Combrei,Seat of Order,Uncommon,2,2,2.6,TRUE,Power,Hooru,41,4.9,1
+Combrei,Seat of Glory,Uncommon,2,1,2.6,TRUE,Power,Rakano,41,2.4,2
+Combrei,Seat of Mystery,Uncommon,2,1,2.6,TRUE,Power,Xenan,41,2.4,2
+Combrei,Ancient Lore,Uncommon,2,2,2.6,TRUE,Spell,Time,41,4.9,1
+Combrei,Oasis Seeker,Uncommon,2,2,2.6,TRUE,Unit,Time,41,4.9,1
+Combrei,Camp Physician,Uncommon,2,2,2.6,TRUE,Unit,Time,41,4.9,1
+Combrei,Snapping Brushstalker,Uncommon,2,2,2.6,TRUE,Unit,Time,41,4.9,1
+Combrei,Valkyrie Bodyguard,Uncommon,2,2,2.6,TRUE,Unit,Justice,41,4.9,1
+Combrei,Rampart Arbalest,Uncommon,2,2,2.6,TRUE,Relic Weapon,Justice,41,4.9,1
+Combrei,Porcelain Mask,Uncommon,2,2,2.6,TRUE,Relic,Time,41,4.9,1
+Combrei,Silver Shortsword,Uncommon,2,2,2,FALSE,Relic Weapon,Justice,41,4.9,1
+Combrei,Touch of Grace,Uncommon,2,2,2,FALSE,Fast Spell,Justice,41,4.9,1
+Combrei,Kemmo's Blueprints,Uncommon,2,2,2,FALSE,Spell,Justice,41,4.9,1
+Combrei,Trickster Mage,Uncommon,2,2,2,FALSE,Unit,Time,41,4.9,1
+Combrei,Headhunter,Uncommon,2,2,2,FALSE,Unit,Justice,41,4.9,1
+Combrei,Bronze Cuirass,Uncommon,1,1,1.3,TRUE,Weapon,Justice,41,2.4,1
+Combrei,Excavate,Uncommon,1,1,1.3,TRUE,Fast Spell,Time,41,2.4,1
+Combrei,Silverwing Smith,Uncommon,1,1,1.3,TRUE,Unit,Justice,41,2.4,1
+Combrei,Encouragement,Uncommon,1,1,1.3,TRUE,Spell,Justice,41,2.4,1
+Combrei,Resolute Paladin,Uncommon,1,1,1.3,TRUE,Unit,Justice,41,2.4,1
+Combrei,Heirloom Blade,Uncommon,1,1,1.3,TRUE,Relic Weapon,Justice,41,2.4,1
+Combrei,Initiation Bell,Uncommon,1,1,1.3,TRUE,Relic,Time,41,2.4,1
+Combrei,Reality Shift,Uncommon,1,1,1.3,TRUE,Spell,Time,41,2.4,1
+Combrei,Reclaim,Uncommon,1,1,1,FALSE,Spell,Justice,41,2.4,1
+Combrei,Shieldcrafter,Uncommon,1,1,1,FALSE,Unit,Justice,41,2.4,1
+Combrei,Ferocity of Bear,Uncommon,1,1,1,FALSE,Spell,Primal,41,2.4,1
+Combrei,Zuberi's Longbow,Uncommon,1,1,1,FALSE,Weapon,Fire,41,2.4,1
+Combrei,Spiteful Strike,Uncommon,1,1,1,FALSE,Fast Spell,Shadow,41,2.4,1
+Combrei,Darkweave Enchantress,Uncommon,1,1,1,FALSE,Unit,Shadow,41,2.4,1
+Combrei,Expedition Leader,Uncommon,1,1,1,FALSE,Unit,Time,41,2.4,1
+Combrei,Patience,Uncommon,1,1,1,FALSE,Spell,Time,41,2.4,1
+Combrei,Stillweave Shroud,Uncommon,1,1,1,FALSE,Weapon,Time,41,2.4,1
+Feln,Advance Scout,Common,12,5,13.200000000000001,TRUE,Unit,Primal,11,45.5,2.4
+Feln,Scaly Gruan,Common,10,7,11,TRUE,Unit,Primal,11,63.6,1.4
+Feln,Lightning Strike,Common,8,5,8.8,TRUE,Fast Spell,Primal,11,45.5,1.6
+Feln,Yeti Instigator,Common,8,7,8,FALSE,Unit,Primal,11,63.6,1.1
+Feln,Mob Rule,Common,7,5,7.700000000000001,TRUE,Fast Spell,Shadow,11,45.5,1.4
+Feln,Stonescar Outfitter,Common,7,6,7,FALSE,Unit,Shadow,11,54.5,1.2
+Feln,Scheme,Common,6,5,6.6000000000000005,TRUE,Spell,Shadow,11,45.5,1.2
+Feln,Dark Return,Common,6,6,6.6000000000000005,TRUE,Spell,Shadow,11,54.5,1
+Feln,Scavenging Vulture,Common,6,6,6.6000000000000005,TRUE,Unit,Shadow,11,54.5,1
+Feln,Extract,Common,6,4,6.6000000000000005,TRUE,Spell,Shadow,11,36.4,1.5
+Feln,Razorquill,Common,6,6,6,FALSE,Unit,Shadow,11,54.5,1
+Feln,Belligerent Yeti,Common,5,4,5,FALSE,Unit,Primal,11,36.4,1.2
+Feln,Camp Surveyor,Common,5,4,5,FALSE,Unit,Primal,11,36.4,1.2
+Feln,Bloodnurse,Common,5,3,5,FALSE,Unit,Shadow,11,27.3,1.7
+Feln,Eviscerate,Common,5,5,5,FALSE,Spell,Shadow,11,45.5,1
+Feln,Direwood Rampager,Common,4,4,4.4,TRUE,Unit,Shadow,11,36.4,1
+Feln,Curator's Spear,Common,4,4,4.4,TRUE,Relic Weapon,Shadow,11,36.4,1
+Feln,Flickerling,Common,4,3,4.4,TRUE,Unit,Shadow,11,27.3,1.3
+Feln,Fend Off,Common,4,3,4,FALSE,Fast Spell,Primal,11,27.3,1.3
+Feln,Furnish,Common,4,3,4,FALSE,Fast Spell,Primal,11,27.3,1.3
+Feln,Fledgling Owlet,Common,4,3,4,FALSE,Unit,Primal,11,27.3,1.3
+Feln,Angry Prophet,Common,4,2,4,FALSE,Unit,Shadow,11,18.2,2
+Feln,Crooked Alleyguide,Common,4,4,4,FALSE,Unit,Shadow,11,36.4,1
+Feln,Direwood Lurker,Common,4,4,4,FALSE,Unit,Shadow,11,36.4,1
+Feln,Direfang Spider,Common,3,3,3.3000000000000003,TRUE,Unit,Shadow,11,27.3,1
+Feln,Snowfort,Common,3,3,3.3000000000000003,TRUE,Relic,Primal,11,27.3,1
+Feln,Torrential Downpour,Common,3,2,3.3000000000000003,TRUE,Spell,Primal,11,18.2,1.5
+Feln,Granite Coin,Common,3,3,3,FALSE,Power,Fire,11,27.3,1
+Feln,Cobalt Coin,Common,3,3,3,FALSE,Power,Primal,11,27.3,1
+Feln,Elder Meditant,Common,3,3,3,FALSE,Unit,Primal,11,27.3,1
+Feln,Diving Pteriax,Common,3,3,3,FALSE,Unit,Primal,11,27.3,1
+Feln,Winnow,Common,3,2,3,FALSE,Spell,Shadow,11,18.2,1.5
+Feln,Flash Freeze,Common,2,2,2.2,TRUE,Fast Spell,Primal,11,18.2,1
+Feln,Aerial Ace,Common,2,1,2.2,TRUE,Unit,Primal,11,9.1,2
+Feln,Venomfang Dagger,Common,2,2,2.2,TRUE,Weapon,Shadow,11,18.2,1
+Feln,Seek Power,Common,2,1,2.2,TRUE,Spell,Neutral,11,9.1,2
+Feln,Cloudsnake Hatchling,Common,2,2,2.2,TRUE,Unit,Primal,11,18.2,1
+Feln,Cirso's Meddling,Common,2,2,2.2,TRUE,Fast Spell,Primal,11,18.2,1
+Feln,Sorrow's Shroud,Common,2,2,2.2,TRUE,Weapon,Shadow,11,18.2,1
+Feln,Lock Horns,Common,2,2,2.2,TRUE,Fast Spell,Shadow,11,18.2,1
+Feln,Cabal Scavenger,Common,2,2,2.2,TRUE,Unit,Shadow,11,18.2,1
+Feln,Death from Above,Common,2,2,2,FALSE,Spell,Primal,11,18.2,1
+Feln,Murderous Flock,Common,2,2,2,FALSE,Unit,Primal,11,18.2,1
+Feln,Amethyst Coin,Common,2,2,2,FALSE,Power,Shadow,11,18.2,1
+Feln,Amber Coin,Common,2,1,2,FALSE,Power,Time,11,9.1,2
+Feln,Worn Shield,Common,1,1,1.1,TRUE,Weapon,Neutral,11,9.1,1
+Feln,Trailblaze,Common,1,1,1.1,TRUE,Fast Spell,Primal,11,9.1,1
+Feln,Icebow,Common,1,1,1.1,TRUE,Weapon,Primal,11,9.1,1
+Feln,Inspire Obedience,Common,1,1,1.1,TRUE,Spell,Shadow,11,9.1,1
+Feln,Voracious Fosora,Common,1,1,1.1,TRUE,Unit,Primal,11,9.1,1
+Feln,Iron Hook,Common,1,1,1.1,TRUE,Relic Weapon,Neutral,11,9.1,1
+Feln,Retribution,Common,1,1,1,FALSE,Spell,Justice,11,9.1,1
+Feln,Fragility,Common,1,1,1,FALSE,Curse,Primal,11,9.1,1
+Feln,Snowmass Jotun,Common,1,1,1,FALSE,Unit,Primal,11,9.1,1
+Feln,Boot Knife,Common,1,1,1,FALSE,Relic Weapon,Shadow,11,9.1,1
+Feln,Streets Aflame,Common,1,1,1,FALSE,Fast Spell,Fire,11,9.1,1
+Feln,Omnivorous Vorlunk,Common,1,1,1,FALSE,Unit,Time,11,9.1,1
+Feln,Horn of Plenty,Common,1,1,1,FALSE,Relic,Time,11,9.1,1
+Feln,Spiteful Strike,Uncommon,7,6,7,FALSE,Fast Spell,Shadow,11,54.5,1.2
+Feln,Frost Elemental,Uncommon,6,4,6,FALSE,Unit,Primal,11,36.4,1.5
+Feln,Lightning Sprite,Uncommon,6,4,6,FALSE,Unit,Primal,11,36.4,1.5
+Feln,Death Ripple,Uncommon,6,6,6,FALSE,Spell,Shadow,11,54.5,1
+Feln,Lethrai Direbeast,Uncommon,5,4,5,FALSE,Unit,Shadow,11,36.4,1.2
+Feln,Cloudsnake Matriarch,Uncommon,4,3,4,FALSE,Unit,Primal,11,27.3,1.3
+Feln,Umbren Voidbringer,Uncommon,4,2,4,FALSE,Unit,Shadow,11,18.2,2
+Feln,Wretched Talon,Uncommon,4,4,4,FALSE,Relic Weapon,Shadow,11,36.4,1
+Feln,Feln Insignia,Uncommon,4,4,4,FALSE,Power,Feln,11,36.4,1
+Feln,Stormcaller,Uncommon,3,2,3.9000000000000004,TRUE,Unit,Primal,11,18.2,1.5
+Feln,Skycrag Wyvarch,Uncommon,3,2,3.9000000000000004,TRUE,Unit,Primal,11,18.2,1.5
+Feln,Sadistic Glee,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Shadow,11,27.3,1
+Feln,Aggressive Ursine,Uncommon,3,2,3,FALSE,Unit,Primal,11,18.2,1.5
+Feln,Seat of Cunning,Uncommon,2,2,2.6,TRUE,Power,Feln,11,18.2,1
+Feln,Wild Cloudsnake,Uncommon,2,2,2.6,TRUE,Unit,Primal,11,18.2,1
+Feln,Beastcaller's Amulet,Uncommon,2,1,2.6,TRUE,Weapon,Shadow,11,9.1,2
+Feln,Cabal Cutthroat,Uncommon,2,2,2.6,TRUE,Unit,Shadow,11,18.2,1
+Feln,Horsesnatcher Bat,Uncommon,2,2,2.6,TRUE,Unit,Shadow,11,18.2,1
+Feln,Cabal Standard,Uncommon,2,2,2.6,TRUE,Power,Shadow,11,18.2,1
+Feln,Good Idea at the Time,Uncommon,2,2,2,FALSE,Spell,Primal,11,18.2,1
+Feln,Swift Refusal,Uncommon,2,2,2,FALSE,Fast Spell,Primal,11,18.2,1
+Feln,Avalanche Yeti,Uncommon,2,2,2,FALSE,Unit,Primal,11,18.2,1
+Feln,Peaktop Trekker,Uncommon,2,1,2,FALSE,Unit,Primal,11,9.1,2
+Feln,Auric Reclaimer,Uncommon,2,2,2,FALSE,Unit,Shadow,11,18.2,1
+Feln,Stained Honor,Uncommon,2,2,2,FALSE,Unit,Shadow,11,18.2,1
+Feln,Hunting Anoura,Uncommon,2,2,2,FALSE,Unit,Shadow,11,18.2,1
+Feln,Seat of Order,Uncommon,1,1,1.3,TRUE,Power,Hooru,11,9.1,1
+Feln,Seat of Chaos,Uncommon,1,1,1.3,TRUE,Power,Stonescar,11,9.1,1
+Feln,Seat of Mystery,Uncommon,1,1,1.3,TRUE,Power,Xenan,11,9.1,1
+Feln,Ancient Lore,Uncommon,1,1,1.3,TRUE,Spell,Time,11,9.1,1
+Feln,Permafrost,Uncommon,1,1,1.3,TRUE,Curse,Primal,11,9.1,1
+Feln,Tundra Explorer,Uncommon,1,1,1.3,TRUE,Unit,Primal,11,9.1,1
+Feln,Lifedrinker,Uncommon,1,1,1.3,TRUE,Relic Weapon,Shadow,11,9.1,1
+Feln,Diplomatic Seal,Uncommon,1,1,1.3,TRUE,Power,Neutral,11,9.1,1
+Feln,Scare,Uncommon,1,1,1.3,TRUE,Fast Spell,Shadow,11,9.1,1
+Feln,Fearless Yeti,Uncommon,1,1,1.3,TRUE,Unit,Primal,11,9.1,1
+Feln,Freewing Glider,Uncommon,1,1,1.3,TRUE,Weapon,Primal,11,9.1,1
+Feln,Shugo Standard,Uncommon,1,1,1.3,TRUE,Power,Fire,11,9.1,1
+Feln,Clan Standard,Uncommon,1,1,1.3,TRUE,Power,Primal,11,9.1,1
+Feln,Umbren Deathwatcher,Uncommon,1,1,1.3,TRUE,Unit,Shadow,11,9.1,1
+Feln,Pitfall Trap,Uncommon,1,1,1.3,TRUE,Relic,Primal,11,9.1,1
+Feln,Storm Spiral,Uncommon,1,1,1.3,TRUE,Fast Spell,Primal,11,9.1,1
+Feln,Gustrider,Uncommon,1,1,1,FALSE,Unit,Primal,11,9.1,1
+Feln,Keen Saddleback,Uncommon,1,1,1,FALSE,Unit,Primal,11,9.1,1
+Feln,Remembrance,Uncommon,1,1,1,FALSE,Spell,Shadow,11,9.1,1
+Feln,Cabal Repeater,Uncommon,1,1,1,FALSE,Unit,Shadow,11,9.1,1
+Feln,Darkweave Enchantress,Uncommon,1,1,1,FALSE,Unit,Shadow,11,9.1,1
+Feln,Withering Touch,Uncommon,1,1,1,FALSE,Fast Spell,Shadow,11,9.1,1
+Feln,Fallen Militiaman,Uncommon,1,1,1,FALSE,Unit,Shadow,11,9.1,1
+Feln,Hooru Insignia,Uncommon,1,1,1,FALSE,Power,Hooru,11,9.1,1
+Feln,Seek Answers,Uncommon,1,1,1,FALSE,Spell,Neutral,11,9.1,1
+Feln,Heretic's Cannon,Uncommon,1,1,1,FALSE,Weapon,Fire,11,9.1,1
+Feln,Adolescent Deathjaw,Uncommon,1,1,1,FALSE,Unit,Time,11,9.1,1
+Feln,Blurred Stygimoloch,Uncommon,1,1,1,FALSE,Unit,Time,11,9.1,1
+Elysian,Wurmstone,Common,17,11,18.700000000000003,TRUE,Relic,Time,17,64.7,1.5
+Elysian,Training Ground,Common,15,12,16.5,TRUE,Spell,Time,17,70.6,1.2
+Elysian,Devotee of the Sands,Common,13,8,13,FALSE,Unit,Time,17,47.1,1.6
+Elysian,Sauropod Crasher,Common,13,8,13,FALSE,Unit,Time,17,47.1,1.6
+Elysian,Horn of Plenty,Common,13,9,13,FALSE,Relic,Time,17,52.9,1.4
+Elysian,Awakened Sentinel,Common,11,8,12.100000000000001,TRUE,Unit,Time,17,47.1,1.4
+Elysian,Cobalt Coin,Common,12,9,12,FALSE,Power,Primal,17,52.9,1.3
+Elysian,Lightning Strike,Common,10,8,11,TRUE,Fast Spell,Primal,17,47.1,1.2
+Elysian,Seek Power,Common,10,7,11,TRUE,Spell,Neutral,17,41.2,1.4
+Elysian,Dispel,Common,10,6,11,TRUE,Spell,Time,17,35.3,1.7
+Elysian,Learned Herbalist,Common,10,9,11,TRUE,Unit,Time,17,52.9,1.1
+Elysian,Amber Coin,Common,10,8,10,FALSE,Power,Time,17,47.1,1.2
+Elysian,Arcanum Elite,Common,10,7,10,FALSE,Unit,Time,17,41.2,1.4
+Elysian,Watchful Amanera,Common,9,8,9.9,TRUE,Unit,Time,17,47.1,1.1
+Elysian,Fledgling Owlet,Common,9,5,9,FALSE,Unit,Primal,17,29.4,1.8
+Elysian,Displaced Oryctodon,Common,9,8,9,FALSE,Unit,Time,17,47.1,1.1
+Elysian,Submerged Titan,Common,9,6,9,FALSE,Unit,Time,17,35.3,1.5
+Elysian,Corrupted Behemoth,Common,9,7,9,FALSE,Unit,Time,17,41.2,1.3
+Elysian,Flash Freeze,Common,8,6,8.8,TRUE,Fast Spell,Primal,17,35.3,1.3
+Elysian,Scaly Gruan,Common,8,6,8.8,TRUE,Unit,Primal,17,35.3,1.3
+Elysian,Avirax Familiar,Common,8,7,8.8,TRUE,Unit,Time,17,41.2,1.1
+Elysian,Belligerent Yeti,Common,8,6,8,FALSE,Unit,Primal,17,35.3,1.3
+Elysian,Yeti Instigator,Common,8,7,8,FALSE,Unit,Primal,17,41.2,1.1
+Elysian,Omnivorous Vorlunk,Common,8,5,8,FALSE,Unit,Time,17,29.4,1.6
+Elysian,Hold Under,Common,7,7,7,FALSE,Spell,Primal,17,41.2,1
+Elysian,Blink,Common,7,5,7,FALSE,Fast Spell,Time,17,29.4,1.4
+Elysian,Advance Scout,Common,6,5,6.6000000000000005,TRUE,Unit,Primal,17,29.4,1.2
+Elysian,Deft Strike,Common,6,4,6.6000000000000005,TRUE,Spell,Time,17,23.5,1.5
+Elysian,Quicksilver Ooze,Common,6,6,6,FALSE,Unit,Time,17,35.3,1
+Elysian,Tremorshocker,Common,6,5,6,FALSE,Unit,Time,17,29.4,1.2
+Elysian,Refresh,Common,5,4,5.5,TRUE,Fast Spell,Time,17,23.5,1.2
+Elysian,Fend Off,Common,5,4,5,FALSE,Fast Spell,Primal,17,23.5,1.2
+Elysian,Death from Above,Common,5,5,5,FALSE,Spell,Primal,17,29.4,1
+Elysian,Snowmass Jotun,Common,5,5,5,FALSE,Unit,Primal,17,29.4,1
+Elysian,Voracious Fosora,Common,4,2,4.4,TRUE,Unit,Primal,17,11.8,2
+Elysian,Torrential Downpour,Common,4,4,4.4,TRUE,Spell,Primal,17,23.5,1
+Elysian,Furnish,Common,4,4,4,FALSE,Fast Spell,Primal,17,23.5,1
+Elysian,Camp Surveyor,Common,4,3,4,FALSE,Unit,Primal,17,17.6,1.3
+Elysian,Elder Meditant,Common,4,4,4,FALSE,Unit,Primal,17,23.5,1
+Elysian,Horned Vorlunk,Common,3,3,3.3000000000000003,TRUE,Unit,Time,17,17.6,1
+Elysian,Cloudsnake Hatchling,Common,3,3,3.3000000000000003,TRUE,Unit,Primal,17,17.6,1
+Elysian,Cryptic Etchings,Common,3,3,3.3000000000000003,TRUE,Relic,Time,17,17.6,1
+Elysian,Crystal Dirk,Common,3,3,3.3000000000000003,TRUE,Weapon,Primal,17,17.6,1
+Elysian,Diving Pteriax,Common,3,3,3,FALSE,Unit,Primal,17,17.6,1
+Elysian,Mute,Common,3,3,3,FALSE,Fast Spell,Time,17,17.6,1
+Elysian,Backlash,Common,2,2,2.2,TRUE,Fast Spell,Primal,17,11.8,1
+Elysian,Trailblaze,Common,2,2,2.2,TRUE,Fast Spell,Primal,17,11.8,1
+Elysian,Cirso's Meddling,Common,2,1,2.2,TRUE,Fast Spell,Primal,17,5.9,2
+Elysian,Iron Hook,Common,2,2,2.2,TRUE,Relic Weapon,Neutral,17,11.8,1
+Elysian,Murderous Flock,Common,2,2,2,FALSE,Unit,Primal,17,11.8,1
+Elysian,Phase Out,Common,2,2,2,FALSE,Spell,Time,17,11.8,1
+Elysian,Aerial Ace,Common,1,1,1.1,TRUE,Unit,Primal,17,5.9,1
+Elysian,Araktodon,Common,1,1,1.1,TRUE,Unit,Primal,17,5.9,1
+Elysian,Rebel Sharpshooter,Common,1,1,1.1,TRUE,Unit,Fire,17,5.9,1
+Elysian,Daze,Common,1,1,1.1,TRUE,Fast Spell,Neutral,17,5.9,1
+Elysian,Icebow,Common,1,1,1.1,TRUE,Weapon,Primal,17,5.9,1
+Elysian,Gun Down,Common,1,1,1.1,TRUE,Spell,Fire,17,5.9,1
+Elysian,Envelop,Common,1,1,1.1,TRUE,Fast Spell,Time,17,5.9,1
+Elysian,Pack Hunt,Common,1,1,1.1,TRUE,Spell,Time,17,5.9,1
+Elysian,Backpacker's Machete,Common,1,1,1.1,TRUE,Weapon,Fire,17,5.9,1
+Elysian,Snowfort,Common,1,1,1.1,TRUE,Relic,Primal,17,5.9,1
+Elysian,Meditation,Common,1,1,1.1,TRUE,Fast Spell,Time,17,5.9,1
+Elysian,Peaktop Trekker,Uncommon,8,5,8,FALSE,Unit,Primal,17,29.4,1.6
+Elysian,Clan Standard,Uncommon,6,6,7.800000000000001,TRUE,Power,Primal,17,35.3,1
+Elysian,Seat of Wisdom,Uncommon,5,5,6.5,TRUE,Power,Elysian,17,29.4,1
+Elysian,Permafrost,Uncommon,4,4,5.2,TRUE,Curse,Primal,17,23.5,1
+Elysian,Plated Goliath,Uncommon,4,4,5.2,TRUE,Unit,Time,17,23.5,1
+Elysian,Pitfall Trap,Uncommon,4,4,5.2,TRUE,Relic,Primal,17,23.5,1
+Elysian,Avalanche Yeti,Uncommon,5,4,5,FALSE,Unit,Primal,17,23.5,1.2
+Elysian,Frost Elemental,Uncommon,5,4,5,FALSE,Unit,Primal,17,23.5,1.2
+Elysian,Novice Entomancer,Uncommon,5,4,5,FALSE,Unit,Time,17,23.5,1.2
+Elysian,Bulbous Humbug,Uncommon,4,3,4,FALSE,Unit,Time,17,17.6,1.3
+Elysian,Trickster Mage,Uncommon,4,4,4,FALSE,Unit,Time,17,23.5,1
+Elysian,Ancient Lore,Uncommon,3,3,3.9000000000000004,TRUE,Spell,Time,17,17.6,1
+Elysian,Healer's Cloak,Uncommon,3,3,3.9000000000000004,TRUE,Weapon,Time,17,17.6,1
+Elysian,Fearless Yeti,Uncommon,3,2,3.9000000000000004,TRUE,Unit,Primal,17,11.8,1.5
+Elysian,Cloudsnake Matriarch,Uncommon,3,3,3,FALSE,Unit,Primal,17,17.6,1
+Elysian,Adolescent Deathjaw,Uncommon,3,3,3,FALSE,Unit,Time,17,17.6,1
+Elysian,Blurred Stygimoloch,Uncommon,3,3,3,FALSE,Unit,Time,17,17.6,1
+Elysian,Tundra Explorer,Uncommon,2,2,2.6,TRUE,Unit,Primal,17,11.8,1
+Elysian,Oasis Seeker,Uncommon,2,2,2.6,TRUE,Unit,Time,17,11.8,1
+Elysian,Freewing Glider,Uncommon,2,2,2.6,TRUE,Weapon,Primal,17,11.8,1
+Elysian,Temple Standard,Uncommon,2,2,2.6,TRUE,Power,Time,17,11.8,1
+Elysian,Gustrider,Uncommon,2,2,2,FALSE,Unit,Primal,17,11.8,1
+Elysian,Lightning Sprite,Uncommon,2,1,2,FALSE,Unit,Primal,17,5.9,2
+Elysian,Aggressive Ursine,Uncommon,2,2,2,FALSE,Unit,Primal,17,11.8,1
+Elysian,Expedition Leader,Uncommon,2,2,2,FALSE,Unit,Time,17,11.8,1
+Elysian,Wild Cloudsnake,Uncommon,1,1,1.3,TRUE,Unit,Primal,17,5.9,1
+Elysian,Diplomatic Seal,Uncommon,1,1,1.3,TRUE,Power,Neutral,17,5.9,1
+Elysian,Calderan Gunsmith,Uncommon,1,1,1.3,TRUE,Unit,Fire,17,5.9,1
+Elysian,Excavate,Uncommon,1,1,1.3,TRUE,Fast Spell,Time,17,5.9,1
+Elysian,Unlock Potential,Uncommon,1,1,1.3,TRUE,Spell,Time,17,5.9,1
+Elysian,Scorpion Wasp,Uncommon,1,1,1.3,TRUE,Unit,Time,17,5.9,1
+Elysian,Boltcrafter Shaman,Uncommon,1,1,1.3,TRUE,Unit,Primal,17,5.9,1
+Elysian,Camp Physician,Uncommon,1,1,1.3,TRUE,Unit,Time,17,5.9,1
+Elysian,Storm Talisman,Uncommon,1,1,1.3,TRUE,Relic,Primal,17,5.9,1
+Elysian,Resurface,Uncommon,1,1,1.3,TRUE,Spell,Primal,17,5.9,1
+Elysian,Stinging Wind,Uncommon,1,1,1.3,TRUE,Unit,Time,17,5.9,1
+Elysian,Storm Spiral,Uncommon,1,1,1.3,TRUE,Fast Spell,Primal,17,5.9,1
+Elysian,Ancient Excavator,Uncommon,1,1,1.3,TRUE,Unit,Time,17,5.9,1
+Elysian,Good Idea at the Time,Uncommon,1,1,1,FALSE,Spell,Primal,17,5.9,1
+Elysian,Warning Jolt,Uncommon,1,1,1,FALSE,Fast Spell,Primal,17,5.9,1
+Elysian,Read the Runes,Uncommon,1,1,1,FALSE,Fast Spell,Primal,17,5.9,1
+Elysian,Re-read,Uncommon,1,1,1,FALSE,Spell,Primal,17,5.9,1
+Elysian,Ferocity of Bear,Uncommon,1,1,1,FALSE,Spell,Primal,17,5.9,1
+Elysian,Keen Saddleback,Uncommon,1,1,1,FALSE,Unit,Primal,17,5.9,1
+Elysian,Praxis Insignia,Uncommon,1,1,1,FALSE,Power,Praxis,17,5.9,1
+Elysian,Heretic's Cannon,Uncommon,1,1,1,FALSE,Weapon,Fire,17,5.9,1
+Elysian,Burdenbearer Wisp,Uncommon,1,1,1,FALSE,Unit,Time,17,5.9,1
+Elysian,Search Party,Uncommon,1,1,1,FALSE,Spell,Time,17,5.9,1
+Elysian,Stillweave Shroud,Uncommon,1,1,1,FALSE,Weapon,Time,17,5.9,1
+Elysian,Swirl the Sands,Uncommon,1,1,1,FALSE,Fast Spell,Time,17,5.9,1
+Elysian,Temporal Adept,Uncommon,1,1,1,FALSE,Unit,Time,17,5.9,1
+Xenan,Dark Return,Common,30,22,33,TRUE,Spell,Shadow,39,56.4,1.4
+Xenan,Corrupted Behemoth,Common,29,20,29,FALSE,Unit,Time,39,51.3,1.4
+Xenan,Direfang Spider,Common,26,18,28.6,TRUE,Unit,Shadow,39,46.2,1.4
+Xenan,Extract,Common,26,20,28.6,TRUE,Spell,Shadow,39,51.3,1.3
+Xenan,Mob Rule,Common,25,17,27.500000000000004,TRUE,Fast Spell,Shadow,39,43.6,1.5
+Xenan,Watchful Amanera,Common,24,16,26.400000000000002,TRUE,Unit,Time,39,41,1.5
+Xenan,Crooked Alleyguide,Common,24,16,24,FALSE,Unit,Shadow,39,41,1.5
+Xenan,Razorquill,Common,24,18,24,FALSE,Unit,Shadow,39,46.2,1.3
+Xenan,Devotee of the Sands,Common,24,22,24,FALSE,Unit,Time,39,56.4,1.1
+Xenan,Quicksilver Ooze,Common,24,19,24,FALSE,Unit,Time,39,48.7,1.3
+Xenan,Flickerling,Common,21,16,23.1,TRUE,Unit,Shadow,39,41,1.3
+Xenan,Scavenging Vulture,Common,20,14,22,TRUE,Unit,Shadow,39,35.9,1.4
+Xenan,Horn of Plenty,Common,22,18,22,FALSE,Relic,Time,39,46.2,1.2
+Xenan,Displaced Oryctodon,Common,21,16,21,FALSE,Unit,Time,39,41,1.3
+Xenan,Avirax Familiar,Common,19,15,20.900000000000002,TRUE,Unit,Time,39,38.5,1.3
+Xenan,Wurmstone,Common,19,15,20.900000000000002,TRUE,Relic,Time,39,38.5,1.3
+Xenan,Stonescar Outfitter,Common,20,14,20,FALSE,Unit,Shadow,39,35.9,1.4
+Xenan,Learned Herbalist,Common,18,14,19.8,TRUE,Unit,Time,39,35.9,1.3
+Xenan,Bloodnurse,Common,19,14,19,FALSE,Unit,Shadow,39,35.9,1.4
+Xenan,Eviscerate,Common,19,15,19,FALSE,Spell,Shadow,39,38.5,1.3
+Xenan,Refresh,Common,17,16,18.700000000000003,TRUE,Fast Spell,Time,39,41,1.1
+Xenan,Horned Vorlunk,Common,16,12,17.6,TRUE,Unit,Time,39,30.8,1.3
+Xenan,Angry Prophet,Common,17,13,17,FALSE,Unit,Shadow,39,33.3,1.3
+Xenan,Amber Coin,Common,17,13,17,FALSE,Power,Time,39,33.3,1.3
+Xenan,Submerged Titan,Common,17,13,17,FALSE,Unit,Time,39,33.3,1.3
+Xenan,Tremorshocker,Common,17,16,17,FALSE,Unit,Time,39,41,1.1
+Xenan,Omnivorous Vorlunk,Common,16,14,16,FALSE,Unit,Time,39,35.9,1.1
+Xenan,Seek Power,Common,14,12,15.400000000000002,TRUE,Spell,Neutral,39,30.8,1.2
+Xenan,Sauropod Crasher,Common,14,12,14,FALSE,Unit,Time,39,30.8,1.2
+Xenan,Scheme,Common,12,11,13.200000000000001,TRUE,Spell,Shadow,39,28.2,1.1
+Xenan,Curator's Spear,Common,11,10,12.100000000000001,TRUE,Relic Weapon,Shadow,39,25.6,1.1
+Xenan,Direwood Lurker,Common,12,11,12,FALSE,Unit,Shadow,39,28.2,1.1
+Xenan,Dispel,Common,10,8,11,TRUE,Spell,Time,39,20.5,1.2
+Xenan,Training Ground,Common,10,8,11,TRUE,Spell,Time,39,20.5,1.2
+Xenan,Arcanum Elite,Common,11,11,11,FALSE,Unit,Time,39,28.2,1
+Xenan,Bandit's Flail,Common,10,10,10,FALSE,Relic Weapon,Shadow,39,25.6,1
+Xenan,Awakened Sentinel,Common,9,9,9.9,TRUE,Unit,Time,39,23.1,1
+Xenan,Lock Horns,Common,8,7,8.8,TRUE,Fast Spell,Shadow,39,17.9,1.1
+Xenan,Deft Strike,Common,8,7,8.8,TRUE,Spell,Time,39,17.9,1.1
+Xenan,Muck Crawler,Common,8,7,8,FALSE,Unit,Shadow,39,17.9,1.1
+Xenan,Venomfang Dagger,Common,7,6,7.700000000000001,TRUE,Weapon,Shadow,39,15.4,1.2
+Xenan,Amethyst Coin,Common,7,6,7,FALSE,Power,Shadow,39,15.4,1.2
+Xenan,Worn Shield,Common,6,5,6.6000000000000005,TRUE,Weapon,Neutral,39,12.8,1.2
+Xenan,Envelop,Common,6,6,6.6000000000000005,TRUE,Fast Spell,Time,39,15.4,1
+Xenan,Phase Out,Common,6,5,6,FALSE,Spell,Time,39,12.8,1.2
+Xenan,Sorrow's Shroud,Common,5,5,5.5,TRUE,Weapon,Shadow,39,12.8,1
+Xenan,Inspire Obedience,Common,5,5,5.5,TRUE,Spell,Shadow,39,12.8,1
+Xenan,Cryptic Etchings,Common,5,5,5.5,TRUE,Relic,Time,39,12.8,1
+Xenan,Cabal Scavenger,Common,5,5,5.5,TRUE,Unit,Shadow,39,12.8,1
+Xenan,Improvised Club,Common,5,5,5.5,TRUE,Relic Weapon,Shadow,39,12.8,1
+Xenan,Gorgon Cutthroat,Common,5,4,5,FALSE,Unit,Shadow,39,10.3,1.2
+Xenan,Direwood Rampager,Common,4,4,4.4,TRUE,Unit,Shadow,39,10.3,1
+Xenan,Daring Maneuver,Common,4,3,4,FALSE,Fast Spell,Fire,39,7.7,1.3
+Xenan,Winnow,Common,4,4,4,FALSE,Spell,Shadow,39,10.3,1
+Xenan,Blink,Common,4,4,4,FALSE,Fast Spell,Time,39,10.3,1
+Xenan,Lightning Strike,Common,3,2,3.3000000000000003,TRUE,Fast Spell,Primal,39,5.1,1.5
+Xenan,Excavation Assistant,Common,3,2,3.3000000000000003,TRUE,Unit,Time,39,5.1,1.5
+Xenan,Viper's Bite,Common,3,3,3.3000000000000003,TRUE,Fast Spell,Time,39,7.7,1
+Xenan,Meditation,Common,3,3,3.3000000000000003,TRUE,Fast Spell,Time,39,7.7,1
+Xenan,Iron Hook,Common,3,3,3.3000000000000003,TRUE,Relic Weapon,Neutral,39,7.7,1
+Xenan,Emerald Coin,Common,3,3,3,FALSE,Power,Justice,39,7.7,1
+Xenan,Cobalt Coin,Common,2,1,2,FALSE,Power,Primal,39,2.6,2
+Xenan,Mute,Common,2,2,2,FALSE,Fast Spell,Time,39,5.1,1
+Xenan,Gun Down,Common,1,1,1.1,TRUE,Spell,Fire,39,2.6,1
+Xenan,Pack Hunt,Common,1,1,1.1,TRUE,Spell,Time,39,2.6,1
+Xenan,Tinker,Common,1,1,1.1,TRUE,Spell,Justice,39,2.6,1
+Xenan,Torrential Downpour,Common,1,1,1.1,TRUE,Spell,Primal,39,2.6,1
+Xenan,Afterimage,Common,1,1,1.1,TRUE,Spell,Shadow,39,2.6,1
+Xenan,Manufacture,Common,1,1,1.1,TRUE,Spell,Fire,39,2.6,1
+Xenan,Fall Short,Common,1,1,1.1,TRUE,Fast Spell,Justice,39,2.6,1
+Xenan,Steadfast Paladin,Common,1,1,1,FALSE,Unit,Justice,39,2.6,1
+Xenan,Auric Lookout,Common,1,1,1,FALSE,Unit,Justice,39,2.6,1
+Xenan,Retribution,Common,1,1,1,FALSE,Spell,Justice,39,2.6,1
+Xenan,Roosting Warhawk,Common,1,1,1,FALSE,Unit,Justice,39,2.6,1
+Xenan,Boot Knife,Common,1,1,1,FALSE,Relic Weapon,Shadow,39,2.6,1
+Xenan,Unchecked Aggression,Common,1,1,1,FALSE,Fast Spell,Shadow,39,2.6,1
+Xenan,Nimble Conscript,Common,1,1,1,FALSE,Unit,Fire,39,2.6,1
+Xenan,Sizzleback Salamander,Common,1,1,1,FALSE,Unit,Fire,39,2.6,1
+Xenan,Streets Aflame,Common,1,1,1,FALSE,Fast Spell,Fire,39,2.6,1
+Xenan,Char,Common,1,1,1,FALSE,Fast Spell,Fire,39,2.6,1
+Xenan,Mining Team,Common,1,1,1,FALSE,Unit,Fire,39,2.6,1
+Xenan,Blurreechaser,Common,1,1,1,FALSE,Unit,Fire,39,2.6,1
+Xenan,Seat of Mystery,Uncommon,11,9,14.3,TRUE,Power,Xenan,39,23.1,1.2
+Xenan,Fallen Militiaman,Uncommon,13,10,13,FALSE,Unit,Shadow,39,25.6,1.3
+Xenan,Spiteful Strike,Uncommon,11,10,11,FALSE,Fast Spell,Shadow,39,25.6,1.1
+Xenan,Umbren Voidbringer,Uncommon,11,9,11,FALSE,Unit,Shadow,39,23.1,1.2
+Xenan,Suffocate,Uncommon,8,8,10.4,TRUE,Spell,Shadow,39,20.5,1
+Xenan,Beastcaller's Amulet,Uncommon,8,7,10.4,TRUE,Weapon,Shadow,39,17.9,1.1
+Xenan,Cabal Standard,Uncommon,8,8,10.4,TRUE,Power,Shadow,39,20.5,1
+Xenan,Blurred Stygimoloch,Uncommon,10,7,10,FALSE,Unit,Time,39,17.9,1.4
+Xenan,Cabal Cutthroat,Uncommon,7,6,9.1,TRUE,Unit,Shadow,39,15.4,1.2
+Xenan,Horsesnatcher Bat,Uncommon,6,5,7.800000000000001,TRUE,Unit,Shadow,39,12.8,1.2
+Xenan,Burdenbearer Wisp,Uncommon,7,7,7,FALSE,Unit,Time,39,17.9,1
+Xenan,Novice Entomancer,Uncommon,7,6,7,FALSE,Unit,Time,39,15.4,1.2
+Xenan,Swirl the Sands,Uncommon,7,6,7,FALSE,Fast Spell,Time,39,15.4,1.2
+Xenan,Ancient Lore,Uncommon,5,5,6.5,TRUE,Spell,Time,39,12.8,1
+Xenan,Temple Standard,Uncommon,5,5,6.5,TRUE,Power,Time,39,12.8,1
+Xenan,Death Ripple,Uncommon,6,6,6,FALSE,Spell,Shadow,39,15.4,1
+Xenan,Wretched Talon,Uncommon,6,6,6,FALSE,Relic Weapon,Shadow,39,15.4,1
+Xenan,Diplomatic Seal,Uncommon,4,4,5.2,TRUE,Power,Neutral,39,10.3,1
+Xenan,Scorpion Wasp,Uncommon,4,4,5.2,TRUE,Unit,Time,39,10.3,1
+Xenan,Healer's Cloak,Uncommon,4,4,5.2,TRUE,Weapon,Time,39,10.3,1
+Xenan,Sewer Sludge,Uncommon,4,4,5.2,TRUE,Unit,Shadow,39,10.3,1
+Xenan,Sadistic Glee,Uncommon,4,4,5.2,TRUE,Unit,Shadow,39,10.3,1
+Xenan,Auric Reclaimer,Uncommon,5,5,5,FALSE,Unit,Shadow,39,12.8,1
+Xenan,Lethrai Direbeast,Uncommon,5,5,5,FALSE,Unit,Shadow,39,12.8,1
+Xenan,Withering Touch,Uncommon,5,5,5,FALSE,Fast Spell,Shadow,39,12.8,1
+Xenan,Hunting Anoura,Uncommon,5,5,5,FALSE,Unit,Shadow,39,12.8,1
+Xenan,Adolescent Deathjaw,Uncommon,5,5,5,FALSE,Unit,Time,39,12.8,1
+Xenan,Darkweave Enchantress,Uncommon,4,4,4,FALSE,Unit,Shadow,39,10.3,1
+Xenan,Bulbous Humbug,Uncommon,4,4,4,FALSE,Unit,Time,39,10.3,1
+Xenan,Search Party,Uncommon,4,3,4,FALSE,Spell,Time,39,7.7,1.3
+Xenan,Stillweave Shroud,Uncommon,4,4,4,FALSE,Weapon,Time,39,10.3,1
+Xenan,Venomous Mount,Uncommon,4,4,4,FALSE,Unit,Time,39,10.3,1
+Xenan,Seat of Progress,Uncommon,3,2,3.9000000000000004,TRUE,Power,Combrei,39,5.1,1.5
+Xenan,Excavate,Uncommon,3,2,3.9000000000000004,TRUE,Fast Spell,Time,39,5.1,1.5
+Xenan,Oasis Seeker,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Time,39,7.7,1
+Xenan,Grenadin Bellower,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Shadow,39,7.7,1
+Xenan,Stinging Wind,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Time,39,7.7,1
+Xenan,Remembrance,Uncommon,3,3,3,FALSE,Spell,Shadow,39,7.7,1
+Xenan,Cabal Repeater,Uncommon,3,3,3,FALSE,Unit,Shadow,39,7.7,1
+Xenan,Stained Honor,Uncommon,3,3,3,FALSE,Unit,Shadow,39,7.7,1
+Xenan,Unlock Potential,Uncommon,2,2,2.6,TRUE,Spell,Time,39,5.1,1
+Xenan,Camp Physician,Uncommon,2,1,2.6,TRUE,Unit,Time,39,2.6,2
+Xenan,Plated Goliath,Uncommon,2,2,2.6,TRUE,Unit,Time,39,5.1,1
+Xenan,Headsman's Axe,Uncommon,2,2,2.6,TRUE,Weapon,Shadow,39,5.1,1
+Xenan,Abduct,Uncommon,2,2,2.6,TRUE,Spell,Shadow,39,5.1,1
+Xenan,Umbren Deathwatcher,Uncommon,2,2,2.6,TRUE,Unit,Shadow,39,5.1,1
+Xenan,Ancient Excavator,Uncommon,2,1,2.6,TRUE,Unit,Time,39,2.6,2
+Xenan,Feln Insignia,Uncommon,2,2,2,FALSE,Power,Feln,39,5.1,1
+Xenan,Seek Answers,Uncommon,2,2,2,FALSE,Spell,Neutral,39,5.1,1
+Xenan,Expedition Leader,Uncommon,2,2,2,FALSE,Unit,Time,39,5.1,1
+Xenan,Trickster Mage,Uncommon,2,2,2,FALSE,Unit,Time,39,5.1,1
+Xenan,Temporal Adept,Uncommon,2,2,2,FALSE,Unit,Time,39,5.1,1
+Xenan,Seat of Impulse,Uncommon,1,1,1.3,TRUE,Power,Praxis,39,2.6,1
+Xenan,Stormcaller,Uncommon,1,1,1.3,TRUE,Unit,Primal,39,2.6,1
+Xenan,Lifedrinker,Uncommon,1,1,1.3,TRUE,Relic Weapon,Shadow,39,2.6,1
+Xenan,Calderan Gunsmith,Uncommon,1,1,1.3,TRUE,Unit,Fire,39,2.6,1
+Xenan,Infinite Hourglass,Uncommon,1,1,1.3,TRUE,Relic,Time,39,2.6,1
+Xenan,Scare,Uncommon,1,1,1.3,TRUE,Fast Spell,Shadow,39,2.6,1
+Xenan,Freewing Glider,Uncommon,1,1,1.3,TRUE,Weapon,Primal,39,2.6,1
+Xenan,Shugo Standard,Uncommon,1,1,1.3,TRUE,Power,Fire,39,2.6,1
+Xenan,Betray the Cause,Uncommon,1,1,1.3,TRUE,Spell,Shadow,39,2.6,1
+Xenan,Rusty Grenamotive,Uncommon,1,1,1.3,TRUE,Unit,Fire,39,2.6,1
+Xenan,Gathering Lights,Uncommon,1,1,1.3,TRUE,Spell,Time,39,2.6,1
+Xenan,Unseen Ghostblade,Uncommon,1,1,1,FALSE,Relic Weapon,Justice,39,2.6,1
+Xenan,Avalanche Yeti,Uncommon,1,1,1,FALSE,Unit,Primal,39,2.6,1
+Xenan,Frost Elemental,Uncommon,1,1,1,FALSE,Unit,Primal,39,2.6,1
+Xenan,Lightning Sprite,Uncommon,1,1,1,FALSE,Unit,Primal,39,2.6,1
+Xenan,Outlaw Ringleader,Uncommon,1,1,1,FALSE,Unit,Fire,39,2.6,1
+Xenan,Heretic's Cannon,Uncommon,1,1,1,FALSE,Weapon,Fire,39,2.6,1
+Xenan,Potion of Alacrity,Uncommon,1,1,1,FALSE,Spell,Time,39,2.6,1
+Xenan,Isolate,Uncommon,1,1,1,FALSE,Fast Spell,Justice,39,2.6,1
+Overall,Streets Aflame,Common,127,91,127,FALSE,Fast Spell,Fire,311,29.3,1.4
+Overall,Corrupted Behemoth,Common,124,85,124,FALSE,Unit,Time,311,27.3,1.5
+Overall,Blurreechaser,Common,123,87,123,FALSE,Unit,Fire,311,28,1.4
+Overall,Nimble Conscript,Common,117,76,117,FALSE,Unit,Fire,311,24.4,1.5
+Overall,Rebel Sharpshooter,Common,104,80,114.4,TRUE,Unit,Fire,311,25.7,1.3
+Overall,Retribution,Common,114,75,114,FALSE,Spell,Justice,311,24.1,1.5
+Overall,Char,Common,108,80,108,FALSE,Fast Spell,Fire,311,25.7,1.4
+Overall,Backpacker's Machete,Common,94,76,103.4,TRUE,Weapon,Fire,311,24.4,1.2
+Overall,Argenport Soldier,Common,86,66,94.60000000000001,TRUE,Unit,Justice,311,21.2,1.3
+Overall,Mining Team,Common,94,64,94,FALSE,Unit,Fire,311,20.6,1.5
+Overall,Tauride Test Pilot,Common,92,69,92,FALSE,Unit,Justice,311,22.2,1.3
+Overall,Gun Down,Common,83,66,91.30000000000001,TRUE,Spell,Fire,311,21.2,1.3
+Overall,Wurmstone,Common,83,60,91.30000000000001,TRUE,Relic,Time,311,19.3,1.4
+Overall,Daring Maneuver,Common,90,73,90,FALSE,Fast Spell,Fire,311,23.5,1.2
+Overall,Devotee of the Sands,Common,87,71,87,FALSE,Unit,Time,311,22.8,1.2
+Overall,Seek Power,Common,79,68,86.9,TRUE,Spell,Neutral,311,21.9,1.2
+Overall,Training Ground,Common,79,63,86.9,TRUE,Spell,Time,311,20.3,1.3
+Overall,Svetya's Faithful,Common,85,59,85,FALSE,Unit,Justice,311,19,1.4
+Overall,Pyre Adept,Common,76,59,83.60000000000001,TRUE,Unit,Fire,311,19,1.3
+Overall,Extract,Common,76,59,83.60000000000001,TRUE,Spell,Shadow,311,19,1.3
+Overall,Blinkwolf,Common,76,61,83.60000000000001,TRUE,Unit,Fire,311,19.6,1.2
+Overall,Horn of Plenty,Common,82,68,82,FALSE,Relic,Time,311,21.9,1.2
+Overall,Learned Herbalist,Common,73,58,80.30000000000001,TRUE,Unit,Time,311,18.6,1.3
+Overall,Dark Return,Common,71,56,78.10000000000001,TRUE,Spell,Shadow,311,18,1.3
+Overall,Avirax Familiar,Common,71,56,78.10000000000001,TRUE,Unit,Time,311,18,1.3
+Overall,Mob Rule,Common,71,52,78.10000000000001,TRUE,Fast Spell,Shadow,311,16.7,1.4
+Overall,Quicksilver Ooze,Common,78,59,78,FALSE,Unit,Time,311,19,1.3
+Overall,Granite Coin,Common,75,57,75,FALSE,Power,Fire,311,18.3,1.3
+Overall,Watchful Amanera,Common,68,53,74.80000000000001,TRUE,Unit,Time,311,17,1.3
+Overall,Fall Short,Common,67,53,73.7,TRUE,Fast Spell,Justice,311,17,1.3
+Overall,Steadfast Paladin,Common,72,54,72,FALSE,Unit,Justice,311,17.4,1.3
+Overall,Roosting Warhawk,Common,72,55,72,FALSE,Unit,Justice,311,17.7,1.3
+Overall,Displaced Oryctodon,Common,72,59,72,FALSE,Unit,Time,311,19,1.2
+Overall,Brightmace Paladin,Common,65,48,71.5,TRUE,Unit,Justice,311,15.4,1.4
+Overall,Flickerling,Common,65,46,71.5,TRUE,Unit,Shadow,311,14.8,1.4
+Overall,Horde Duelist,Common,71,56,71,FALSE,Unit,Fire,311,18,1.3
+Overall,Awakened Sentinel,Common,64,54,70.4,TRUE,Unit,Time,311,17.4,1.2
+Overall,Scavenging Vulture,Common,62,48,68.2,TRUE,Unit,Shadow,311,15.4,1.3
+Overall,High Alert,Common,68,53,68,FALSE,Fast Spell,Justice,311,17,1.3
+Overall,Stonescar Outfitter,Common,68,52,68,FALSE,Unit,Shadow,311,16.7,1.3
+Overall,Amber Coin,Common,68,55,68,FALSE,Power,Time,311,17.7,1.2
+Overall,Tremorshocker,Common,68,56,68,FALSE,Unit,Time,311,18,1.2
+Overall,Pummel,Common,61,49,67.10000000000001,TRUE,Fast Spell,Fire,311,15.8,1.2
+Overall,Omnivorous Vorlunk,Common,67,56,67,FALSE,Unit,Time,311,18,1.2
+Overall,Razorquill,Common,66,53,66,FALSE,Unit,Shadow,311,17,1.2
+Overall,Oni Patrol,Common,66,50,66,FALSE,Unit,Fire,311,16.1,1.3
+Overall,Dispel,Common,59,48,64.9,TRUE,Spell,Time,311,15.4,1.2
+Overall,Crooked Alleyguide,Common,62,44,62,FALSE,Unit,Shadow,311,14.1,1.4
+Overall,Eviscerate,Common,62,48,62,FALSE,Spell,Shadow,311,15.4,1.3
+Overall,Mithril Mace,Common,56,48,61.60000000000001,TRUE,Relic Weapon,Justice,311,15.4,1.2
+Overall,Sharpened Reflex,Common,56,48,61.60000000000001,TRUE,Fast Spell,Justice,311,15.4,1.2
+Overall,Flash Grenade,Common,61,51,61,FALSE,Fast Spell,Justice,311,16.4,1.2
+Overall,Clan Wallbreaker,Common,55,52,60.50000000000001,TRUE,Unit,Fire,311,16.7,1.1
+Overall,Sauropod Crasher,Common,58,41,58,FALSE,Unit,Time,311,13.2,1.4
+Overall,Valkyrie Militant,Common,52,42,57.2,TRUE,Unit,Justice,311,13.5,1.2
+Overall,Soaring Guard,Common,52,38,57.2,TRUE,Unit,Justice,311,12.2,1.4
+Overall,Angry Prophet,Common,57,40,57,FALSE,Unit,Shadow,311,12.9,1.4
+Overall,Rallying Sergeant,Common,57,54,57,FALSE,Unit,NA,311,17.4,1.1
+Overall,Emerald Coin,Common,57,49,57,FALSE,Power,Justice,311,15.8,1.2
+Overall,Copperhall Recruit,Common,51,39,56.1,TRUE,Unit,Justice,311,12.5,1.3
+Overall,Lightning Strike,Common,50,37,55.00000000000001,TRUE,Fast Spell,Primal,311,11.9,1.4
+Overall,Direfang Spider,Common,50,41,55.00000000000001,TRUE,Unit,Shadow,311,13.2,1.2
+Overall,Arcanum Elite,Common,54,46,54,FALSE,Unit,Time,311,14.8,1.2
+Overall,Auric Lookout,Common,53,39,53,FALSE,Unit,Justice,311,12.5,1.4
+Overall,Refresh,Common,47,45,51.7,TRUE,Fast Spell,Time,311,14.5,1
+Overall,Deft Strike,Common,47,39,51.7,TRUE,Spell,Time,311,12.5,1.2
+Overall,Cobalt Coin,Common,49,41,49,FALSE,Power,Primal,311,13.2,1.2
+Overall,Bloodnurse,Common,48,36,48,FALSE,Unit,Shadow,311,11.6,1.3
+Overall,Horned Vorlunk,Common,43,38,47.300000000000004,TRUE,Unit,Time,311,12.2,1.1
+Overall,Lingering Influence,Common,42,37,46.2,TRUE,Spell,Justice,311,11.9,1.1
+Overall,Submerged Titan,Common,46,38,46,FALSE,Unit,Time,311,12.2,1.2
+Overall,Advance Scout,Common,41,26,45.1,TRUE,Unit,Primal,311,8.4,1.6
+Overall,Curator's Spear,Common,41,39,45.1,TRUE,Relic Weapon,Shadow,311,12.5,1.1
+Overall,Yeti Instigator,Common,39,31,39,FALSE,Unit,Primal,311,10,1.3
+Overall,Sizzleback Salamander,Common,39,34,39,FALSE,Unit,Fire,311,10.9,1.1
+Overall,Scaly Gruan,Common,35,25,38.5,TRUE,Unit,Primal,311,8,1.4
+Overall,Spellstrike Sorceress,Common,36,26,36,FALSE,Unit,Justice,311,8.4,1.4
+Overall,Detain,Common,32,30,35.2,TRUE,Fast Spell,Justice,311,9.6,1.1
+Overall,Flash Freeze,Common,31,26,34.1,TRUE,Fast Spell,Primal,311,8.4,1.2
+Overall,Kosul Diplomat,Common,31,30,34.1,TRUE,Unit,Justice,311,9.6,1
+Overall,Kosul Curator,Common,34,29,34,FALSE,Unit,Justice,311,9.3,1.2
+Overall,Blink,Common,34,30,34,FALSE,Fast Spell,Time,311,9.6,1.1
+Overall,Envelop,Common,30,28,33,TRUE,Fast Spell,Time,311,9,1.1
+Overall,Belligerent Yeti,Common,31,24,31,FALSE,Unit,Primal,311,7.7,1.3
+Overall,Bandit's Flail,Common,31,27,31,FALSE,Relic Weapon,Shadow,311,8.7,1.1
+Overall,Downfall,Common,28,26,30.800000000000004,TRUE,Spell,Justice,311,8.4,1.1
+Overall,Amethyst Coin,Common,30,23,30,FALSE,Power,Shadow,311,7.4,1.3
+Overall,Iron Hook,Common,27,27,29.700000000000003,TRUE,Relic Weapon,Neutral,311,8.7,1
+Overall,Twin Sai,Common,28,27,28,FALSE,Relic Weapon,Justice,311,8.7,1
+Overall,Warfront Missionary,Common,28,23,28,FALSE,Unit,Justice,311,7.4,1.2
+Overall,Scheme,Common,25,23,27.500000000000004,TRUE,Spell,Shadow,311,7.4,1.1
+Overall,Kosul Bladebarrier,Common,27,23,27,FALSE,Unit,Justice,311,7.4,1.2
+Overall,Manufacture,Common,24,20,26.400000000000002,TRUE,Spell,Fire,311,6.4,1.2
+Overall,Camp Surveyor,Common,26,19,26,FALSE,Unit,Primal,311,6.1,1.4
+Overall,Pit Fighter,Common,23,20,25.3,TRUE,Unit,Fire,311,6.4,1.1
+Overall,Direwood Lurker,Common,24,23,24,FALSE,Unit,Shadow,311,7.4,1
+Overall,Lock Horns,Common,21,20,23.1,TRUE,Fast Spell,Shadow,311,6.4,1.1
+Overall,Tinker,Common,20,18,22,TRUE,Spell,Justice,311,5.8,1.1
+Overall,Torrential Downpour,Common,20,18,22,TRUE,Spell,Primal,311,5.8,1.1
+Overall,Grandfather's Axe,Common,20,19,22,TRUE,Weapon,Fire,311,6.1,1.1
+Overall,Snowmass Jotun,Common,22,18,22,FALSE,Unit,Primal,311,5.8,1.2
+Overall,Furnish,Common,21,16,21,FALSE,Fast Spell,Primal,311,5.1,1.3
+Overall,Murderous Flock,Common,21,16,21,FALSE,Unit,Primal,311,5.1,1.3
+Overall,Phase Out,Common,21,18,21,FALSE,Spell,Time,311,5.8,1.2
+Overall,Venomfang Dagger,Common,19,17,20.900000000000002,TRUE,Weapon,Shadow,311,5.5,1.1
+Overall,Direwood Rampager,Common,19,18,20.900000000000002,TRUE,Unit,Shadow,311,5.8,1.1
+Overall,Spire Spellsword,Common,19,15,20.900000000000002,TRUE,Unit,Justice,311,4.8,1.3
+Overall,Elder Meditant,Common,19,16,19,FALSE,Unit,Primal,311,5.1,1.2
+Overall,Mute,Common,19,18,19,FALSE,Fast Spell,Time,311,5.8,1.1
+Overall,Worn Shield,Common,17,14,18.700000000000003,TRUE,Weapon,Neutral,311,4.5,1.2
+Overall,Cloudsnake Hatchling,Common,17,13,18.700000000000003,TRUE,Unit,Primal,311,4.2,1.3
+Overall,Fledgling Owlet,Common,18,12,18,FALSE,Unit,Primal,311,3.9,1.5
+Overall,Inspire Obedience,Common,16,14,17.6,TRUE,Spell,Shadow,311,4.5,1.1
+Overall,Fend Off,Common,17,15,17,FALSE,Fast Spell,Primal,311,4.8,1.1
+Overall,Outdraw,Common,17,17,17,FALSE,Spell,Fire,311,5.5,1
+Overall,Aerial Ace,Common,15,12,16.5,TRUE,Unit,Primal,311,3.9,1.2
+Overall,Death from Above,Common,16,15,16,FALSE,Spell,Primal,311,4.8,1.1
+Overall,Diving Pteriax,Common,16,14,16,FALSE,Unit,Primal,311,4.5,1.1
+Overall,Cryptic Etchings,Common,14,14,15.400000000000002,TRUE,Relic,Time,311,4.5,1
+Overall,Muck Crawler,Common,15,13,15,FALSE,Unit,Shadow,311,4.2,1.2
+Overall,Excavation Assistant,Common,13,11,14.3,TRUE,Unit,Time,311,3.5,1.2
+Overall,Voracious Fosora,Common,13,9,14.3,TRUE,Unit,Primal,311,2.9,1.4
+Overall,Hold Under,Common,14,13,14,FALSE,Spell,Primal,311,4.2,1.1
+Overall,Sorrow's Shroud,Common,12,12,13.200000000000001,TRUE,Weapon,Shadow,311,3.9,1
+Overall,Meditation,Common,12,12,13.200000000000001,TRUE,Fast Spell,Time,311,3.9,1
+Overall,Cabal Scavenger,Common,12,10,13.200000000000001,TRUE,Unit,Shadow,311,3.2,1.2
+Overall,Gorgon Cutthroat,Common,13,12,13,FALSE,Unit,Shadow,311,3.9,1.1
+Overall,Daze,Common,11,10,12.100000000000001,TRUE,Fast Spell,Neutral,311,3.2,1.1
+Overall,Trailblaze,Common,11,10,12.100000000000001,TRUE,Fast Spell,Primal,311,3.2,1.1
+Overall,Iceberg Frontrunner,Common,11,11,12.100000000000001,TRUE,Unit,Fire,311,3.5,1
+Overall,Improvised Club,Common,11,10,12.100000000000001,TRUE,Relic Weapon,Shadow,311,3.2,1.1
+Overall,Icebow,Common,10,10,11,TRUE,Weapon,Primal,311,3.2,1
+Overall,Viper's Bite,Common,10,9,11,TRUE,Fast Spell,Time,311,2.9,1.1
+Overall,Pack Hunt,Common,10,10,11,TRUE,Spell,Time,311,3.2,1
+Overall,Needlespitter,Common,11,10,11,FALSE,Unit,Fire,311,3.2,1.1
+Overall,Winnow,Common,10,9,10,FALSE,Spell,Shadow,311,2.9,1.1
+Overall,Heist,Common,9,9,9,FALSE,Spell,Justice,311,2.9,1
+Overall,Snowfort,Common,8,8,8.8,TRUE,Relic,Primal,311,2.6,1
+Overall,Afterimage,Common,8,8,8.8,TRUE,Spell,Shadow,311,2.6,1
+Overall,Backlash,Common,7,6,7.700000000000001,TRUE,Fast Spell,Primal,311,1.9,1.2
+Overall,Steadfast Deputy,Common,7,5,7.700000000000001,TRUE,Unit,Justice,311,1.6,1.4
+Overall,Dustblind,Common,7,7,7.700000000000001,TRUE,Spell,Fire,311,2.3,1
+Overall,Unchecked Aggression,Common,7,6,7,FALSE,Fast Spell,Shadow,311,1.9,1.2
+Overall,Crystal Dirk,Common,6,6,6.6000000000000005,TRUE,Weapon,Primal,311,1.9,1
+Overall,Cirso's Meddling,Common,5,4,5.5,TRUE,Fast Spell,Primal,311,1.3,1.2
+Overall,Light 'em Up,Common,5,5,5.5,TRUE,Fast Spell,Fire,311,1.6,1
+Overall,Overheat,Common,4,4,4.4,TRUE,Spell,Fire,311,1.3,1
+Overall,Spitfire,Common,4,4,4.4,TRUE,Relic,Fire,311,1.3,1
+Overall,Fragility,Common,4,4,4,FALSE,Curse,Primal,311,1.3,1
+Overall,Boot Knife,Common,4,4,4,FALSE,Relic Weapon,Shadow,311,1.3,1
+Overall,Brenn's Scrying,Common,4,3,4,FALSE,Spell,Fire,311,1,1.3
+Overall,Ruin,Common,3,3,3.3000000000000003,TRUE,Fast Spell,Fire,311,1,1
+Overall,Araktodon,Common,3,3,3.3000000000000003,TRUE,Unit,Primal,311,1,1
+Overall,Yeti Bully,Common,3,3,3,FALSE,Unit,Primal,311,1,1
+Overall,Sirocco Glider,Common,2,1,2,FALSE,Unit,Time,311,0.3,2
+Overall,Guns Blazing,Common,2,2,2,FALSE,Fast Spell,Fire,311,0.6,1
+Overall,Vicious Rumors,Common,2,1,2,FALSE,Spell,Shadow,311,0.3,2
+Overall,Astromancer's Compass,Common,1,1,1.1,TRUE,Relic,Neutral,311,0.3,1
+Overall,Barbarian Camp,Common,1,1,1,FALSE,Relic,Fire,311,0.3,1
+Overall,Lucky Prospector,Common,1,1,1,FALSE,Unit,Time,311,0.3,1
+Overall,Illumination Wisp,Common,1,1,1,FALSE,Unit,Time,311,0.3,1
+Overall,Fireheart Recruit,Common,1,1,1,FALSE,Unit,Fire,311,0.3,1
+Overall,Magmatic Sentinel,Common,1,1,1,FALSE,Unit,Fire,311,0.3,1
+Overall,Araktodon Egg,Common,1,1,1,FALSE,Relic,Time,311,0.3,1
+Overall,Sandcrawler,Common,1,1,1,FALSE,Unit,Time,311,0.3,1
+Overall,Infused Guardian,Common,1,1,1,FALSE,Unit,Time,311,0.3,1
+Overall,Powerbreach Sentinel,Common,1,1,1,FALSE,Unit,Time,311,0.3,1
+Overall,Sudden Stampede,Common,1,1,1,FALSE,Fast Spell,Time,311,0.3,1
+Overall,Heretic's Cannon,Uncommon,62,50,62,FALSE,Weapon,Fire,311,16.1,1.2
+Overall,Shugo Standard,Uncommon,45,40,58.5,TRUE,Power,Fire,311,12.9,1.1
+Overall,Suffocate,Uncommon,31,27,40.300000000000004,TRUE,Spell,Shadow,311,8.7,1.1
+Overall,Blurred Stygimoloch,Uncommon,40,33,40,FALSE,Unit,Time,311,10.6,1.2
+Overall,Beastcaller's Amulet,Uncommon,30,25,39,TRUE,Weapon,Shadow,311,8,1.2
+Overall,Outlaw Ringleader,Uncommon,38,34,38,FALSE,Unit,Fire,311,10.9,1.1
+Overall,Crownwatch Standard,Uncommon,29,25,37.7,TRUE,Power,Justice,311,8,1.2
+Overall,Flame Blast,Uncommon,28,26,36.4,TRUE,Spell,Fire,311,8.4,1.1
+Overall,Coverfire Marksman,Uncommon,36,30,36,FALSE,Unit,Fire,311,9.6,1.2
+Overall,Piercing Shot,Uncommon,27,25,35.1,TRUE,Spell,Fire,311,8,1.1
+Overall,Umbren Voidbringer,Uncommon,35,30,35,FALSE,Unit,Shadow,311,9.6,1.2
+Overall,Throne Warden,Uncommon,26,21,33.800000000000004,TRUE,Unit,Justice,311,6.8,1.2
+Overall,Cabal Standard,Uncommon,26,24,33.800000000000004,TRUE,Power,Shadow,311,7.7,1.1
+Overall,Rusty Grenamotive,Uncommon,26,22,33.800000000000004,TRUE,Unit,Fire,311,7.1,1.2
+Overall,Impatient Pyromage,Uncommon,33,29,33,FALSE,Unit,Fire,311,9.3,1.1
+Overall,Censari Dervish,Uncommon,33,32,33,FALSE,Unit,Fire,311,10.3,1
+Overall,Relentless Deadshot,Uncommon,32,29,32,FALSE,Unit,Justice,311,9.3,1.1
+Overall,Bladekin Apprentice,Uncommon,24,21,31.200000000000003,TRUE,Unit,Fire,311,6.8,1.1
+Overall,Outlands Brute,Uncommon,24,20,31.200000000000003,TRUE,Unit,Fire,311,6.4,1.2
+Overall,Spiteful Strike,Uncommon,31,28,31,FALSE,Fast Spell,Shadow,311,9,1.1
+Overall,Steel Legion,Uncommon,30,28,30,FALSE,Unit,Justice,311,9,1.1
+Overall,Plated Goliath,Uncommon,23,22,29.900000000000002,TRUE,Unit,Time,311,7.1,1
+Overall,Ruins Guide,Uncommon,29,28,29,FALSE,Unit,Fire,311,9,1
+Overall,Hipshot,Uncommon,22,18,28.6,TRUE,Spell,Fire,311,5.8,1.2
+Overall,Lethrai Direbeast,Uncommon,28,26,28,FALSE,Unit,Shadow,311,8.4,1.1
+Overall,Temple Standard,Uncommon,21,18,27.3,TRUE,Power,Time,311,5.8,1.2
+Overall,Death Ripple,Uncommon,27,27,27,FALSE,Spell,Shadow,311,8.7,1
+Overall,Combustion Brawler,Uncommon,27,24,27,FALSE,Unit,Fire,311,7.7,1.1
+Overall,Oni Cavediver,Uncommon,20,20,26,TRUE,Unit,Fire,311,6.4,1
+Overall,Novice Entomancer,Uncommon,26,21,26,FALSE,Unit,Time,311,6.8,1.2
+Overall,Frost Elemental,Uncommon,25,21,25,FALSE,Unit,Primal,311,6.8,1.2
+Overall,Horsesnatcher Bat,Uncommon,19,18,24.7,TRUE,Unit,Shadow,311,5.8,1.1
+Overall,Fallen Militiaman,Uncommon,23,19,23,FALSE,Unit,Shadow,311,6.1,1.2
+Overall,Seat of Mystery,Uncommon,17,13,22.1,TRUE,Power,Xenan,311,4.2,1.3
+Overall,Ceremonial Mask,Uncommon,17,17,22.1,TRUE,Relic Weapon,Justice,311,5.5,1
+Overall,Permafrost,Uncommon,17,17,22.1,TRUE,Curse,Primal,311,5.5,1
+Overall,Kosul Battlemage,Uncommon,17,16,22.1,TRUE,Unit,Justice,311,5.1,1.1
+Overall,Lightning Sprite,Uncommon,22,17,22,FALSE,Unit,Primal,311,5.5,1.3
+Overall,Bulbous Humbug,Uncommon,22,19,22,FALSE,Unit,Time,311,6.1,1.2
+Overall,Tantrum,Uncommon,21,19,21,FALSE,Spell,Fire,311,6.1,1.1
+Overall,Seat of Glory,Uncommon,16,12,20.8,TRUE,Power,Rakano,311,3.9,1.3
+Overall,Cabal Cutthroat,Uncommon,16,15,20.8,TRUE,Unit,Shadow,311,4.8,1.1
+Overall,Scorpion Wasp,Uncommon,16,15,20.8,TRUE,Unit,Time,311,4.8,1.1
+Overall,Healer's Cloak,Uncommon,16,16,20.8,TRUE,Weapon,Time,311,5.1,1
+Overall,Defiance,Uncommon,16,15,20.8,TRUE,Fast Spell,Justice,311,4.8,1.1
+Overall,Rampart Arbalest,Uncommon,15,15,19.5,TRUE,Relic Weapon,Justice,311,4.8,1
+Overall,Stinging Wind,Uncommon,15,15,19.5,TRUE,Unit,Time,311,4.8,1
+Overall,Stronghold Vandal,Uncommon,19,19,19,FALSE,Unit,Fire,311,6.1,1
+Overall,Wretched Talon,Uncommon,19,19,19,FALSE,Relic Weapon,Shadow,311,6.1,1
+Overall,Adolescent Deathjaw,Uncommon,19,18,19,FALSE,Unit,Time,311,5.8,1.1
+Overall,Ancient Lore,Uncommon,14,13,18.2,TRUE,Spell,Time,311,4.2,1.1
+Overall,Diplomatic Seal,Uncommon,14,13,18.2,TRUE,Power,Neutral,311,4.2,1.1
+Overall,Fearless Yeti,Uncommon,14,11,18.2,TRUE,Unit,Primal,311,3.5,1.3
+Overall,Unseen Ghostblade,Uncommon,18,18,18,FALSE,Relic Weapon,Justice,311,5.8,1
+Overall,Valkyrie Accuser,Uncommon,18,18,18,FALSE,Unit,Justice,311,5.8,1
+Overall,Burdenbearer Wisp,Uncommon,18,18,18,FALSE,Unit,Time,311,5.8,1
+Overall,Venomous Mount,Uncommon,17,15,17,FALSE,Unit,Time,311,4.8,1.1
+Overall,Seat of Progress,Uncommon,13,12,16.900000000000002,TRUE,Power,Combrei,311,3.9,1.1
+Overall,Seat of Chaos,Uncommon,13,12,16.900000000000002,TRUE,Power,Stonescar,311,3.9,1.1
+Overall,Clan Standard,Uncommon,13,13,16.900000000000002,TRUE,Power,Primal,311,4.2,1
+Overall,War Wagon,Uncommon,16,16,16,FALSE,Unit,Justice,311,5.1,1
+Overall,Keen Saddleback,Uncommon,16,14,16,FALSE,Unit,Primal,311,4.5,1.1
+Overall,Zuberi's Longbow,Uncommon,16,16,16,FALSE,Weapon,Fire,311,5.1,1
+Overall,Silverwing Familiar,Uncommon,12,12,15.600000000000001,TRUE,Unit,Justice,311,3.9,1
+Overall,Oasis Seeker,Uncommon,12,12,15.600000000000001,TRUE,Unit,Time,311,3.9,1
+Overall,Peaktop Trekker,Uncommon,15,11,15,FALSE,Unit,Primal,311,3.5,1.4
+Overall,Cloudsnake Matriarch,Uncommon,15,14,15,FALSE,Unit,Primal,311,4.5,1.1
+Overall,Hunting Anoura,Uncommon,15,14,15,FALSE,Unit,Shadow,311,4.5,1.1
+Overall,Stillweave Shroud,Uncommon,15,15,15,FALSE,Weapon,Time,311,4.8,1
+Overall,Lifedrinker,Uncommon,11,11,14.3,TRUE,Relic Weapon,Shadow,311,3.5,1
+Overall,Sewer Sludge,Uncommon,11,11,14.3,TRUE,Unit,Shadow,311,3.5,1
+Overall,Pitfall Trap,Uncommon,11,11,14.3,TRUE,Relic,Primal,311,3.5,1
+Overall,Shieldcrafter,Uncommon,14,12,14,FALSE,Unit,Justice,311,3.9,1.2
+Overall,Avalanche Yeti,Uncommon,14,12,14,FALSE,Unit,Primal,311,3.9,1.2
+Overall,Stonepowder Heretic,Uncommon,10,9,13,TRUE,Unit,Fire,311,2.9,1.1
+Overall,Silverwing Smith,Uncommon,10,10,13,TRUE,Unit,Justice,311,3.2,1
+Overall,Ancient Excavator,Uncommon,10,9,13,TRUE,Unit,Time,311,2.9,1.1
+Overall,Auric Weaponsmith,Uncommon,10,10,13,TRUE,Unit,Justice,311,3.2,1
+Overall,Aggressive Ursine,Uncommon,13,11,13,FALSE,Unit,Primal,311,3.5,1.2
+Overall,Cabal Repeater,Uncommon,13,11,13,FALSE,Unit,Shadow,311,3.5,1.2
+Overall,Swirl the Sands,Uncommon,13,12,13,FALSE,Fast Spell,Time,311,3.9,1.1
+Overall,Auric Reclaimer,Uncommon,12,12,12,FALSE,Unit,Shadow,311,3.9,1
+Overall,Stained Honor,Uncommon,12,10,12,FALSE,Unit,Shadow,311,3.2,1.2
+Overall,Darkweave Enchantress,Uncommon,12,11,12,FALSE,Unit,Shadow,311,3.5,1.1
+Overall,Praxis Insignia,Uncommon,12,11,12,FALSE,Power,Praxis,311,3.5,1.1
+Overall,Stonescar Insignia,Uncommon,12,11,12,FALSE,Power,Stonescar,311,3.5,1.1
+Overall,Trickster Mage,Uncommon,12,12,12,FALSE,Unit,Time,311,3.9,1
+Overall,Headhunter,Uncommon,12,9,12,FALSE,Unit,Justice,311,2.9,1.3
+Overall,Pioneering Aviator,Uncommon,12,10,12,FALSE,Unit,Justice,311,3.2,1.2
+Overall,Valkyrie Bodyguard,Uncommon,9,9,11.700000000000001,TRUE,Unit,Justice,311,2.9,1
+Overall,Ankle Cutter,Uncommon,9,9,11.700000000000001,TRUE,Unit,Fire,311,2.9,1
+Overall,Search Party,Uncommon,11,10,11,FALSE,Spell,Time,311,3.2,1.1
+Overall,Seat of Fury,Uncommon,8,7,10.4,TRUE,Power,Skycrag,311,2.3,1.1
+Overall,Seat of Impulse,Uncommon,8,8,10.4,TRUE,Power,Praxis,311,2.6,1
+Overall,Seat of Wisdom,Uncommon,8,8,10.4,TRUE,Power,Elysian,311,2.6,1
+Overall,Tundra Explorer,Uncommon,8,8,10.4,TRUE,Unit,Primal,311,2.6,1
+Overall,Skycrag Wyvarch,Uncommon,8,6,10.4,TRUE,Unit,Primal,311,1.9,1.3
+Overall,Horngrinder,Uncommon,8,8,10.4,TRUE,Unit,Justice,311,2.6,1
+Overall,Freewing Glider,Uncommon,8,8,10.4,TRUE,Weapon,Primal,311,2.6,1
+Overall,Sadistic Glee,Uncommon,8,8,10.4,TRUE,Unit,Shadow,311,2.6,1
+Overall,Seek Answers,Uncommon,10,10,10,FALSE,Spell,Neutral,311,3.2,1
+Overall,Isolate,Uncommon,10,10,10,FALSE,Fast Spell,Justice,311,3.2,1
+Overall,Wild Cloudsnake,Uncommon,7,7,9.1,TRUE,Unit,Primal,311,2.3,1
+Overall,Cloud of Ash,Uncommon,7,7,9.1,TRUE,Spell,Fire,311,2.3,1
+Overall,Calderan Gunsmith,Uncommon,7,7,9.1,TRUE,Unit,Fire,311,2.3,1
+Overall,Camp Physician,Uncommon,7,6,9.1,TRUE,Unit,Time,311,1.9,1.2
+Overall,Withering Touch,Uncommon,9,8,9,FALSE,Fast Spell,Shadow,311,2.6,1.1
+Overall,Combrei Insignia,Uncommon,9,9,9,FALSE,Power,Combrei,311,2.9,1
+Overall,Clan Barracks,Uncommon,9,9,9,FALSE,Relic,Fire,311,2.9,1
+Overall,Remembrance,Uncommon,8,8,8,FALSE,Spell,Shadow,311,2.6,1
+Overall,Temporal Adept,Uncommon,8,8,8,FALSE,Unit,Time,311,2.6,1
+Overall,Seat of Order,Uncommon,6,6,7.800000000000001,TRUE,Power,Hooru,311,1.9,1
+Overall,Seat of Vengeance,Uncommon,6,5,7.800000000000001,TRUE,Power,Argenport,311,1.6,1.2
+Overall,Seat of Cunning,Uncommon,6,6,7.800000000000001,TRUE,Power,Feln,311,1.9,1
+Overall,Bronze Cuirass,Uncommon,6,6,7.800000000000001,TRUE,Weapon,Justice,311,1.9,1
+Overall,Unlock Potential,Uncommon,6,6,7.800000000000001,TRUE,Spell,Time,311,1.9,1
+Overall,Snapping Brushstalker,Uncommon,6,5,7.800000000000001,TRUE,Unit,Time,311,1.6,1.2
+Overall,Granite Ring,Uncommon,6,6,7.800000000000001,TRUE,Relic,Fire,311,1.9,1
+Overall,Grenadin Bellower,Uncommon,6,5,7.800000000000001,TRUE,Unit,Shadow,311,1.6,1.2
+Overall,Family Charter,Uncommon,6,6,7.800000000000001,TRUE,Relic,Neutral,311,1.9,1
+Overall,Feed the Flames,Uncommon,6,5,7.800000000000001,TRUE,Spell,Fire,311,1.6,1.2
+Overall,Gathering Lights,Uncommon,6,5,7.800000000000001,TRUE,Spell,Time,311,1.6,1.2
+Overall,Porcelain Mask,Uncommon,6,6,7.800000000000001,TRUE,Relic,Time,311,1.9,1
+Overall,Silver Shortsword,Uncommon,7,6,7,FALSE,Relic Weapon,Justice,311,1.9,1.2
+Overall,Expedition Leader,Uncommon,7,7,7,FALSE,Unit,Time,311,2.3,1
+Overall,Stormcaller,Uncommon,5,4,6.5,TRUE,Unit,Primal,311,1.3,1.2
+Overall,Excavate,Uncommon,5,4,6.5,TRUE,Fast Spell,Time,311,1.3,1.2
+Overall,Heirloom Blade,Uncommon,5,5,6.5,TRUE,Relic Weapon,Justice,311,1.6,1
+Overall,Umbren Deathwatcher,Uncommon,5,5,6.5,TRUE,Unit,Shadow,311,1.6,1
+Overall,Rallying Banner,Uncommon,5,5,6.5,TRUE,Relic,Justice,311,1.6,1
+Overall,Storm Spiral,Uncommon,5,5,6.5,TRUE,Fast Spell,Primal,311,1.6,1
+Overall,Kemmo's Blueprints,Uncommon,6,6,6,FALSE,Spell,Justice,311,1.9,1
+Overall,Good Idea at the Time,Uncommon,6,6,6,FALSE,Spell,Primal,311,1.9,1
+Overall,Hooru Insignia,Uncommon,6,6,6,FALSE,Power,Hooru,311,1.9,1
+Overall,Feln Insignia,Uncommon,6,6,6,FALSE,Power,Feln,311,1.9,1
+Overall,Tinker Apprentice,Uncommon,4,4,5.2,TRUE,Unit,Justice,311,1.3,1
+Overall,Storm Talisman,Uncommon,4,3,5.2,TRUE,Relic,Primal,311,1,1.3
+Overall,Improvised Rubbler,Uncommon,4,4,5.2,TRUE,Relic Weapon,Fire,311,1.3,1
+Overall,Resolute Paladin,Uncommon,4,4,5.2,TRUE,Unit,Justice,311,1.3,1
+Overall,Initiation Bell,Uncommon,4,3,5.2,TRUE,Relic,Time,311,1,1.3
+Overall,Gustrider,Uncommon,5,5,5,FALSE,Unit,Primal,311,1.6,1
+Overall,Twinflame,Uncommon,5,5,5,FALSE,Fast Spell,Fire,311,1.6,1
+Overall,Touch of Grace,Uncommon,4,4,4,FALSE,Fast Spell,Justice,311,1.3,1
+Overall,Inner Might,Uncommon,4,4,4,FALSE,Fast Spell,Justice,311,1.3,1
+Overall,Reclaim,Uncommon,4,4,4,FALSE,Spell,Justice,311,1.3,1
+Overall,Slag,Uncommon,4,4,4,FALSE,Fast Spell,Fire,311,1.3,1
+Overall,Ferocity of Bear,Uncommon,4,4,4,FALSE,Spell,Primal,311,1.3,1
+Overall,Call to Arms,Uncommon,4,4,4,FALSE,Fast Spell,Fire,311,1.3,1
+Overall,Armorsmith,Uncommon,3,3,3.9000000000000004,TRUE,Unit,Justice,311,1,1
+Overall,Scare,Uncommon,3,3,3.9000000000000004,TRUE,Fast Spell,Shadow,311,1,1
+Overall,Reforge,Uncommon,3,3,3.9000000000000004,TRUE,Spell,Fire,311,1,1
+Overall,Headsman's Axe,Uncommon,3,3,3.9000000000000004,TRUE,Weapon,Shadow,311,1,1
+Overall,Encouragement,Uncommon,3,3,3.9000000000000004,TRUE,Spell,Justice,311,1,1
+Overall,Abduct,Uncommon,3,3,3.9000000000000004,TRUE,Spell,Shadow,311,1,1
+Overall,Betray the Cause,Uncommon,3,3,3.9000000000000004,TRUE,Spell,Shadow,311,1,1
+Overall,Dissociate,Uncommon,3,3,3.9000000000000004,TRUE,Fast Spell,Time,311,1,1
+Overall,Dinomancy Enthusiast,Uncommon,3,3,3,FALSE,Unit,Primal,311,1,1
+Overall,Re-read,Uncommon,3,3,3,FALSE,Spell,Primal,311,1,1
+Overall,Illicit Armament,Uncommon,3,3,3,FALSE,Spell,Shadow,311,1,1
+Overall,Potion of Alacrity,Uncommon,3,3,3,FALSE,Spell,Time,311,1,1
+Overall,Cinder Sprite,Uncommon,3,3,3,FALSE,Unit,Fire,311,1,1
+Overall,Infinite Hourglass,Uncommon,2,2,2.6,TRUE,Relic,Time,311,0.6,1
+Overall,Hidden Shiv,Uncommon,2,2,2.6,TRUE,Weapon,Fire,311,0.6,1
+Overall,Tower Shield,Uncommon,2,2,2.6,TRUE,Weapon,Justice,311,0.6,1
+Overall,Staff of the Arch-Magister,Uncommon,2,2,2.6,TRUE,Weapon,Fire,311,0.6,1
+Overall,Consuming Flames,Uncommon,2,2,2.6,TRUE,Spell,Fire,311,0.6,1
+Overall,Skycrag Huntsman,Uncommon,2,1,2,FALSE,Unit,Fire,311,0.3,2
+Overall,Swift Refusal,Uncommon,2,2,2,FALSE,Fast Spell,Primal,311,0.6,1
+Overall,Warning Jolt,Uncommon,2,2,2,FALSE,Fast Spell,Primal,311,0.6,1
+Overall,Read the Runes,Uncommon,2,2,2,FALSE,Fast Spell,Primal,311,0.6,1
+Overall,Icebreaker,Uncommon,1,1,1.3,TRUE,Unit,Primal,311,0.3,1
+Overall,Ghostform,Uncommon,1,1,1.3,TRUE,Spell,Shadow,311,0.3,1
+Overall,Snowcrust Yeti,Uncommon,1,1,1.3,TRUE,Unit,Primal,311,0.3,1
+Overall,Boltcrafter Shaman,Uncommon,1,1,1.3,TRUE,Unit,Primal,311,0.3,1
+Overall,Lumbering Gruan,Uncommon,1,1,1.3,TRUE,Unit,Primal,311,0.3,1
+Overall,Savage Denial,Uncommon,1,1,1.3,TRUE,Fast Spell,Primal,311,0.3,1
+Overall,Resurface,Uncommon,1,1,1.3,TRUE,Spell,Primal,311,0.3,1
+Overall,Reality Shift,Uncommon,1,1,1.3,TRUE,Spell,Time,311,0.3,1
+Overall,Rat Cage,Uncommon,1,1,1.3,TRUE,Relic,Shadow,311,0.3,1
+Overall,Blood Quill,Uncommon,1,1,1.3,TRUE,Relic,Shadow,311,0.3,1
+Overall,Fangs in the Dark,Uncommon,1,1,1.3,TRUE,Fast Spell,Shadow,311,0.3,1
+Overall,Noble Firemane,Uncommon,1,1,1,FALSE,Unit,Praxis,311,0.3,1
+Overall,Insistent Automaton,Uncommon,1,1,1,FALSE,Unit,Time,311,0.3,1
+Overall,Wildfire Censari,Uncommon,1,1,1,FALSE,Unit,Fire,311,0.3,1
+Overall,Stoneshell Walker,Uncommon,1,1,1,FALSE,Unit,Praxis,311,0.3,1
+Overall,Gilded Flames,Uncommon,1,1,1,FALSE,Fast Spell,Fire,311,0.3,1
+Overall,Cautious Traveler,Uncommon,1,1,1,FALSE,Unit,Fire,311,0.3,1
+Overall,Shingane Forge,Uncommon,1,1,1,FALSE,Relic,Fire,311,0.3,1
+Overall,Locust,Uncommon,1,1,1,FALSE,Unit,Time,311,0.3,1
+Overall,Maddening Whisper,Uncommon,1,1,1,FALSE,Fast Spell,Time,311,0.3,1
+Overall,Urn of Choking Embers,Uncommon,1,1,1,FALSE,Cursed Relic,Fire,311,0.3,1
+Overall,Firemane Lioness,Uncommon,1,1,1,FALSE,Unit,Fire,311,0.3,1
+Overall,Patience,Uncommon,1,1,1,FALSE,Spell,Time,311,0.3,1

@@ -89,8 +89,8 @@ write_csv(all_decks[1:20,]%>%
 #sum the number of each card across all decks
 card.sum <- all_decks %>%
   group_by(Name) %>%
-  summarise(total.cards = sum(Quantity), total.decks = n()) %>%
-  arrange(desc(total.cards))
+  summarise(TotalCards = sum(Quantity), total.decks = n()) %>%
+  arrange(desc(TotalCards))
 
 #####
 #percentage of each decks color pips
@@ -195,3 +195,58 @@ ridge.plot <- ggplot(deck.factions, aes(y = FactionRank)) +
 ridge.plots.by.faction <- ridge.plot +
   facet_wrap(~ GroupedDeckFaction)
 ridge.plots.by.faction
+
+###Random Analysis Stuff###
+
+formattable(comb.cards %>% 
+              filter(DraftPack == TRUE | Set == "Frontier") %>%      
+              group_by(Rarity, DraftPack) %>%
+              summarise(rarity.pack.cnt = n()) %>%
+              filter(Rarity %in% c("Common","Uncommon") & Faction %in% c("Fire", "Time", "Justice", "Primal", "Shadow", "Neutral")) %>%
+              arrange(Rarity, Faction)) 
+
+### Top Cards ####
+
+all_decks <- deck.factions %>%
+  select(DeckID, GroupedDeckFaction) %>%
+  distinct() %>%
+  right_join(all_decks, by = 'DeckID')
+
+deck.count <- all_decks %>%
+  select(DeckID, GroupedDeckFaction) %>%
+  distinct() %>%
+  count(GroupedDeckFaction,name = "NumberOfDecks")
+
+top.cards <- all_decks %>%
+  group_by(GroupedDeckFaction, CardCode) %>%
+  summarise(TotalCards = sum(Quantity), DecksWithCard = n()) %>%
+  left_join(comb.cards, by = 'CardCode') %>%
+  filter(Rarity %in% c("Common","Uncommon")) %>%
+  mutate(NormalizedTotalCards = ifelse(DraftPack == TRUE,
+                                 ifelse(Rarity == "Common", TotalCards *1.1, TotalCards*1.3)
+                                 ,TotalCards)) %>%
+  select(GroupedDeckFaction, Name, Rarity, TotalCards, DecksWithCard, NormalizedTotalCards, DraftPack, Type, Faction) %>%
+  arrange(GroupedDeckFaction, Rarity, desc(NormalizedTotalCards)) %>%
+  left_join(deck.count) %>%
+  mutate(PctDecksWithCard = round(DecksWithCard/NumberOfDecks*100,1),
+         AvgCopiesPerDeck = round(TotalCards/DecksWithCard,1))
+
+overall.top.cards <- all_decks %>%
+  group_by(CardCode) %>%
+  summarise(TotalCards = sum(Quantity), DecksWithCard = n()) %>%
+  left_join(comb.cards, by = 'CardCode') %>%
+  filter(Rarity %in% c("Common","Uncommon")) %>%
+  mutate(NormalizedTotalCards = ifelse(DraftPack == TRUE,
+                                       ifelse(Rarity == "Common", TotalCards *1.1, TotalCards*1.3)
+                                       ,TotalCards)) %>%
+  select(Name, Rarity, TotalCards, DecksWithCard, NormalizedTotalCards, DraftPack, Type, Faction) %>%
+  arrange(Rarity, desc(NormalizedTotalCards)) %>%
+  mutate(GroupedDeckFaction = "Overall",
+         NumberOfDecks = length(unique(all_decks$DeckID)),
+         PctDecksWithCard = round(DecksWithCard/NumberOfDecks*100,1),
+         AvgCopiesPerDeck = round(TotalCards/DecksWithCard,1)) %>%
+  select(colnames(top.cards))
+
+top.cards <- bind_rows(top.cards,overall.top.cards)
+
+write_csv(top.cards, "./7-win-explorer/data/top_cards.csv")
